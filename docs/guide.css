@@ -1,0 +1,72 @@
+.guide-shell { max-width: 880px; }
+.guide-back-link { color: var(--jade); font-size: 11px; font-weight: 800; text-decoration: none; }
+.guide-back-link span { margin-left: 8px; font-size: 16px; }
+.guide-back-link:hover { color: var(--jade-deep); }
+.guide-main { max-width: 780px; margin: 31px auto 56px; }
+.guide-eyebrow { margin-bottom: 11px; }
+.guide-main > h1 { margin: 0; color: var(--jade-deep); font-family: Georgia, "Noto Serif TC", serif; font-size: clamp(38px, 6vw, 58px); font-weight: 400; letter-spacing: -.06em; }
+.guide-intro { max-width: 560px; margin: 15px 0 30px; color: var(--muted); font-size: 14px; line-height: 1.8; }
+.guide-card { margin-top: 14px; padding: 25px 28px; background: rgba(255, 255, 252, .82); border: 1px solid rgba(214, 222, 215, .9); border-radius: 18px; box-shadow: 0 10px 32px rgba(36,57,52,.045); }
+.guide-highlight { color: #f7f4ea; background: var(--jade); border-color: var(--jade); }
+.guide-number { display: grid; place-items: center; flex: 0 0 30px; width: 30px; height: 30px; color: var(--jade); background: var(--jade-soft); border-radius: 50%; font-family: ui-monospace, monospace; font-size: 9px; font-weight: 800; letter-spacing: .04em; }
+.guide-highlight .guide-number { color: #d5bf88; background: rgba(231,168,75,.17); }
+.guide-card h2 { margin: 0; color: var(--ink); font-family: Georgia, "Noto Serif TC", serif; font-size: 21px; font-weight: 400; }
+.guide-highlight h2 { color: #fff8e9; }
+.guide-card p { color: var(--muted); font-size: 12px; line-height: 1.8; }
+.guide-highlight p { color: rgba(255,255,255,.7); }
+.guide-section-title { display: flex; align-items: flex-start; gap: 14px; margin-bottom: 20px; }
+.guide-section-title p { margin: 4px 0 0; }
+.device-columns, .mode-guide-grid, .guide-result-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 13px; margin-top: 20px; }
+.device-columns > div { padding: 14px; background: rgba(8,75,73,.65); border: 1px solid rgba(218,231,219,.15); border-radius: 11px; }
+.device-columns strong, .mode-guide-grid strong, .guide-result-grid strong, .mobile-help-grid strong { display: block; color: #f5d798; font-size: 12px; }
+.device-columns ol { margin: 10px 0 0; padding-left: 19px; color: rgba(255,255,255,.73); font-size: 11px; line-height: 1.8; }
+.guide-step-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.guide-step-list > div { display: flex; align-items: flex-start; gap: 9px; padding: 14px; background: #f5f7f0; border-radius: 11px; }
+.guide-step-list b { display: grid; place-items: center; flex: 0 0 22px; height: 22px; color: #fff; background: var(--jade); border-radius: 6px; font-size: 10px; }
+.guide-step-list p { margin: 0; font-size: 11px; line-height: 1.7; }
+.guide-step-list strong { color: var(--ink); }
+.mode-guide-grid { grid-template-columns: repeat(4, 1fr); margin-top: 0; }
+.mode-guide-grid > div { padding: 14px; background: #f5f7f0; border-radius: 11px; }
+.mode-guide-icon { display: grid; place-items: center; width: 31px; height: 31px; margin-bottom: 13px; color: var(--jade); background: var(--jade-soft); border-radius: 8px; font-family: ui-monospace, monospace; font-size: 10px; font-weight: 800; }
+.mode-guide-grid strong { color: var(--ink); }
+.mode-guide-grid p { margin-bottom: 0; font-size: 10px; line-height: 1.7; }
+.guide-bullets { display: grid; grid-template-columns: 1fr 1fr; gap: 11px 25px; margin: 0; padding-left: 18px; color: var(--muted); font-size: 12px; line-height: 1.8; }
+.guide-bullets strong { color: var(--ink); }
+.guide-result-grid { grid-template-columns: repeat(2, 1fr); margin-top: 0; }
+.guide-result-grid > div { padding: 13px 15px; border-left: 2px solid var(--sun); background: #fafbf7; border-radius: 0 9px 9px 0; }
+.guide-result-grid p { margin: 5px 0 0; }
+.guide-result-grid strong { color: var(--jade); }
+.guide-note-card { background: #fff8e8; border-color: #f0dfb9; }
+.guide-note-card h2 { color: #8e692f; }
+.guide-note-card p { color: #88775d; }
+.help-lead { margin-top: 0; color: var(--ink) !important; font-size: 13px !important; }
+.help-dialog .help-copy { max-height: calc(100vh - 125px); overflow-y: auto; }
+.help-steps { display: grid; gap: 9px; }
+.help-step { display: flex; align-items: flex-start; gap: 10px; padding: 10px; background: #f5f7f0; border-radius: 9px; }
+.help-step > span { display: grid; place-items: center; flex: 0 0 24px; height: 24px; color: var(--jade); background: var(--jade-soft); border-radius: 6px; font-family: ui-monospace, monospace; font-size: 8px; font-weight: 800; }
+.help-step strong { display: block; color: var(--ink); font-size: 11px; }
+.help-step p { margin: 3px 0 0; font-size: 10px; line-height: 1.65; }
+.mobile-help-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 13px; }
+.mobile-help-grid > div { padding: 11px; background: #fff8e8; border: 1px solid #f0dfb9; border-radius: 8px; }
+.mobile-help-grid strong { color: #8e692f; font-size: 10px; }
+.mobile-help-grid span { display: block; margin-top: 4px; color: #88775d; font-size: 9px; line-height: 1.6; }
+.help-guide-link { display: flex; align-items: center; justify-content: space-between; margin-top: 14px; padding: 11px 12px; color: var(--jade); background: var(--jade-soft); border: 1px solid #c2ddd0; border-radius: 8px; font-size: 10px; font-weight: 800; text-decoration: none; }
+.help-guide-link span { font-size: 16px; }
+.help-guide-link:hover { background: #cde4d8; }
+
+@media (max-width: 650px) {
+  .guide-shell .topbar { align-items: center; }
+  .guide-main { margin-top: 21px; }
+  .guide-main > h1 { font-size: 43px; }
+  .guide-intro { margin-top: 10px; font-size: 12px; }
+  .guide-card { padding: 19px 17px; }
+  .guide-card h2 { font-size: 19px; }
+  .device-columns, .guide-result-grid { grid-template-columns: 1fr; gap: 9px; }
+  .guide-step-list { grid-template-columns: 1fr; gap: 8px; }
+  .guide-step-list > div { padding: 11px; }
+  .mode-guide-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .mode-guide-grid > div { padding: 11px; }
+  .guide-bullets { grid-template-columns: 1fr; gap: 7px; padding-left: 16px; font-size: 11px; }
+  .mobile-help-grid { grid-template-columns: 1fr; }
+  .help-step { padding: 9px; }
+}

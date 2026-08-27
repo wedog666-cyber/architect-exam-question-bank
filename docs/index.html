@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0f615d" />
+    <meta name="description" content="建築師高考營建法規與實務、建築構造與施工歷屆試題練習站" />
+    <title>建築師考古題｜專注練習</title>
+    <link rel="stylesheet" href="styles.css?v=20260827.2" />
+    <link rel="stylesheet" href="guide.css?v=20260827.2" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#" id="brandHome" aria-label="回到首頁">
+          <span class="brand-mark" aria-hidden="true">尺</span>
+          <span>
+            <strong>建築師考古題</strong>
+            <small>ARCHITECT EXAM STUDIO</small>
+          </span>
+        </a>
+        <div class="topbar-actions">
+          <span class="sync-dot"><i></i> 紀錄儲存在本機</span>
+          <button class="icon-button" id="helpButton" type="button" aria-label="使用說明">?</button>
+        </div>
+      </header>
+
+      <main id="homeView" class="view">
+        <section class="hero-block">
+          <div class="hero-copy">
+            <p class="eyebrow">LICENSED ARCHITECT · PAST PAPERS</p>
+            <h1>把每一道題，<br /><em>變成你的結構。</em></h1>
+            <p class="hero-description">從法規到構造，按自己的節奏重做歷屆試題。先選模式，剩下的交給專注。</p>
+          </div>
+          <div class="hero-orbit" aria-hidden="true">
+            <div class="orbit-ring ring-one"></div>
+            <div class="orbit-ring ring-two"></div>
+            <div class="orbit-label label-top">RULES</div>
+            <div class="orbit-label label-right">BUILD</div>
+            <div class="orbit-label label-bottom">REPEAT</div>
+            <div class="orbit-core"><span id="heroQuestionCount">1,680</span><small>題已整理</small></div>
+          </div>
+        </section>
+
+        <section class="workspace-grid" aria-label="開始練習">
+          <aside class="setup-card panel-card">
+            <div class="section-kicker"><span>01</span> 設定你的練習</div>
+            <form id="quizSetupForm">
+              <label class="field-label" for="subjectSelect">科目</label>
+              <select class="select-control" id="subjectSelect">
+                <option value="all">全部科目</option>
+              </select>
+
+              <label class="field-label" for="yearSelect">年度</label>
+              <select class="select-control" id="yearSelect">
+                <option value="all">不限年度</option>
+              </select>
+
+              <div class="field-label mode-label">練習模式</div>
+              <div id="modeList" class="mode-list" role="list">
+                <button class="mode-option is-selected" type="button" data-mode="quick">
+                  <span class="mode-icon">10</span>
+                  <span class="mode-text"><strong>快速練習</strong><small>10 題 · 不限時</small></span>
+                  <span class="mode-check">✓</span>
+                </button>
+                <button class="mode-option" type="button" data-mode="balanced">
+                  <span class="mode-icon">◎</span>
+                  <span class="mode-text"><strong>均衡抽題</strong><small>20 題 · 跨年度平均取樣</small></span>
+                  <span class="mode-check">✓</span>
+                </button>
+                <button class="mode-option" type="button" data-mode="mock">
+                  <span class="mode-icon">80</span>
+                  <span class="mode-text"><strong>年度模擬</strong><small>80 題 · 120 分鐘</small></span>
+                  <span class="mode-check">✓</span>
+                </button>
+                <button class="mode-option" type="button" data-mode="wrong">
+                  <span class="mode-icon">↻</span>
+                  <span class="mode-text"><strong>錯題複習</strong><small id="wrongModeDescription">尚無錯題紀錄</small></span>
+                  <span class="mode-check">✓</span>
+                </button>
+              </div>
+
+              <div class="setup-footnote"><span class="footnote-mark">i</span><span id="selectionSummary">將從全部科目中隨機抽取 10 題</span></div>
+              <button class="primary-button start-button" id="startQuizButton" type="submit">
+                開始練習 <span aria-hidden="true">→</span>
+              </button>
+            </form>
+          </aside>
+
+          <section class="dashboard-column">
+            <div class="section-kicker"><span>02</span> 你的練習狀態</div>
+            <div class="stat-grid" id="statGrid">
+              <article class="stat-card"><span class="stat-label">完成測驗</span><strong id="statCompleted">0</strong><span class="stat-meta">次</span></article>
+              <article class="stat-card accent-card"><span class="stat-label">平均正確率</span><strong id="statAverage">—</strong><span class="stat-meta">全部模式</span></article>
+              <article class="stat-card"><span class="stat-label">待複習錯題</span><strong id="statWrong">0</strong><span class="stat-meta">題</span></article>
+            </div>
+            <div class="dashboard-panels">
+              <section class="mini-panel panel-card">
+                <div class="panel-heading"><h2>最近練習</h2><span class="tiny-label">LATEST</span></div>
+                <div id="recentHistory" class="history-list"><div class="empty-state">完成一次練習後，結果會出現在這裡。</div></div>
+              </section>
+              <section class="mini-panel panel-card">
+                <div class="panel-heading"><h2>需要再看一眼</h2><span class="tiny-label">WEAK UNITS</span></div>
+                <div id="weakUnits" class="weak-list"><div class="empty-state">錯題會依單元累計，幫你找到下個落點。</div></div>
+              </section>
+            </div>
+          </section>
+        </section>
+
+        <section class="library-strip panel-card">
+          <div class="library-intro"><span class="library-icon">▦</span><div><strong>題庫已整理</strong><span>來自 104–114 年建築師高考試題</span></div></div>
+          <div class="library-subject"><span class="subject-dot legal-dot"></span><div><strong>營建法規與實務</strong><span id="legalCount">800 題</span></div></div>
+          <div class="library-subject"><span class="subject-dot structure-dot"></span><div><strong>建築構造與施工</strong><span id="structureCount">880 題</span></div></div>
+          <div class="library-note">答案修正檔優先套用<br /><span>撤銷題依原始備註計分</span></div>
+        </section>
+      </main>
+
+      <main id="quizView" class="view quiz-view" hidden>
+        <div class="quiz-toolbar">
+          <button class="back-link" id="quitQuizButton" type="button"><span aria-hidden="true">←</span> 返回設定</button>
+          <div class="quiz-toolbar-title"><span id="quizModeLabel">快速練習</span><span class="toolbar-divider">/</span><span id="quizFilterLabel">全部科目</span></div>
+          <div class="timer-chip" id="timerChip" hidden><span class="timer-pulse"></span><span id="timerText">不限時</span></div>
+        </div>
+
+        <div class="progress-line"><span id="progressBar"></span></div>
+        <section class="quiz-layout">
+          <aside class="question-sidebar panel-card">
+            <div class="progress-copy"><span class="tiny-label">PROGRESS</span><strong><span id="currentQuestionNumber">01</span><small> / <span id="totalQuestionNumber">10</span></small></strong></div>
+            <div class="question-progress-track"><span id="questionProgressFill"></span></div>
+            <div class="sidebar-divider"></div>
+            <div class="sidebar-label"><span>題目導覽</span><span id="answeredCount">0 已作答</span></div>
+            <div id="questionPalette" class="question-palette" aria-label="題目導覽"></div>
+            <div class="palette-legend"><span><i class="legend-dot answered"></i> 已作答</span><span><i class="legend-dot flagged"></i> 標記</span></div>
+            <div class="sidebar-tip"><span>⌁</span><p>先寫會的。卡住時標記，最後再回來。</p></div>
+          </aside>
+
+          <section class="question-stage">
+            <div class="question-meta"><span class="question-index" id="questionIndexLabel">QUESTION 01</span><span class="subject-tag" id="questionSubjectTag">營建法規與實務</span><button class="source-button" id="sourceButton" type="button">原卷第 1 頁 ↗</button></div>
+            <article class="question-card panel-card">
+              <div class="question-card-head"><span class="question-number-large" id="largeQuestionNumber">01</span><button class="flag-button" id="flagButton" type="button" aria-pressed="false"><span aria-hidden="true">⚑</span> 標記這題</button></div>
+              <h1 id="questionText" class="question-text">題目載入中…</h1>
+              <div id="questionOptions" class="answer-options" role="radiogroup" aria-label="答案選項"></div>
+              <div id="questionImageHint" class="question-image-hint" hidden><span>▧</span> 本題包含原卷圖示，請點選右上角「原卷第 X 頁」查看。</div>
+            </article>
+            <div class="question-actions"><button class="secondary-button" id="prevQuestionButton" type="button">← 上一題</button><button class="primary-button next-button" id="nextQuestionButton" type="button">下一題 <span aria-hidden="true">→</span></button></div>
+          </section>
+        </section>
+      </main>
+
+      <main id="resultView" class="view result-view" hidden>
+        <div class="result-topline"><button class="back-link" id="resultHomeButton" type="button"><span aria-hidden="true">←</span> 回到首頁</button><span class="tiny-label">COMPLETION REPORT</span><span id="resultDate" class="result-date"></span></div>
+        <section class="result-hero panel-card">
+          <div class="result-copy"><p class="eyebrow">PRACTICE COMPLETE</p><h1 id="resultTitle">這一回，完成。</h1><p id="resultSubtitle">把錯的留下來，下一回會更快。</p></div>
+          <div class="score-orbit"><div class="score-ring"><strong id="resultScore">0%</strong><span>正確率</span></div></div>
+        </section>
+        <section class="result-stats stat-grid">
+          <article class="stat-card"><span class="stat-label">答對</span><strong id="resultCorrect">0</strong><span class="stat-meta">題</span></article>
+          <article class="stat-card"><span class="stat-label">未答／答錯</span><strong id="resultMissed">0</strong><span class="stat-meta">題</span></article>
+          <article class="stat-card accent-card"><span class="stat-label">作答時間</span><strong id="resultTime">00:00</strong><span class="stat-meta" id="resultTimeMeta">—</span></article>
+        </section>
+        <section class="result-content-grid">
+          <section class="review-panel panel-card"><div class="panel-heading"><h2>逐題檢討</h2><span id="reviewCountLabel" class="tiny-label">0 題</span></div><div class="review-filter" id="reviewFilter"><button type="button" class="is-active" data-review-filter="all">全部</button><button type="button" data-review-filter="wrong">錯題</button><button type="button" data-review-filter="unanswered">未答</button></div><div id="reviewList" class="review-list"></div></section>
+          <aside class="result-side"><section class="unit-result panel-card"><div class="panel-heading"><h2>單元表現</h2><span class="tiny-label">BY UNIT</span></div><div id="resultUnits" class="unit-list"></div></section><div class="result-buttons"><button class="primary-button" id="retryButton" type="button">再練一次 <span>↻</span></button><button class="secondary-button" id="resultHomeButton2" type="button">回到首頁</button></div></aside>
+        </section>
+      </main>
+
+      <footer class="site-footer"><span>建築師考古題 · 專注練習</span><span>Static study desk / v1.0</span></footer>
+    </div>
+
+    <dialog id="sourceDialog" class="source-dialog">
+      <div class="dialog-head"><div><span class="tiny-label">ORIGINAL PAPER</span><h2 id="sourceDialogTitle">原卷頁面</h2></div><button id="closeSourceButton" class="dialog-close" type="button" aria-label="關閉">×</button></div>
+      <div class="source-image-wrap"><img id="sourceDialogImage" alt="原卷題目頁面" /></div>
+      <p class="dialog-caption">原卷頁面僅供對照，作答時仍以題目卡內容為準。</p>
+    </dialog>
+    <dialog id="helpDialog" class="help-dialog">
+      <div class="dialog-head"><div><span class="tiny-label">HOW IT WORKS</span><h2>把練習變成節奏</h2></div><button id="closeHelpButton" class="dialog-close" type="button" aria-label="關閉">×</button></div>
+      <div class="help-copy">
+        <p class="help-lead">這個網站是為手機短時間練習設計的，照下面 4 步就能開始。</p>
+        <div class="help-steps">
+          <div class="help-step"><span>01</span><div><strong>先選科目與年度</strong><p>不確定時可維持「全部科目／不限年度」；想刷整份試卷，再選指定科目與年度。</p></div></div>
+          <div class="help-step"><span>02</span><div><strong>挑一種練習模式</strong><p>每日暖身選快速練習；想平均碰到各年度選均衡抽題；考前使用年度模擬。</p></div></div>
+          <div class="help-step"><span>03</span><div><strong>滑動作答與導覽</strong><p>點選答案後按「下一題」。上方題號列可左右滑動，點題號能跳題；卡住的題目可按「標記這題」。</p></div></div>
+          <div class="help-step"><span>04</span><div><strong>交卷後看錯題</strong><p>完成測驗才會保存紀錄。答錯或未答的題目會進入錯題複習，也能查看原卷頁面對照。</p></div></div>
+        </div>
+        <div class="mobile-help-grid"><div><strong>手機小技巧</strong><span>原卷圖示較小時，可在對照視窗內雙指放大，或將手機橫放。</span></div><div><strong>紀錄在哪裡</strong><span>成績只存於目前瀏覽器，不會上傳；清除瀏覽器資料後紀錄會消失。</span></div></div>
+        <a class="help-guide-link" href="guide.html">開啟完整手機使用說明 <span>↗</span></a>
+        <p class="help-note">題庫來源：104–114 年建築師高考「營建法規與實務」、「建築構造與施工」試題 PDF；答案修正檔優先套用。</p>
+      </div>
+    </dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="app.js?v=20260827.2"></script>
+  </body>
+</html>
