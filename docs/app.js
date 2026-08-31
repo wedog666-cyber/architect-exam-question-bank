@@ -1,4 +1,4 @@
-const DATA_URL = "data/questions.json";
+const DATA_URL = "data/questions.json?v=20260831.1";
 const STORAGE_KEYS = {
   history: "architectQuiz.history.v1",
   wrong: "architectQuiz.wrong.v1",
@@ -16,6 +16,7 @@ const state = {
   questions: [],
   mode: "quick",
   subject: "all",
+  legalCategory: "all",
   year: "all",
   activeQuestions: [],
   answers: {},
@@ -35,6 +36,8 @@ const dom = {
   quiz: $("#quizView"),
   result: $("#resultView"),
   subject: $("#subjectSelect"),
+  legalCategory: $("#legalCategorySelect"),
+  legalCategoryHint: $("#legalCategoryHint"),
   year: $("#yearSelect"),
   modeList: $("#modeList"),
   setupForm: $("#quizSetupForm"),
@@ -166,17 +169,43 @@ function getSubjectName(code) {
   return state.questions.find((question) => question.subjectCode === code)?.subject || "全部科目";
 }
 
+function getLegalCategories() {
+  const metadataCategories = state.data?.metadata?.legalCategories;
+  if (Array.isArray(metadataCategories) && metadataCategories.length) {
+    return metadataCategories.filter((category) => category.questionCount > 0);
+  }
+  const categories = new Map();
+  state.questions.forEach((question) => {
+    if (!question.legalCategoryCode || !question.legalCategory) return;
+    const existing = categories.get(question.legalCategoryCode) || {
+      code: question.legalCategoryCode,
+      name: question.legalCategory,
+      questionCount: 0,
+    };
+    existing.questionCount += 1;
+    categories.set(question.legalCategoryCode, existing);
+  });
+  return [...categories.values()];
+}
+
+function getLegalCategoryName(code) {
+  return getLegalCategories().find((category) => category.code === code)?.name || "全部法規分類";
+}
+
 function getFilterLabel() {
   const subject = state.subject === "all" ? "全部科目" : getSubjectName(state.subject);
   const year = state.year === "all" ? "不限年度" : `${state.year} 年`;
-  return state.year === "all" && state.subject === "all" ? subject : `${subject} · ${year}`;
+  const category = state.legalCategory === "all" ? null : getLegalCategoryName(state.legalCategory);
+  if (state.year === "all" && state.subject === "all" && !category) return subject;
+  return [subject, category, year].filter(Boolean).join(" · ");
 }
 
 function filteredQuestions() {
   return state.questions.filter((question) => {
     const subjectMatch = state.subject === "all" || question.subjectCode === state.subject;
+    const categoryMatch = state.legalCategory === "all" || question.legalCategoryCode === state.legalCategory;
     const yearMatch = state.year === "all" || String(question.year) === String(state.year);
-    return subjectMatch && yearMatch;
+    return subjectMatch && categoryMatch && yearMatch;
   });
 }
 
@@ -205,7 +234,20 @@ function renderFilters() {
   const subjects = [...new Map(state.questions.map((question) => [question.subjectCode, question.subject])).entries()];
   dom.subject.innerHTML = `<option value="all">全部科目</option>${subjects.map(([code, name]) => `<option value="${escapeHtml(code)}">${escapeHtml(name)}</option>`).join("")}`;
   dom.subject.value = state.subject;
+  renderLegalCategories();
   refreshYears();
+}
+
+function renderLegalCategories() {
+  const categories = getLegalCategories();
+  const categoryStillExists = state.legalCategory === "all" || categories.some((category) => category.code === state.legalCategory);
+  if (!categoryStillExists || state.subject === "structure") state.legalCategory = "all";
+  dom.legalCategory.innerHTML = `<option value="all">全部法規分類</option>${categories.map((category) => `<option value="${escapeHtml(category.code)}">${escapeHtml(category.name)}（${category.questionCount} 題）</option>`).join("")}`;
+  dom.legalCategory.value = state.legalCategory;
+  dom.legalCategory.disabled = state.subject === "structure";
+  dom.legalCategoryHint.textContent = state.subject === "structure"
+    ? "法規分類只適用於營建法規與實務。"
+    : "選擇分類後，科目會自動切換為營建法規與實務。";
 }
 
 function refreshYears() {
@@ -279,7 +321,7 @@ function startQuiz(mode = state.mode) {
     return;
   }
   if (config.count > pool.length && mode === "mock") {
-    showToast("年度模擬需要至少 80 題，請放寬科目或年度篩選。");
+    showToast("年度模擬需要至少 80 題，請放寬法規分類、科目或年度篩選。");
     return;
   }
   state.activeQuestions = chooseQuestions(pool, config);
@@ -331,7 +373,7 @@ function renderQuestion() {
   dom.questionProgressFill.style.width = `${(position / total) * 100}%`;
   dom.progressBar.style.width = `${(position / total) * 100}%`;
   dom.questionIndexLabel.textContent = `QUESTION ${positionLabel}`;
-  dom.questionSubjectTag.textContent = `${question.year} 年 · ${question.subject}`;
+  dom.questionSubjectTag.textContent = `${question.year} 年 · ${question.legalCategory || question.subject}`;
   dom.largeQuestionNumber.textContent = positionLabel;
   dom.questionText.textContent = question.questionText;
   dom.flagButton.classList.toggle("is-flagged", state.flagged.has(question.id));
@@ -447,6 +489,8 @@ function saveCompletedResult(result) {
       subjectCode: question.subjectCode,
       year: question.year,
       unit: question.unit,
+      legalCategoryCode: question.legalCategoryCode,
+      legalCategory: question.legalCategory,
       count: 0,
     };
     wrong[question.id] = { ...old, count: old.count + 1, lastSeen: result.completedAt };
@@ -569,7 +613,20 @@ function openSourceById(id) {
 function bindEvents() {
   dom.subject.addEventListener("change", () => {
     state.subject = dom.subject.value;
+    if (state.subject === "structure") state.legalCategory = "all";
     state.year = "all";
+    renderLegalCategories();
+    refreshYears();
+    renderHome();
+  });
+  dom.legalCategory.addEventListener("change", () => {
+    state.legalCategory = dom.legalCategory.value;
+    if (state.legalCategory !== "all") {
+      state.subject = "legal";
+      dom.subject.value = "legal";
+    }
+    state.year = "all";
+    renderLegalCategories();
     refreshYears();
     renderHome();
   });

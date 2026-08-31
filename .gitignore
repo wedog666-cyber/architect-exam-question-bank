@@ -1,0 +1,3 @@
+*.rar
+tmp/
+__pycache__/
