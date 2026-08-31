@@ -1,4 +1,4 @@
-const DATA_URL = "data/questions.json?v=20260831.1";
+const DATA_URL = "data/questions.json?v=20260831.2";
 const STORAGE_KEYS = {
   history: "architectQuiz.history.v1",
   wrong: "architectQuiz.wrong.v1",

@@ -23,9 +23,14 @@
     ],
     "legalCategories": [
       {
+        "code": "accessible-facilities-design",
+        "name": "無障礙設施設計規範",
+        "questionCount": 72
+      },
+      {
         "code": "building-technical-regulations",
         "name": "建築技術規則",
-        "questionCount": 145
+        "questionCount": 144
       },
       {
         "code": "architect-act",
@@ -55,12 +60,12 @@
       {
         "code": "planning-and-land-use",
         "name": "都市計畫與國土使用",
-        "questionCount": 91
+        "questionCount": 92
       },
       {
         "code": "interior-and-public-safety",
         "name": "室內裝修與公共安全",
-        "questionCount": 28
+        "questionCount": 29
       },
       {
         "code": "building-act-and-management",
@@ -70,10 +75,10 @@
       {
         "code": "other-related-regulations",
         "name": "其他相關法規",
-        "questionCount": 266
+        "questionCount": 193
       }
     ],
-    "legalCategoryPolicy": "依題幹明示的法規名稱歸類；未明示者列為其他相關法規。",
+    "legalCategoryPolicy": "依題幹明示的法規名稱歸類；無障礙設施設計另以高辨識度專有用語補充分類，無法判定者列為其他相關法規。",
     "answerPolicy": "答案修正檔優先；撤銷題依備註採多重給分。"
   },
   "cleaningReport": {
@@ -2796,8 +2801,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 71,
       "questionText": "除地面層無障礙通路外，下列何者可免設無障礙設施？",
       "options": [
@@ -2834,8 +2839,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "無障礙設施之室內通路走廊寬度小於150公分時，通路走廊盡頭應有一多少範圍之迴轉空間？",
       "options": [
@@ -2872,8 +2877,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 73,
       "questionText": "建築物無障礙設施避難層出入口前應設置平台，平台淨寬與出入口同寬，且最大不得小於 X 公分， 淨深最大不得小於Y公分，且坡度不得大於1/Z，下列敘述何者正確？",
       "options": [
@@ -2910,8 +2915,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 74,
       "questionText": "無障礙坡道之坡度，依規定至大不得大於多少斜率？",
       "options": [
@@ -2951,8 +2956,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 75,
       "questionText": "無障礙通道之扶手如為圓形，其直徑下列何者正確？",
       "options": [
@@ -2989,8 +2994,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 76,
       "questionText": "有關供行動不便者使用之無障礙昇降機設計規範，下列敘述何者正確？①若供集合住宅使用，昇降 機門淨寬最小不得小於90公分 ②若供集合住宅使用，昇降機機廂深度不得小於125公分 ③機廂 內至少兩側牆面需設置扶手 ④若供集合住宅使用，昇降機機廂內可以不設置語音系統",
       "options": [
@@ -3027,8 +3032,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 77,
       "questionText": "有關公共建築物行動不便者使用設施規定之敘述，下列何者正確？",
       "options": [
@@ -3065,8 +3070,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 78,
       "questionText": "有關無障礙設施「輪椅觀眾席位」之規定，下列何者錯誤？",
       "options": [
@@ -3103,8 +3108,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 79,
       "questionText": "有關無障礙機車停車位的設置方式，下列敘述何者正確？",
       "options": [
@@ -3141,8 +3146,8 @@
       "subjectCode": "legal",
       "year": 105,
       "unit": "營建法規與實務｜105 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 80,
       "questionText": "有關無障礙客房規定，下列何者錯誤？",
       "options": [
@@ -4169,8 +4174,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 27,
       "questionText": "有關無障礙廁所盥洗室，下列何者錯誤？",
       "options": [
@@ -4511,8 +4516,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 36,
       "questionText": "設置於無障礙坡道上之雙道扶手，上下扶手高度應分別為X公分及Y公分，下列數字何者正確？",
       "options": [
@@ -5765,8 +5770,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 69,
       "questionText": "新建集合住宅之建築物，依法應設置250輛停車位，至少應設置多少無障礙停車位？",
       "options": [
@@ -5879,8 +5884,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "某一建設公司因應市場需求計畫在新北市新建住宅商品，為便利行動不便者進出及使用建築物，該 公司依法令所設想的無障礙設施設置原則，下列何者錯誤？",
       "options": [
@@ -5917,8 +5922,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 73,
       "questionText": "為便利行動不便者進出及使用建築物，新建或增建建築物，依法需設置之無障礙設施或設備之敘述 下列何者錯誤？",
       "options": [
@@ -5955,8 +5960,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "building-technical-regulations",
-      "legalCategory": "建築技術規則",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 74,
       "questionText": "依據建築技術規則所擬定之建築物無障礙設施設計規範內容，下列敘述何者正確？",
       "options": [
@@ -5993,8 +5998,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 75,
       "questionText": "建築物無障礙設施室外通路範圍內，如需設置水溝格柵或其他開口，在主要行進之方向，開口不得 大於多少公分？",
       "options": [
@@ -6069,8 +6074,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 77,
       "questionText": "無障礙樓梯之梯級未鄰接牆壁部分應設置至少高出多少公分以上之防護緣？",
       "options": [
@@ -6107,8 +6112,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 78,
       "questionText": "有關無障礙廁所盥洗室，下列何者不符規定？",
       "options": [
@@ -6145,8 +6150,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 79,
       "questionText": "有關無障礙昇降機的引導標誌設置，下列敘述何者正確？",
       "options": [
@@ -6183,8 +6188,8 @@
       "subjectCode": "legal",
       "year": 106,
       "unit": "營建法規與實務｜106 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 80,
       "questionText": "有關無障礙停車位的設置規範，下列何者正確？①位於地下停車空間之無障礙停車位應設置車位豎 立標誌 ②停車位之地坪應設置無障礙停車位標誌 ③停車位地坪面上標誌圖之尺寸不得小於80公 分×80公分 ④停車位地面高低差不得大於0.5公分，坡度不得大於2%",
       "options": [
@@ -6221,8 +6226,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 1,
       "questionText": "有關無障礙設施「輪椅觀眾席位」規定下列何者錯誤？",
       "options": [
@@ -6259,8 +6264,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 2,
       "questionText": "航空站之無障礙設施樓梯，扶手與欄杆規定，下列何者錯誤？",
       "options": [
@@ -6297,8 +6302,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 3,
       "questionText": "無障礙室內出入口之門扇打開時，門框間之距離不得小於 X 公分，折疊門推開後扣除折疊之門扇後 之距離不得小於Y公分，下列敘述何者正確？",
       "options": [
@@ -6373,8 +6378,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 5,
       "questionText": "建築物無障礙設施設計規範之廁所盥洗室有關洗面盆規定，下列敘述何者錯誤？",
       "options": [
@@ -6981,8 +6986,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 21,
       "questionText": "無障礙通路有關出入口之敘述，下列何者錯誤？",
       "options": [
@@ -8236,8 +8241,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 54,
       "questionText": "辦公大樓建築物其地面以上樓層在三樓以下者，至少應設置一處無障礙廁所盥洗室。超過三層以上， 每增加三層且有一層以上之樓地板面積超過多少平方公尺者，應於每增加三層之範圍內分別設置一 處無障礙廁所盥洗室？",
       "options": [
@@ -8733,8 +8738,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "interior-and-public-safety",
+      "legalCategory": "室內裝修與公共安全",
       "questionNumber": 67,
       "questionText": "有一非防火構造建築物，其主要構造採不燃材料建造，擬依原有合法建築物防火避難設施及消防設 備改善辦法改善防火區劃，請問其每一區劃樓地板面積，最大不得大於多少平方公尺？",
       "options": [
@@ -9075,8 +9080,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 76,
       "questionText": "有關無障礙設施「輪椅觀眾席位」規定下列何者錯誤？",
       "options": [
@@ -9113,8 +9118,8 @@
       "subjectCode": "legal",
       "year": 107,
       "unit": "營建法規與實務｜107 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 77,
       "questionText": "小學之無障礙雙層扶手，其上緣與地板面距離之高度分別為多少公分？",
       "options": [
@@ -11318,8 +11323,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "planning-and-land-use",
+      "legalCategory": "都市計畫與國土使用",
       "questionNumber": 55,
       "questionText": "據媒體報導，目前國內非法露營區到處林立，影響水土保持、生態環境及公共安全，依非都市土地 使用管制規則規定，下列敘述何者正確？",
       "options": [
@@ -11853,8 +11858,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 69,
       "questionText": "依建築物無障礙設施設計規範之輪椅觀眾席位尺寸，下列敘述何者錯誤？",
       "options": [
@@ -11891,8 +11896,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 70,
       "questionText": "依據建築物無障礙設施設計規範，有關無障礙汽車與無障礙機車停車位之規定，下列敘述何者錯誤？",
       "options": [
@@ -11967,8 +11972,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "有關供行動不便者使用之無障礙昇降設備相關規定，下列敘述何者正確？",
       "options": [
@@ -12005,8 +12010,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 73,
       "questionText": "有關無障礙停車位的設置規範，下列敘述何者正確？①無障礙停車位應設於最靠近建築物無障礙出 入口或無障礙昇降機之位置 ②停車空間之入口引導標誌應與行進方向平行，以利辨識 ③在車道 入口處及車道沿路轉彎處應設置明顯之指引標誌 ④汽車停車位長度不得小於 550 公分、寬度不得 小於300公分",
       "options": [
@@ -12043,8 +12048,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 74,
       "questionText": "無障礙坡道，坡道每高差多少公分，應設置長度150公分以上之平台？",
       "options": [
@@ -12081,8 +12086,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 75,
       "questionText": "辦公室之無障礙昇降機機廂深度至少不得小於多少公分？",
       "options": [
@@ -12119,8 +12124,8 @@
       "subjectCode": "legal",
       "year": 108,
       "unit": "營建法規與實務｜108 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 76,
       "questionText": "依建築物無障礙設施設計規範規定，無障礙廁所盥洗室馬桶之設置，馬桶前緣淨空間之最小距離至 少為多少公分？",
       "options": [
@@ -12575,8 +12580,8 @@
       "subjectCode": "legal",
       "year": 109,
       "unit": "營建法規與實務｜109 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 8,
       "questionText": "無障礙昇降設備之昇降機廂規定，下列敘述何者錯誤？",
       "options": [
@@ -12651,8 +12656,8 @@
       "subjectCode": "legal",
       "year": 109,
       "unit": "營建法規與實務｜109 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 10,
       "questionText": "有關獨棟或連棟建築物免設無障礙室外通路之規定，下列敘述何者錯誤？",
       "options": [
@@ -12730,8 +12735,8 @@
       "subjectCode": "legal",
       "year": 109,
       "unit": "營建法規與實務｜109 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 12,
       "questionText": "無障礙坡道之坡度，當高低差為30公分時，坡度至多不得大於下列何者？",
       "options": [
@@ -12806,8 +12811,8 @@
       "subjectCode": "legal",
       "year": 109,
       "unit": "營建法規與實務｜109 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 14,
       "questionText": "依建築物無障礙設施設計規範，無障礙通路之室外通路淨高度（X）及室內通路走廊淨高度（Y）應各 不得小於多少公分？",
       "options": [
@@ -17862,8 +17867,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 67,
       "questionText": "建築物無障礙設施設計規範有關廁所盥洗室之馬桶及扶手規定，下列敘述何者錯誤？",
       "options": [
@@ -17900,8 +17905,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 68,
       "questionText": "無障礙昇降設備之昇降機門規定，下列敘述何者正確？",
       "options": [
@@ -17938,8 +17943,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 69,
       "questionText": "依建築物無障礙設施設計規範，下列敘述何者正確？",
       "options": [
@@ -17976,8 +17981,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 70,
       "questionText": "設置無障礙昇降機的引導設施及引導標誌，下列敘述何者錯誤？",
       "options": [
@@ -18052,8 +18057,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "依建築物無障礙設施設計規範設置室內通路，通路走廊如有開門，則扣除門扇開啟之空間後，其寬度 至少不得小於多少公分？",
       "options": [
@@ -18090,8 +18095,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 73,
       "questionText": "有關無障礙設施室外通路之設計，獨棟或連棟之建築物其地面坡度至多不得大於下列何種比例？",
       "options": [
@@ -18128,8 +18133,8 @@
       "subjectCode": "legal",
       "year": 110,
       "unit": "營建法規與實務｜110 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 74,
       "questionText": "有關無障礙客房之規定，下列敘述何者錯誤？",
       "options": [
@@ -21057,8 +21062,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 71,
       "questionText": "依建築物無障礙設施設計規範有關室外通路之規定，下列敘述何者錯誤？",
       "options": [
@@ -21095,8 +21100,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "依建築物無障礙設施設計規範有關無障礙樓梯之規定，下列敘述何者錯誤？",
       "options": [
@@ -21133,8 +21138,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 73,
       "questionText": "依建築物無障礙設施設計規範有關無障礙昇降設備之規定，下列敘述何者錯誤？",
       "options": [
@@ -21171,8 +21176,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 74,
       "questionText": "依建築物無障礙設施設計規範有關無障礙廁所盥洗室之規定，下列敘述何者錯誤？",
       "options": [
@@ -21209,8 +21214,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 75,
       "questionText": "依建築物無障礙設施設計規範規定，有關無障礙輪椅觀眾席位地面有高差且無適當阻隔者之防護設 施，下列敘述何者正確？",
       "options": [
@@ -21247,8 +21252,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 76,
       "questionText": "依建築物無障礙設施設計規範有關無障礙停車空間之停車格線劃設規定，下列敘述何者錯誤？",
       "options": [
@@ -21285,8 +21290,8 @@
       "subjectCode": "legal",
       "year": 111,
       "unit": "營建法規與實務｜111 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 77,
       "questionText": "依建築物無障礙設施設計規範有關無障礙客房之規定，下列敘述何者錯誤？",
       "options": [
@@ -24252,8 +24257,8 @@
       "subjectCode": "legal",
       "year": 112,
       "unit": "營建法規與實務｜112 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 75,
       "questionText": "百貨公司之無障礙設施樓梯，梯級的規定，下列何者錯誤？",
       "options": [
@@ -24290,8 +24295,8 @@
       "subjectCode": "legal",
       "year": 112,
       "unit": "營建法規與實務｜112 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 76,
       "questionText": "無障礙輪椅觀眾席位，席位地面有高差且無適當阻隔者，其防護設施高度規定，下列何者正確？",
       "options": [
@@ -24328,8 +24333,8 @@
       "subjectCode": "legal",
       "year": 112,
       "unit": "營建法規與實務｜112 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 77,
       "questionText": "有關無障礙客房內求助鈴設計，應至少設置2處，有關其設置高度，下列何者正確？",
       "options": [
@@ -24366,8 +24371,8 @@
       "subjectCode": "legal",
       "year": 112,
       "unit": "營建法規與實務｜112 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 78,
       "questionText": "依建築物無障礙設施設計規範之無障礙廁所盥洗室之馬桶及扶手規定，下列敘述何者錯誤？",
       "options": [
@@ -24404,8 +24409,8 @@
       "subjectCode": "legal",
       "year": 112,
       "unit": "營建法規與實務｜112 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 79,
       "questionText": "依建築物無障礙設施設計規範之無障礙停車空間，下列敘述何者正確？",
       "options": [
@@ -25126,8 +25131,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 18,
       "questionText": "有關建築物無障礙設施設計規範之無障礙樓梯級高（R）及級深（T），下列何者符合規定？",
       "options": [
@@ -26989,8 +26994,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 67,
       "questionText": "依建築物無障礙設施設計規範規定，無障礙坡道至少每高差多少公分，應設置150公分以上且坡度不 得大於1/50之平台？",
       "options": [
@@ -27027,8 +27032,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 68,
       "questionText": "有關無障礙昇降機機門設有可自動停止並重新開啟的裝置，下列敘述何者正確？",
       "options": [
@@ -27065,8 +27070,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 69,
       "questionText": "有關無障礙設施「輪椅觀眾席位」之規定，下列何者錯誤？",
       "options": [
@@ -27103,8 +27108,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 70,
       "questionText": "依建築物無障礙設施設計規範規定，輪椅觀眾席之地面應平整、防滑、易於通行，且坡度至多不得大 於多少？",
       "options": [
@@ -27141,8 +27146,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 71,
       "questionText": "依建築物無障礙設施設計規範之輪椅觀眾席位規定，下列敘述何者錯誤？",
       "options": [
@@ -27179,8 +27184,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "依建築物無障礙設施設計規範之無障礙客房規定，下列敘述何者錯誤？",
       "options": [
@@ -27255,8 +27260,8 @@
       "subjectCode": "legal",
       "year": 113,
       "unit": "營建法規與實務｜113 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 74,
       "questionText": "依建築物無障礙設施設計規範之無障礙客房規定，下列敘述何者錯誤？",
       "options": [
@@ -30106,8 +30111,8 @@
       "subjectCode": "legal",
       "year": 114,
       "unit": "營建法規與實務｜114 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 69,
       "questionText": "依建築物無障礙設施設計規範規定，有關無障礙坡道，下列敘述何者錯誤？",
       "options": [
@@ -30182,8 +30187,8 @@
       "subjectCode": "legal",
       "year": 114,
       "unit": "營建法規與實務｜114 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 71,
       "questionText": "依建築物無障礙設施設計規範規定，樓梯上所有梯級之級高及級深應統一，級高（R）應為16公分以 下，級深（T）應為26公分以上，且應符合下列何者規定？",
       "options": [
@@ -30220,8 +30225,8 @@
       "subjectCode": "legal",
       "year": 114,
       "unit": "營建法規與實務｜114 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 72,
       "questionText": "依建築物無障礙設施設計規範有關無障礙浴室設置浴缸規定，下列敘述何者錯誤？",
       "options": [
@@ -30258,8 +30263,8 @@
       "subjectCode": "legal",
       "year": 114,
       "unit": "營建法規與實務｜114 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 73,
       "questionText": "依建築物無障礙設施設計規範規定，機車停車位之出入口寬度及通達無障礙機車停車位之車道寬度至 少均不得小於多少公分？",
       "options": [
@@ -30372,8 +30377,8 @@
       "subjectCode": "legal",
       "year": 114,
       "unit": "營建法規與實務｜114 年",
-      "legalCategoryCode": "other-related-regulations",
-      "legalCategory": "其他相關法規",
+      "legalCategoryCode": "accessible-facilities-design",
+      "legalCategory": "無障礙設施設計規範",
       "questionNumber": 76,
       "questionText": "依建築物無障礙設施設計規範有關無障礙昇降設備規定，下列敘述何者錯誤？",
       "options": [

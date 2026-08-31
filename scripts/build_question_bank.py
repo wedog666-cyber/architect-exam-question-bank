@@ -44,6 +44,18 @@ SUBJECTS = [
 
 LEGAL_CATEGORY_RULES = [
     {
+        "code": "accessible-facilities-design",
+        "name": "無障礙設施設計規範",
+        "terms": (
+            "建築物無障礙設施設計規範",
+            "無障礙設施設計規範",
+        ),
+        "fallback_terms": (
+            "無障礙",
+            "行動不便者使用設施",
+        ),
+    },
+    {
         "code": "building-technical-regulations",
         "name": "建築技術規則",
         "terms": (
@@ -172,10 +184,14 @@ def normalize_text(text: str) -> str:
 
 
 def classify_legal_category(question_text: str) -> tuple[str, str]:
-    """Assign one primary category from legislation explicitly named in the stem."""
+    """Assign one primary category from explicit law names and safe topic fallbacks."""
 
+    compact_text = re.sub(r"\s+", "", question_text)
     for category in LEGAL_CATEGORY_RULES:
-        if any(term in question_text for term in category["terms"]):
+        if any(term in compact_text for term in category["terms"]):
+            return category["code"], category["name"]
+    for category in LEGAL_CATEGORY_RULES:
+        if any(term in compact_text for term in category.get("fallback_terms", ())):
             return category["code"], category["name"]
     return OTHER_LEGAL_CATEGORY["code"], OTHER_LEGAL_CATEGORY["name"]
 
@@ -538,7 +554,7 @@ def build_dataset(input_root: Path, output_path: Path, assets_root: Path, pdftop
             "subjects": subjects,
             "years": years,
             "legalCategories": legal_categories,
-            "legalCategoryPolicy": "依題幹明示的法規名稱歸類；未明示者列為其他相關法規。",
+            "legalCategoryPolicy": "依題幹明示的法規名稱歸類；無障礙設施設計另以高辨識度專有用語補充分類，無法判定者列為其他相關法規。",
             "answerPolicy": "答案修正檔優先；撤銷題依備註採多重給分。",
         },
         "cleaningReport": {
