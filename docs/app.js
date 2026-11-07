@@ -1,3 +1,5 @@
+import { renderExplanation } from "./explanations.mjs?v=20261107.1";
+
 const DATA_URL = "data/questions.json?v=20260831.2";
 const STORAGE_KEYS = {
   history: "architectQuiz.history.v1",
@@ -535,6 +537,10 @@ function renderReview() {
     const statusLabel = status === "correct" ? "答對" : status === "wrong" ? "再看" : "未答";
     return `<article class="review-item is-${status}"><div class="review-item-top"><span class="review-item-number">${question.year} · 第 ${question.questionNumber} 題</span><span class="review-status status-${status}">${statusLabel}</span></div><p class="review-question">${escapeHtml(question.questionText)}</p><div class="review-answers">你的答案：<strong>${answer || "未作答"}</strong> · 正確答案：<strong>${formatAccepted(question)}</strong></div>${question.answerNote ? `<div class="review-answer-note">${escapeHtml(question.answerNote)}</div>` : ""}${question.pageImage ? `<button class="source-button review-source-button" type="button" data-source-id="${question.id}">查看原卷第 ${question.sourcePage} 頁 ↗</button>` : ""}</article>`;
   }).join("");
+  $$("#reviewList .review-item").forEach((element, index) => {
+    const { question, answer, correct } = items[index];
+    element.insertAdjacentHTML("beforeend", renderExplanation(question, answer, correct));
+  });
   $$("[data-source-id]").forEach((button) => button.addEventListener("click", () => openSourceById(button.dataset.sourceId)));
 }
 
