@@ -1,0 +1,3255 @@
+{
+  "structure-108-001": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "有墜落之虞且作業高度達2公尺，即須規劃適當防墜設施；高度是工作位置與可能墜落面之高差，不能以工人身高判斷。",
+    "status": "checked",
+    "currentNote": "已核對第17、19條，2公尺門檻仍在；並須依風險控制順序規劃防墜措施。",
+    "sources": [
+      {
+        "title": "營造安全衛生設施標準（第17、19條等）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060014"
+      }
+    ]
+  },
+  "structure-108-002": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "廚房有洗滌、給排水及清潔用水，地坪與管根均可能滲漏。依本題住宅用水情境，不能概稱廚房地坪不做防水，應依濕區配置設計。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-003": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "分戶牆須具一小時以上防火時效；鋼骨雙面鐵絲網水泥粉刷的列舉構法，要求每面至少3公分，題列1.5公分不足，不能據此認定合格。",
+    "status": "checked",
+    "currentNote": "已核對第73條第1款的3公分要求；另列磚石被覆為每面4公分以上。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-108-004": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "標準貫入試驗通常先打入15公分就位，再記錄續打30公分所需錘擊數，稱N值。N值可供土層緊密程度及強度的經驗判讀。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-005": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題混淆一般防火門與其他出入口尺寸要求；應試條文的門扇下限為寬75、高180公分，並非一律寬90、高190公分。",
+    "status": "historical",
+    "currentNote": "已找到第76條防火捲門附設門之75×180公分規定；各用途出入口另有淨寬限制，未作全面核對。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-108-006": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "木構造空腔若未設防火封堵，可能形成隱蔽火焰與煙氣傳播路徑；不能把空心夾層本身當成耐火措施，須以被覆、阻燃及節點防火設計控制。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-007": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "水玻璃為可溶性矽酸鹽的俗稱，題列對應矽酸鈉系。其可與水泥中的鈣質成分反應形成凝膠、減少孔隙，與乳膠成膜型防水劑不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-008": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "凝灰岩由火山碎屑膠結而成，通常孔隙較多，因此在題列石材中吸水率較高；實際石材仍須依產地、風化及試驗結果選用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-009": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "乾磚會快速吸走砂漿拌合水，妨礙水化及黏結。砌築前應適當潤濕，讓磚不過度吸水，且表面不得帶有妨礙黏結的游離水。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-010": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖B是外片玻璃朝中空層的第2面。臺灣偏重阻隔日射熱，低輻射鍍膜設於此面可兼顧隔熱及保護鍍膜，並非暴露於室外表面。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-011": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "吐白需有可溶鹽、水及遷移路徑；乾拌砂漿再澆水難以均勻控制水量與密實度，反而可能助長滲水與鹽析，不能列為可靠的防吐白對策。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-012": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題採5公斤重錘施力檢查推門扇是否平順開啟，重量換算約49牛頓。這是依指定試驗裝置測開啟性能，不是門扇自身重量限制。",
+    "status": "historical",
+    "currentNote": "未取得CNS7477現行完整試驗條文，5公斤依原題歷史答案保留。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-108-013": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "薄膜自重輕，利用張力可覆蓋大空間並降低地震慣性力；但單層薄膜厚度小、熱阻有限，在臺灣不能直接把隔熱良好列為固有優點。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-014": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般乾燥結構材以含水率19%以下作為常見分級界線，可減少日後乾縮、翹曲及接合鬆動；木材會與空氣交換水分，並非要求乾到0%。",
+    "status": "historical",
+    "currentNote": "依一般乾燥材分級說明，未逐一核對各樹種與現行CNS產品標準。",
+    "sources": []
+  },
+  "structure-108-015": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "逸散量為60×0.05＝3毫克／時；有效換氣量為100×3×0.5×0.4＝60立方公尺／時。穩態濃度為3÷60＝0.05毫克／立方公尺。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-016": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "早強水泥可較快建立早期強度，較符合提早拆模需求；低熱水泥則偏向降低水化熱。實際拆模仍須確認現場混凝土強度及支撐安全。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-017": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "高層建築通常較柔、基本振動週期較長，並非較短；能量衰減取決於阻尼、土壤與結構特性，不能因樓高就推論能迅速向地盤消散。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-018": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖顯示鑽孔、退鑽後於孔內形成骨材體，再由管路灌注漿材的程序，對應預壘樁；其辨識重點是先置粗骨材、再填充漿液的順序。",
+    "status": "historical",
+    "currentNote": "已查看原卷施工圖；工法名稱依本題分類，未核對特定廠商施工規格。",
+    "sources": []
+  },
+  "structure-108-019": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "預壘排樁與H型鋼擋土均可能在相鄰構件間留下滲流通道，未另設止水處理時不適合高水密要求。本題B、D均列為可接受答案。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-020": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖A的角鋼僅在偏離受力傳遞面的單側角部施銲，力線轉折且易產生偏心與撬開作用；接頭宜使受力路徑直接，並配置足夠有效銲道。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-021": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "原圖兩木材端部以階梯狀缺口和鉤肩相互扣合，是追掛對接；其特徵是接合後可藉肩部承壓限制滑移，不是單純斜面相貼。",
+    "status": "historical",
+    "currentNote": "已查看榫接原圖；名稱依傳統木作分類。",
+    "sources": []
+  },
+  "structure-108-022": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "圖中是間斷角銲，單段長50、中心節距150；銲接位於箭頭所指側，角銲符號應置基準線下方，符合A所示的50－150標註。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-023": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "SRC中的鋼骨提供延性及穩定承載途徑，妥善設計時韌性通常優於單純RC；不能因加入鋼骨就認定韌性下降，接頭及圍束仍很重要。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-024": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "一般RC的單位體積重量高於紅磚砌體，在題設相近牆體尺寸下改為RC會增加自重，連帶影響柱基礎載重與地震慣性力。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-025": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "混凝土較易導熱且有蓄熱能力。隔熱置於板上可先阻斷外熱；置於板下時屋頂板已吸熱，並可沿牆梁等熱橋把熱傳入室內。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-026": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "矩形SRC構材主筋應以斷面四角配置為原則，可利用較大的受彎力臂並配合箍筋圍束；集中放在斷面中央不符合此配置原則。",
+    "status": "checked",
+    "currentNote": "已核對建築構造編第509條，主筋四角配置及不得貫穿鋼骨翼板的要求。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-108-027": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題所指填充型鋼管混凝土柱，梁宜採鋼梁，使內力能有效傳入鋼管接頭；不能逕套包覆型SRC梁。包覆填充型柱須另辨別，不能混稱。",
+    "status": "historical",
+    "currentNote": "已核對第508條及設計規範9.4的型式差異；未將舊題泛稱擴充為所有鋼管柱皆禁止。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      },
+      {
+        "title": "鋼骨鋼筋混凝土構造設計規範第9章",
+        "url": "https://www.nlma.gov.tw/uploads/files/ac7c3ad5045bd3c895bc12839750325d.pdf"
+      }
+    ]
+  },
+  "structure-108-028": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖以獨立鋁擠型直料、橫料構成框格，再逐片裝玻璃與壓條，是直橫料系統；單元式則先組成完整單元板塊，再到現場吊掛接合。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-029": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "本題採一般矽質填縫劑對鋁面較易黏結、對鋼鐵須更重視表面與底塗的材料分類。雙液型材料遇高溫通常反而縮短可施工時間。",
+    "status": "historical",
+    "currentNote": "黏著性會隨配方與表面處理變化，未核對特定產品，不能據此免做相容及黏結試驗。",
+    "sources": []
+  },
+  "structure-108-030": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "新澆混凝土含水高且仍在收縮，立即鋪瀝青防水毯可能黏結不良、起鼓或破壞；應待養護及基面乾燥、平整條件符合材料要求後施工。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-031": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖②是連繫相鄰屋架的水平構件，供維持屋架間距與整體穩定，並非具通行踏面的維修貓道；①斜角撐與③剪刀撐則提供側向穩定。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-032": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "①錯在施工前刻意保持乾磚，應適度潤濕以免砂漿失水；②把1B牆補強條件一律定為超過3公尺也不成立，須依厚度、長高比及支承判斷。",
+    "status": "historical",
+    "currentNote": "原題以①②為錯誤組；未將3公尺門檻當成現行通用規定。",
+    "sources": []
+  },
+  "structure-108-033": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "勾縫適合厚磚及寬縫，且不宜在剛貼完尚未穩定時立即抹縫。原答案採①④，但③以雷射控制水平垂直也有工程合理性，題目排除③的依據不足。",
+    "status": "uncertain",
+    "currentNote": "保留C答案；水紋狀塗膠並非所有黏著劑的通用工法，未取得命題補充說明。",
+    "sources": []
+  },
+  "structure-108-034": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "鋼管施工架的性能重點是承重及變形，故有彎曲、拉伸、壓縮等力學試驗；耐候與抗酸鹼不屬本題所列單管架性能試驗。",
+    "status": "historical",
+    "currentNote": "未取得CNS4750現行全文，依歷史題意區分力學性能與耐久性試驗。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-108-035": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "塔吊拆除時構件與連結逐步移除，重心、支承及吊點不斷改變，容易出現暫時失穩，故題目將拆除列為相對高風險階段；其他階段仍須專項管制。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-036": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "3公噸以上移動式起重機屬具有危險性機械，操作者須取得相應機械操作訓練或技能檢定資格；僅有一般特殊作業訓練不足以代替。",
+    "status": "checked",
+    "currentNote": "已核對職業安全衛生教育訓練規則第12條的3公噸門檻及資格要求。",
+    "sources": [
+      {
+        "title": "職業安全衛生教育訓練規則第12條",
+        "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=12&id=FL015022"
+      }
+    ]
+  },
+  "structure-108-037": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "草溝斷面必須滿足設計逕流量；坡度會改變流速及沖刷，植生也增加糙度，故不能說斷面只隨現況調整而與坡度、逕流無關。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-038": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "積層橡膠支承是橡膠與鋼板交替疊合，鋼板抑制橡膠側向鼓脹以提高垂直剛性，橡膠則保有水平剪切柔性；並非全部由橡膠層構成。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-039": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "加質量會增加慣性作用，且週期延長是否降低反應取決於反應譜，不能保證變形與損傷減少；耐震補強應整體評估，常見策略反而包括減重。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-040": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "海菜粉的主要作用來自甲基纖維素類增稠保水材料，可減少基面吸水造成砂漿過快乾燥並延長操作時間；添加量過多仍可能影響黏結。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-041": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "砂皮是表面粗粒、不平滑，常與塵粒、漆液雜質或噴霧乾粒有關；木面油漬、水分較易造成縮孔、附著不良等，不能當成砂皮的典型成因。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-042": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "配比試驗是在施工前決定材料比例與驗證性能；現場澆置時主要檢查到料品質，如坍度、氯離子與製作抗壓試體，並非臨時重新試配。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-043": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "跨越建築伸縮縫的管線也須容許兩側相對移動，宜配置伸縮或可撓接頭；若硬接，結構溫度變形或沉陷可能使管線破裂。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-044": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "地下室以外側阻水減少水壓入侵，再配合內側排水導引與集水設施，可提高容錯能力；單靠室內雙層牆只能遮蔽或導水，不能取代止水。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-045": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "電信、廣播與監視主要傳送訊號，通常歸為弱電；電力系統負責供應設備所需能源，屬強電範疇，分類不是只看導線外觀。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-046": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "傾度管配合測斜儀，可量得不同深度的傾斜並積算側向位移，用於追蹤擋土壁變形；沉陷釘量垂直沉降，水壓計量孔隙水壓。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-047": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "自立式垂直開挖利用土體本身的黏聚或剪力強度暫時維持立面，不設支撐。可行深度仍受土質、地下水、裂隙與施工時間限制，不能任意採用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-048": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "澆置次序須依構件、支撐受力、施工縫及泵送動線安排，沒有固定由左到右的通則；關鍵是避免偏載、離析及新舊層形成冷縫。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-049": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "原圖B鼻端突出3公分，超過2公分。D級高18、級深24公分可符合住宅特例，且2R＋T＝60；題目明列含特別規定，故不能僅憑此尺寸判D錯。",
+    "status": "uncertain",
+    "currentNote": "已核對304.2及304.4住宅特例；保留原B、D給分，D另列給分的確切理由仍待命題說明。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-108-050": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "特性要因圖用於找原因、柏拉圖用於辨認主要缺失、檢驗表用於蒐集數據，均是常見品管工具；風險圖屬風險分析，非傳統品管七手法。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-051": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "圖示室外面層須向排水方向洩水，砂漿找坡層厚度因此隨位置改變；即使局部基準厚度3公分，靠高點處仍可能較厚，不能全區等厚鋪設。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-052": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "磚牆埋管並非全面禁止，重點是管徑、位置及開槽不得削弱承載與穩定，並須符合規範限制；D把附條件容許誤寫為一律禁止。",
+    "status": "historical",
+    "currentNote": "未取得磚構造規範現行完整埋管條文，故不另填未核實的管徑比例。",
+    "sources": []
+  },
+  "structure-108-053": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖C在梯段終點後設水平延伸，再使端部平順回轉，便於上下梯時持續抓握並避免勾撞；其餘圖缺水平延伸或端頭處理不完整。",
+    "status": "checked",
+    "currentNote": "已核對305.2兩端水平延伸至少30公分及207.3.4防勾撞要求。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-108-054": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "供兒童使用的樓梯平台不應插入梯級，以免轉折處突然高差造成跌倒；有效平台寬度也不能把柱突出忽略，特別安全梯更非僅30分鐘防火。",
+    "status": "historical",
+    "currentNote": "依原題設計原則說明，未逐項完成現行第33至36條及安全梯規定核對。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-108-055": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "輪椅觀眾席前方有落差須設防護欄杆；本題圖示採75公分，兼顧坐姿視線與防護。此為特定席位規定，不能套用為一般陽臺欄杆高度。",
+    "status": "checked",
+    "currentNote": "已核對704.5：有高差且無適當阻隔時，另須設5公分以上邊緣防護。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-108-056": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "分層澆置應在下層尚未初凝、可與上層充分結合時接續搗實；等下層凝結後才澆上層，反易形成冷縫，不能只用兩小時間隔保證品質。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-057": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖A指向梁腹板端的螺栓接合板，作用是把梁端剪力傳入柱，故為剪力接合板；樓板上的鋼浪板與柱內連續板各有不同位置及功能。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-058": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "地下構造物上方覆土未達60公分時，不宜直接以壓路機滾壓，以免集中輪壓及振動損傷構造；較薄覆土區應使用合適的小型夯實設備。",
+    "status": "historical",
+    "currentNote": "60公分依本題施工規定；實務仍須核對構造物設計及契約規範。",
+    "sources": []
+  },
+  "structure-108-059": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "未補強磚砌體擅長承壓，可形成牆、拱殼及基礎；框架梁柱須能傳遞彎矩與拉力，普通磚砌接縫難以提供足夠可靠的抗拉與接頭能力。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-060": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "題意將帷幕牆工序分為製作、運輸與吊裝組立，鋼骨防火被覆屬主體鋼構工程；但帷幕牆與樓板間的防火填塞仍是必要界面工程，不能省略。",
+    "status": "historical",
+    "currentNote": "依題目工項分類作答，不代表帷幕牆系統無防火要求。",
+    "sources": []
+  },
+  "structure-108-061": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "SSG以結構矽膠把玻璃與支承框架黏結傳力；DPG則以點式金屬接頭固定玻璃，並非一般連續窗框。外牆開口及欄杆仍須承受風震作用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-062": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "空心孔洞可減輕重量並改善部分熱工性能，但磚材孔隙、灰縫與裂縫仍會導水，所以空心磚本身不等於防水層；承重型式須另經設計。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-063": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題昇降設備重點包含引導標誌、點字及語音，以服務不同感官需求；題列泛稱警示設施不屬其指定必要項目，不能推論電梯無安全警報。",
+    "status": "historical",
+    "currentNote": "依原題無障礙章節分類；未完成最新昇降設備全部細項核對。",
+    "sources": [
+      {
+        "title": "國土署建築物無障礙設施設計規範公告入口",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/927"
+      }
+    ]
+  },
+  "structure-108-064": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "開放式建築強調長壽命支架與可更換填充體分離；灌漿牆及砌ALC牆拆改涉及濕作、破壞及廢料，不如可拆組乾式隔間適合彈性調整。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-065": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "30%是較早期比例，已不能代表本題應試時的室內綠建材門檻；題意正確比例為45%以上。應分辨室內裝修、地板及戶外材料的計算範圍。",
+    "status": "historical",
+    "currentNote": "已核對現行第321條：室內裝修、樓地板面及窗的綠建材率為60%以上；未用綠建材的窗可不納入分母。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-108-066": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "施工架、臨時道路及工地儲存場是施工期間服務工程的臨時設施；預鑄樁完成後留在地下承擔永久載重，屬基礎工程而非假設工程。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-067": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "板材口語以分表示厚度，1分約3毫米，故6分約18毫米，即1.8公分；長寬尺寸另以尺或公分標示，不能混為面積尺寸。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-068": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "高壓噴射灌漿以射流切削、攪拌原土並形成改良體，亦可處理砂土；能否採用取決於粒徑、地下水與品質控制，不能說砂質土一律不適用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-069": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖甲同時提供傳統上置式曳引機房及井底底坑；其餘圖缺機房或底坑配置不完整，因此題意選甲。現代無機房電梯須依另一完整系統設計。",
+    "status": "historical",
+    "currentNote": "已查看四個剖面；本題傳統機房式判讀不能用來否定所有無機房電梯。",
+    "sources": []
+  },
+  "structure-108-070": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "貼石是坡面保護，與能承受側壓的砌石擋土構造不同；較陡河岸仍須檢核穩定、排水與基礎。原答案否定B，但僅憑有無混凝土難一概比較適用坡度。",
+    "status": "uncertain",
+    "currentNote": "保留B歷史答案；未找到足以支持題列坡度比較的明確原始工法規定。",
+    "sources": []
+  },
+  "structure-108-071": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "生態密林追求多層次、多樣性與自然演替，頻繁整形修剪可能破壞棲地並增加維護投入；只需必要的安全、健康與入侵種管理。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-072": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "直接入滲須有足夠透水性且不危害邊坡或基礎，砂質土通常比黏土適合；滑動危險區及擋土牆旁增加入滲，可能提高孔隙水壓而降低穩定。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-073": {
+    "acceptedAnswers": [
+      "A",
+      "D"
+    ],
+    "text": "本題A、D均接受。木樁僅稱浸水不能保證免腐，須考慮水位波動及生物侵害；鋼樁可接長調整，支承層深度驟變並非當然應避用的理由。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-074": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "背襯材應可壓縮、與填縫膠相容，用來控制膠深並避免三面黏著；採硬質材料會限制接縫變形，增加膠體拉裂或剝離風險。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-075": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "本題地下開挖須同時達深18公尺與面積500平方公尺的門檻；17公尺、300平方公尺皆未達。高85公尺及高支撐大面積則屬另列類型。",
+    "status": "historical",
+    "currentNote": "已找到第2條18公尺及500平方公尺條件；其餘類型與最新例外未全面核對。",
+    "sources": [
+      {
+        "title": "危險性工作場所審查及檢查辦法第2條",
+        "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=2&id=FL015049"
+      }
+    ]
+  },
+  "structure-108-076": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "必須勘驗部分應由承造人會同監造人按時申報，而非起造人會同監造人；起造人是業主角色，承造人才是負責施工與施工申報的一方。",
+    "status": "historical",
+    "currentNote": "依建築法第56條題旨說明；未以此解析替代個案地方勘驗程序核對。",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "structure-108-077": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "學習曲線描述重複作業使效率逐步提升，作業設計、協調及機具操作較直接影響學習；天候會干擾產出，但較非重複學習效應的核心因素。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-078": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "網圖可有數條總工期同為最長的路徑，因此可能存在多條要徑；任一要徑上的工作延誤且無補救，都可能使專案完工日延後。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-079": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "趕工通常增派人力、加班或增加機具，使直接成本上升；工期縮短則可減少按時間支出的現場管理等間接成本，仍須比較總成本最適點。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-108-080": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "工程及財物採購查核金額為5,000萬元，勞務則為1,000萬元；查核金額與公告金額是不同級距，不能以公告金額替代。",
+    "status": "checked",
+    "currentNote": "已核對112年1月1日生效的工程會令，工程、財物查核金額仍為5,000萬元。",
+    "sources": [
+      {
+        "title": "工程會111年12月23日令：查核、公告及小額採購金額",
+        "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg028245/ch06/type1/gov51/num20/Eg.htm"
+      }
+    ]
+  },
+  "structure-109-001": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "粗糙表面由許多朝向不同的微小面組成，光線被分散至多個方向，形成漫射反射；平滑鏡面則較容易把光集中反射到特定方向。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-002": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖C的偏斜開口讓光先落到斜牆再反射入樓梯間，削弱眼睛直接看到高亮窗面的機會；藉牆面散射可獲得較柔和、均勻的光。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-003": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般耐震柱的兩端靠近梁柱接頭，可能形成塑鉸並需要較密箍筋圍束；柱中央通常可放寬間距，故每單位長度箍筋量較少，仍須滿足剪力設計。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-004": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "薄層綠化降溫主要來自遮蔭、蒸散、土壤熱阻及空氣層；塑膠容器本身很薄，整體熱阻有限，不能把容器隔熱列為主要效益。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-005": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖P1位於上升段，軸壓初期以壓縮及微裂縫發展為主，不能直接認定已出現45度剪裂縫；P2峰值後因壓碎、剝落與鋼筋挫屈使承載下降。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-006": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "原圖短水平裂縫沿柱邊規律分布，較像箍筋附近保護層不足、鏽蝕膨脹造成的裂縫；典型地震剪力裂縫多呈斜向，實際仍須現勘確認。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-007": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "排水管根適度高出地面並使上管套入下管，可讓水順流而不由接口倒灌；防水層應連續收至管根與落水頭，不能只塗在完成面或孔外截斷。",
+    "status": "historical",
+    "currentNote": "10至20毫米依本題構造細節，實際接管須符合管材系統與設計圖。",
+    "sources": []
+  },
+  "structure-109-008": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖先旋切原木成單板，再沿同一纖維方向層疊膠合，為單板積成材LVL；合板通常交錯纖維方向，集成材則主要用較厚板材層積。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-009": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "本題採一等普通磚抗壓強度至少150公斤力／平方公分，約14.7MPa，供承重砌體用；磚強度仍須與砂漿及砌體整體承載共同檢核。",
+    "status": "historical",
+    "currentNote": "150數值依原題所引CNS382歷史分級，未取得現行完整標準確認。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-109-010": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "鋼骨開孔會削弱有效斷面並形成應力集中，宜依核定詳圖在工廠完成開孔與補強，較能控制尺寸、銲接及檢驗品質，不應臨時在現場任意切割。",
+    "status": "checked",
+    "currentNote": "已核對建築構造編第519條，穿孔及補強應事先於工廠完成。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-109-011": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "強塑劑使水泥顆粒分散，可在相同用水量下增加流動性，或在相同工作性下降低水量；選項把提高流動性寫成降低，方向相反。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-012": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "Low-E是透過鍍膜降低表面輻射率的功能分類，浮式、可強化或膠合用玻璃均可搭配適當鍍膜製程；不能說這些玻璃都無法製成Low-E。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-013": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "二五磚約為整磚四分之一，七五磚約四分之三；小半條磚通常由半條再截半，約與二五磚等體積，並非僅為二五磚的一半。",
+    "status": "historical",
+    "currentNote": "依傳統砌磚名稱解釋，實際尺寸須另扣除切縫及製造差異。",
+    "sources": []
+  },
+  "structure-109-014": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "標準坍度筒為上徑10、下徑20、高30公分，題列下徑15及高25均錯。試驗以提筒後混凝土下降高度表示工作性，並非直接測抗壓強度。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-015": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "結構木材分級是估定可供設計採用的強度與剛性，會考慮木節、紋理斜率、裂縫或機械量測；防腐、防火則是另項處理或性能分類。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-016": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "熱強化玻璃靠表面壓應力與內部拉應力平衡提高強度；強化後再切割或鑽孔會破壞此平衡而碎裂，開孔與加工應先完成再強化。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-017": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原題把鄰近國家回收料也納入來源要求，與國內回收料計算原則不符。現行評定更精確區分為國外回收料可使用，但不得計入所要求的回收比例。",
+    "status": "checked",
+    "currentNote": "已核對評定機構現行再生綠建材要項：計入比例的回收料須為國內產出。",
+    "sources": [
+      {
+        "title": "綠建材標章評定機構：再生綠建材評估要項",
+        "url": "https://gbm.tabc.org.tw/modules/pages/regeneration"
+      }
+    ]
+  },
+  "structure-109-018": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "戶外人行道屬人行使用地面，應納入戶外綠建材面積檢討；車道、汽車出入緩衝及消防救災活動空間則屬題列排除範圍。",
+    "status": "checked",
+    "currentNote": "已核對現行第321條第2款，扣除列舉範圍後戶外地面綠建材率須達20%以上。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-109-019": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "在一般相近狀態下，完整岩石最強，密實礫石次之，再為砂土、黏土；這只是典型排序，軟岩、鬆砂與硬黏土的實測結果可能不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-020": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "基地面積的基本密度是每600平方公尺一點，基礎涵蓋面積則每300平方公尺一點，同一基地至少兩點；題列500平方公尺誤置門檻。",
+    "status": "checked",
+    "currentNote": "已核對112年基礎構造設計規範3.2.3，並有地層變異時增點要求。",
+    "sources": [
+      {
+        "title": "112年建築物基礎構造設計規範3.2.3",
+        "url": "https://www.nlma.gov.tw/filesys/file/EMMA/a1120713.pdf"
+      }
+    ]
+  },
+  "structure-109-021": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "SRC柱主筋若落在相交鋼梁翼板的投影範圍，會被翼板阻斷，故須事先安排能連續通過接頭的位置；不可為穿筋而任意鑿穿翼板。",
+    "status": "historical",
+    "currentNote": "已核對主筋不得貫穿鋼骨翼板原則，未逐項核對現行端部錨定例外。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-109-022": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "混合構造須確保系統相容、接頭傳力及剛性延性協調；刻意增加不對稱會加重扭轉及受力不均，並非組合構造應追求的設計目標。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-023": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "CLT把木板交錯層積形成大尺寸面板，可提供面內剪力及雙向板作用，配合工程接頭與混合系統用於高層木建築；單純乾燥並不是結構系統。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-024": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "傳統鉚接需加熱鉚釘及專門施工，工序較繁；現代鋼構多以高強度螺栓或銲接獲得較有效率的接合，因此鉚釘在新建工程較少使用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-025": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "摩擦型高強度螺栓接合須依規定控制接觸面的滑移性能，適當緊密鏽層可與鬆動浮鏽區分；一律刮至光亮反而可能降低摩擦，不能混同塗裝前處理。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-026": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "目視檢查表面外觀，液滲與磁粒找表面或近表面缺陷，超音波可探查內部缺陷；四者均不須把銲件破壞，皆屬非破壞檢測。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-027": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "小範圍非結構性蜂窩應先剔除鬆弱部分、清潔基面，再用黏結及收縮性能合適的修補砂漿填實；題列1：2砂漿加壓克力樹脂符合此方向。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-028": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "剪力牆是承受側向力的結構功能，不限於RC；鋼板剪力牆可利用鋼板剪力或拉力場傳力。未補強的純磚石牆則不能直接等同合格耐震剪力牆。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-029": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "屋頂先形成約2%以上有效洩水坡度，再連續施作防水，可減少積水與水壓；砂漿愈厚不代表愈防水，仍可能因收縮開裂，塗膜也須符合使用環境。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-030": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "題目著重金屬長尺屋面板宜由屋脊至屋簷整片連續，減少沿排水方向的端接縫；不能概稱均由多片續接，因接縫會增加滲漏與熱伸縮問題。",
+    "status": "historical",
+    "currentNote": "依長尺屋面系統解釋；金屬瓦等短片系統可有不同搭接程序，非所有金屬屋頂一律禁止續接。",
+    "sources": []
+  },
+  "structure-109-031": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "穿孔、截斷與銲接宜在防鏽及表面處理之前完成；完成防護層才加工會露出金屬並破壞塗膜，必須補修，不能列為標準先後順序。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-032": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "木心板搭配面皮可取得較大幅面、控制成本並增加外觀選擇；容易隨濕度變形是缺點，並不是採用的理由，仍須做好封邊與含水率控制。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-033": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "陶質、石質與瓷質面磚常以吸水率分級，反映燒結緻密程度；一底二度指底漆一遍、面漆兩遍，冷氣主機亦須獨立支承而非壓在天花架上。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-034": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "工地防墜護欄的上欄杆須至少90公分，80公分不足；並應具中欄杆、腳趾板等構件，避免人員穿越及物件落入電梯井。",
+    "status": "checked",
+    "currentNote": "已核對營造安全衛生設施標準第20條，上欄杆高度90公分以上。",
+    "sources": [
+      {
+        "title": "營造安全衛生設施標準（第17、19條等）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060014"
+      }
+    ]
+  },
+  "structure-109-035": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "SMW以多軸攪拌鑽機切削土層並同步注入、攪拌水泥漿，形成相互搭接的土壤水泥壁，常插入型鋼承受彎矩；不是單純挖槽再灌RC。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-036": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "塔式起重機可迴轉、變幅及升降，俯仰式吊臂還能改變仰角；不能把所有塔吊限定為只靠水平撐梁迴轉，選型須依吊重與作業半徑。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-037": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "滲透注入靠漿液進入原有孔隙而不破壞土體，乾淨砂土孔隙連通性較佳；含細料多的黏土滲透性低，通常需其他劈裂或噴射改良方式。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-038": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "高反光塗層會把掠射光與局部高低差放大，使表面波浪更明顯；改善基底平整、控制澆置或採較霧面粗紋，才有助降低視覺不平整。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-039": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "臺灣傳統紅磚多以黏土燒製，古蹟修復常選相容的黏土磚以配合色澤、孔隙及物性；仍應以原構件調查決定，不能只按新品強度選材。",
+    "status": "historical",
+    "currentNote": "屬傳統材料辨識，未針對個別古蹟修復規範作現行核對。",
+    "sources": []
+  },
+  "structure-109-040": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "一般吊衣衣櫃須容納衣架及衣袖，並留門板、背板與取放餘裕，所以常用總深60至65公分；30至45公分較適合書櫃或折衣層架。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-041": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "柱旁增設翼牆能提升側向剛度與強度，但會縮短相鄰柱間梁的淨跨，使梁剪力需求增加、形成短梁效應；柱距小時尤須審慎。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-042": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "老樹優惠是鼓勵保留既有生態與固碳資產，移植會傷根並影響存活及生長，不能移植後仍無條件沿用原地保留老樹的計算待遇。",
+    "status": "historical",
+    "currentNote": "依原題EEWH評估概念說明，未完成最新版各類手冊老樹係數核對。",
+    "sources": []
+  },
+  "structure-109-043": {
+    "acceptedAnswers": [
+      "C",
+      "D"
+    ],
+    "text": "設施整合以跨系統資訊、控制聯動提升可靠性，也涉及運轉維護與安全管理；題目用語跨及系統整合、設施管理兩指標，故原題C、D均接受。",
+    "status": "historical",
+    "currentNote": "保留兩個計分答案；未將舊版智慧建築指標名稱當成最新分類。",
+    "sources": []
+  },
+  "structure-109-044": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "預壘排樁的樁間接縫及施工偏差容易形成水路，未追加止水措施時水密性有限；不能因施工較簡便就認定它本身具有良好止水性能。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-045": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖C把外防水連續包住牆外側與底部，並在外側設緩衝保護層，使防水層不易受粗糙擋土面損傷；應先完整阻水，再處理室內界面。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-046": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖乙以可撓金屬導管跨縫，丁以留弧度的電纜銜接匯流排，均能吸收相對位移；甲、丙、戊直接硬跨縫，易在結構移動時受拉破壞。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-047": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "底板約在地面下8公尺，外水位升至下5公尺即有約3公尺水頭；施工階段自重不足可能上浮，須立即檢核抗浮，盲目抽乾室內積水反會減少壓重。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-048": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖C將金屬支腳置於女兒牆內側，壓頂向內洩水，含鏽雨水較易回到屋頂排水系統；設在外緣或把水導向外牆容易形成鏽斑。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-049": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖A窗臺較平且防水收頭缺乏充分向內上翻與外排高差，水容易沿框底縫隙滲入；窗臺應外低內高並使防水連續銜接窗框。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-050": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖可見薄預鑄底板上伸出的三角鋼筋桁架，與後澆混凝土共同工作，是Kaiser Truss系統的辨識特徵；桁架也有助施工階段剛度。",
+    "status": "historical",
+    "currentNote": "已查看半預鑄板圖；商用系統的跨距與支撐條件須另依產品設計。",
+    "sources": []
+  },
+  "structure-109-051": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "施工製造圖將設計要求轉成可加工、組裝的尺寸與節點細節，故以設計圖及規範為依據；竣工圖則應反映實際完成狀況，兩者時點不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-052": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "圖中標的是梁主筋90度標準彎鉤彎後直線延伸，取12db，db為鋼筋直徑；此尾長不等於整個彎鉤發展長度，後者仍須計算。",
+    "status": "historical",
+    "currentNote": "已查看原圖；12db依標準彎鉤幾何解釋，未核對最新混凝土規範全部錨定修正條件。",
+    "sources": []
+  },
+  "structure-109-053": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "每天收工留階梯形接頭，使後續砌築能逐層交錯搭接，避免形成整面垂直弱縫；順丁、交丁主要描述砌磚排列，並非此處停工接頭型式。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-054": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題列木構件扣件為釘、木螺絲、螺栓、突端螺栓及穿孔釘；膨脹螺栓主要用於混凝土等基材，鳳尾釘不在題引規範分類。",
+    "status": "historical",
+    "currentNote": "依題引木構規範歷史分類，未取得現行扣件章全文逐項核對。",
+    "sources": []
+  },
+  "structure-109-055": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "抹縫後應在適當時機清除磚面餘漿，避免凝固後難清理；清潔時須避免沖刷未硬化的縫料，不能一概說完工後不可立即清洗任何磚面。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-056": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "普通玻璃磚牆用來採光、分隔，通常僅承自身重量，不能當承重牆或梁柱支承；玻璃厚度會影響隔音，RC開口角隅也須考慮應力集中補強。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-057": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "防腐須阻隔水、氧及腐蝕介質，並確保對鋼材的附著及長期保護；泛稱防水漆不代表合格防蝕塗裝系統，還須底漆、膜厚與表面處理配套。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-058": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "冷軋型鋼規範此項適用厚度上限為25.4毫米，即1英吋；題幹同時寫公釐與cm，單位不一致，應以公釐理解，不能解作25.4公分。",
+    "status": "checked",
+    "currentNote": "已核對規範1.1的25.4mm；原題括號cm是單位誤植。",
+    "sources": [
+      {
+        "title": "冷軋型鋼構造建築物結構設計規範1.1",
+        "url": "https://www.nlma.gov.tw/uploads/files/0a543f70a144365bca45105b11b9dd65.pdf"
+      }
+    ]
+  },
+  "structure-109-059": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "銲接、螺栓及螺絲是實際傳力的連接手段；搭接只是兩構件重疊的幾何配置，搭接後仍須用銲道或扣件固定，所以不是同層級的接合方法。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-060": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題限定獨棟或連棟建築物的室外通路特別規定，採坡度不大於1：10；不能把此例外直接套為所有無障礙坡道的通用最大坡度。",
+    "status": "checked",
+    "currentNote": "已核對203.2.2及202.4：同一住宅單位且全棟僅供住宅使用之特例；一般通路為1：15。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-109-061": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "扶手末端應回接牆壁、欄杆或地面，避免衣物勾住與身體撞擊；單純向下彎30公分但仍懸空，沒有消除突出端頭，故不符合防勾撞目的。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-062": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "2R＋T控制步行節奏與坡度，題引樓梯規定為55至65公分；此外仍須分別檢查級高、級深及全梯段一致性，不能只符合此算式。",
+    "status": "checked",
+    "currentNote": "已核對304.1及304.4.2；一般尺寸與住宅特例均採此公式範圍。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-109-063": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "木料1才為10台尺長×1台寸寬×1台寸厚。每塊10尺×9寸×1寸÷10＝9才，三塊共27才；尺寸須按題給30及3公分換算。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-064": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "玻璃才數按面積計，1才約1平方台尺。120×150平方公分約等於4×5平方台尺，即20才；與木料依體積計才的方式不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-065": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "建築面積以外牆中心線或代替柱中心線內的最大水平投影面積為基本定義；不直接取外緣或室內淨面積，突出物另依規定計入或扣除。",
+    "status": "checked",
+    "currentNote": "已核對國土署引用建築設計施工編第1條第3款的中心線定義。",
+    "sources": [
+      {
+        "title": "國土署：建築面積及陽臺面積計算函釋",
+        "url": "https://www.nlma.gov.tw/ch/titlelist/interpcomp/14045"
+      }
+    ]
+  },
+  "structure-109-066": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "本題一般流程是先完成外牆磁磚、拆鷹架，再申報竣工並辦理消防安全檢查；外牆仍未完成或鷹架未拆，通常不具完整竣工查驗條件。",
+    "status": "historical",
+    "currentNote": "依題目一般工序作答；消防預查及各地使照併行程序可能不同。",
+    "sources": []
+  },
+  "structure-109-067": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "題列均描述施工未依尺寸、位置、支撐或程序完成，原則屬施工品質或管理問題，而不是設計圖本身錯誤；是否另有監造疏失須依事實另判。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-068": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "透水鋪面讓雨水入滲或暫存，目的在削減地表逕流尖峰與排水負擔；增加逕流恰與此目的相反，仍須確保底層透水及防堵塞維護。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-069": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "開放建築的開放是構造層次可分離、使用者能更換填充體，並非指室內外開放空間整合；乾式施工與可維修管線有助延長建築使用彈性。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-070": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "地下連續壁通常具有較大剛度，可控制深開挖側移並作永久地下牆，故A把特性說反；其餘選項的所有地盤、厚度不限等措辭仍不可作無條件保證。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-071": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "特別安全梯在室內與梯間之間設陽臺或排煙室緩衝，降低煙氣直接侵入；消防栓屬滅火設備，5公分RC樓板也不能逕認具一小時防火時效。",
+    "status": "historical",
+    "currentNote": "依特別安全梯定義解釋，未逐條核對2026年高層建築及防火構造全部門檻。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-109-072": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "氧氣助燃、乙炔易燃，鋼瓶須依氣體性質直立固定並適當分隔；固定後倒立或混放仍可能造成洩漏、回火及火災，不能以綁牢取代正確儲放。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-073": {
+    "acceptedAnswers": [
+      "C",
+      "D"
+    ],
+    "text": "杉木可作模板板材與角材，柳安亦常見於模板合板及相關木料；本題接受C、D，反映散模材料來源並非唯一，不能僅按樹種排除其中一種。",
+    "status": "historical",
+    "currentNote": "依原題複數計分答案說明，未宣稱現行市場採購比例。",
+    "sources": []
+  },
+  "structure-109-074": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "簡化施工計畫仍須交代怎麼施工、如何掌握進度及如何保護人員安全，即施工作業管理、進度管理與職安衛生管理；不能只留下開工或假設工程。",
+    "status": "historical",
+    "currentNote": "依題引計畫書編製要求，未將其當作所有現行招標契約的最低固定目錄。",
+    "sources": []
+  },
+  "structure-109-075": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "一般材料、機具調度是承商可管理的履約事項，發生困難不當然取得展延權；是否延長須有契約依據、不可歸責原因及對工期的實際影響。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-076": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "梁端集中傳力可能使腹板及斷面扭曲，橫向加勁板可補強局部斷面並改善力的傳遞；若是整體側向扭轉挫屈，還須另檢核側向支撐，不能只靠加勁板。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-077": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "預鑄把部分作業移到工廠並減少現場濕作，通常有利減少現場人力與作業時間；大量組裝不等於需要比傳統更多人，仍須吊裝及臨時支撐規劃。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-078": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "排水可用降板、架高地板或設備層形成同層排水，再接立管，不必把每戶橫支管放到下戶天花；整體與傳統衛浴均可依設計採用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-109-079": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "先確定基礎工程的設計與發包文件，可儘早啟動下部結構並確立上部施工的關鍵介面；單做土方未必能確定基礎、擋土及結構銜接需求。",
+    "status": "historical",
+    "currentNote": "依本題統包分階段發包情境作答；實際先後仍取決於要徑與核定設計完整性。",
+    "sources": []
+  },
+  "structure-109-080": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖螺栓群由中央向兩側鎖緊，可使接觸面逐步貼合、減少夾縫；本題另採上端至下端順序。最終預拉力仍須依核定施工及檢驗方法控制。",
+    "status": "historical",
+    "currentNote": "已查看螺栓群圖；中央向外為主要原理，上下先後不宜外推為所有接頭通則。",
+    "sources": []
+  },
+  "structure-110-001": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "纖維飽和點以下，吸放水改變細胞壁尺寸；木材沿年輪切線的弦向變化最大，徑向次之，沿纖維長向最小，因此易出現翹曲而非均勻伸縮。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-002": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "遮蔽係數SC＝玻璃日射熱取得率／基準玻璃取得率，愈低代表進入室內熱量愈少、阻熱較好。B的「阻擋…越高」按通常語意反而合理，與原答案有衝突。",
+    "status": "uncertain",
+    "currentNote": "已核對SC比值定義；來源解說亦有語意不順，保留B答案但不宣稱SC愈低阻熱愈差。",
+    "sources": [
+      {
+        "title": "綠建材標章：節能玻璃評定基準",
+        "url": "https://gbm.tabc.org.tw/modules/pages/glass"
+      }
+    ]
+  },
+  "structure-110-003": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "外遮陽在日射進入牆體或玻璃前先攔截熱量，可同時降低表面升溫及室內冷房負荷；深色低反射材料反而較吸熱，室內隔熱也難消除外側蓄熱。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-004": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "新建屋頂通常由上方雨水侵入，防水設在迎水側，因此迎水或背水的選擇較非主要變數；基材、含水、天候及是否有人行走才直接影響工法。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-005": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "本題II類吸水率範圍為大於3%且不超過10%，因此5%及7%同屬II類；2%屬較低吸水組，12%、14%、18%則超過此範圍。",
+    "status": "historical",
+    "currentNote": "依題引CNS9737歷史分級，未取得現行全文確認各成型方式的附加分組。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-110-006": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖磚拱與水平RC構件共同工作：拱主要承壓但在拱腳產生水平推力，RC構件可拉結並分擔開口受力，所以已有磚拱不代表過梁多餘。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-007": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "木材表面預先碳化不等於通過防火性能設計；須按火災炭化深度、殘餘有效斷面及接頭保護檢核承載，不能只看到黑色表面就認定耐火合格。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-008": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "鋼骨表面輕微、緊密鏽層若未影響斷面及握裹，不一定妨礙SRC使用，但油污、鬆鏽仍須清除；鍍鋅鋼與不鏽鋼不同，不能混稱。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-009": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "液態塗料不能取代基底修整。基面應堅實、潔淨並具適合粗糙度；直接塗在凹凸、粉化或受污染表面，易厚薄不均、剝離及降低耐久性。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-010": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "原圖以重錘經滑輪在窗扇中高處施加水平拉力，觀察窗扇能否滑開，屬開啟力試驗；風壓、氣密試驗則需對整窗施壓或量測漏氣。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-011": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "木材含水率以絕乾重量為分母：含水量500－450＝50克，50÷450×100%＝11.11%，約11%；除以乾燥前重量的10%不是此定義。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-012": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "本題CNS15833以輻射率ε小於0.2定義低輻射鍍膜玻璃；降低長波輻射交換可改善隔熱，但這不等於可見光透射率或日射遮蔽係數。",
+    "status": "historical",
+    "currentNote": "0.2門檻依題引歷史標準，未取得CNS15833現行全文核對。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-110-013": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "二丁掛是面磚的尺寸規格俗稱，並非材質或吸水率等級；CNS類別則按吸水率區分。馬賽克可用合適背紋及黏著系統，不能一概排除外牆使用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-014": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "養護目的在避免過早失水並維持適當溫度；單用透水覆蓋物而不保濕會讓水分逸散。吸水織物須持續保持潮濕，封膜則須具阻水蒸發能力。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-015": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "室內裝修材料、樓地板面與窗的綠建材使用率應達總面積60%以上；未使用綠建材的窗可不計入總面積，計算時應先確認分子分母範圍一致。",
+    "status": "checked",
+    "currentNote": "已核對建築設計施工編第321條第1款，現行60%及窗的排除規則與題意相符。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-110-016": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "再生建材減少原料開採與廢棄物處理，也能降低相關製造及運輸排碳，故對應二氧化碳與廢棄物減量；不能只追求回收量而忽略性能與無害性。",
+    "status": "checked",
+    "currentNote": "已核對評定機構再生綠建材目的，包含兩項EEWH減量指標及品質安全要求。",
+    "sources": [
+      {
+        "title": "綠建材標章評定機構：再生綠建材評估要項",
+        "url": "https://gbm.tabc.org.tw/modules/pages/regeneration"
+      }
+    ]
+  },
+  "structure-110-017": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "導牆先提供放樣、孔口支承及導引，再以抓斗挖槽；槽底清理驗收後吊入鋼筋籠，最後灌注混凝土，故順序為③②④①。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-018": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "筏基可分散載重與減少差異沉陷，但不能阻止鬆砂在地震時孔隙水壓上升，故對防止液化本身幫助較少；地盤改良則可直接改善土層抗液化能力。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-019": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "以鋼板組焊箱型柱通常需多條全長角部銲縫及內部隔板，製作和檢驗成本較高，不能概稱銲接長度較短而經濟；其優點主要是雙向剛度與抗扭。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-020": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "主筋平行鋼板時須留足空間，供粗骨材通過與形成握裹；施工規範要求淨距至少25毫米且不小於最大粒徑1.25倍，題列15毫米不足。",
+    "status": "checked",
+    "currentNote": "已核對SRC施工規範4.3第6項的平行主筋淨距。",
+    "sources": [
+      {
+        "title": "鋼骨鋼筋混凝土構造施工規範第4章",
+        "url": "https://www.nlma.gov.tw/filesys/file/chinese/publication/law/lawdata/10008054682.pdf"
+      }
+    ]
+  },
+  "structure-110-021": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "題引壁式預鑄RC建築的限制為不超過五層、簷高15公尺；此處限定壁式系統，不能用來否定其他經設計認可的高層預鑄梁柱構造。",
+    "status": "historical",
+    "currentNote": "依原題歷史高度限制說明，未完成現行構造編高度例外及認可制度核對。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-110-022": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "未成熟材通常纖維角較大、尺寸穩定與力學性能較不利，不宜刻意提高比例；受彎高應力區與接頭處更應避免木節、缺角等重大缺陷。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-023": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "中空樓板去除中性軸附近效率較低的混凝土，在減重下保留較大結構深度與跨度；通常並非以減薄為主要優點，總厚度可能比一般實心板大。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-024": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "溫度與乾縮鋼筋可分散及限制裂縫寬度；增加水泥量可能增加水化熱與收縮，適當摻料及及早保濕養護反而有助降低裂縫風險。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-025": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "鋼承板在混凝土尚未硬化前須承受濕混凝土與施工載重，跨距、厚度不足時仍須臨時支撐；不能一概認定不需支撐且可任意減少小梁。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-026": {
+    "acceptedAnswers": [
+      "A",
+      "C"
+    ],
+    "text": "本題A、C均接受。木材伸縮與破壞模式受方向、含水率影響，不能一概稱伸縮小且脆；接頭初始剛度低也不等於延性好，還須穩定塑性變形能力。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-027": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "石材板本身通常不是能獨立跨越樓層、傳遞全部風震力的完整帷幕系統，須配合金屬支架與錨件；題意排除「純石材」，並非否認石材帷幕牆存在。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-028": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "已查看原卷四種剖面，原答案指定瀝青場地圖C有誤。瀝青面層應有穩定、壓實且排水合宜的基底，但圖中未給厚度及粒徑，尚不能確定命題所指錯層。",
+    "status": "uncertain",
+    "currentNote": "保留C；此圖的特定錯誤尚待原命題大樣或勘誤佐證，不憑答案杜撰層次。",
+    "sources": []
+  },
+  "structure-110-029": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "瀝青油毛氈需與基面良好黏結，潮濕基面易夾水、產生蒸氣壓而鼓起；應依材料要求乾燥處理，與水泥砂漿打底前適度潤濕的原理不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-030": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "題引舊版施工規範要求鋪貼兩週後檢查鼓起、鬆脫，不是兩天；須讓黏著材料養護後再評估，不過施工中發現明顯鬆脫仍應立即處理。",
+    "status": "historical",
+    "currentNote": "已核對國土署第09310章3.5.2所列兩週；不同機關、版本可能採不同檢查時點。",
+    "sources": [
+      {
+        "title": "國土署施工規範第09310章瓷磚",
+        "url": "https://www.nlma.gov.tw/filesys/file/chinese/dept/bw2/09310.pdf"
+      }
+    ]
+  },
+  "structure-110-031": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "估驗計價是依完成數量與契約支付工程款，並非材料性能的檢測方法；廠測、性能測試與竣工檢驗才是直接查驗設備品質與功能的作業。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-032": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "1.5平方公尺門墊未達2平方公尺門檻，絨布吉祥物與家具座墊亦非題列指定物品，故為②④⑥；舞臺布幕、布窗簾、廣告合板與人工草皮則屬規範範圍。",
+    "status": "checked",
+    "currentNote": "已核對現行防焰性能認證實施辦法第2條；舊題所稱實施要點已由辦法接續規範。",
+    "sources": [
+      {
+        "title": "防焰性能認證實施辦法第2條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0120073"
+      }
+    ]
+  },
+  "structure-110-033": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "放射線檢測使用X射線或γ射線穿透銲件，會造成游離輻射曝露，須設管制區並控制劑量；目視、磁粒及液滲不以游離輻射成像。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-034": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "連續壁垂直偏差會影響有效厚度、接縫止水、鄰地及鋼筋保護層，不能只打除凸出面就算合格；應先查明偏差範圍並由設計評估補救。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-035": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "題引規定的行駛方向煞車力為受煞車車輪載重15%，不是10%；應與吊車擺動的橫向側力分別處理，兩者方向與設計係數不能混用。",
+    "status": "historical",
+    "currentNote": "依建築構造編第24條題旨說明，尚未逐條核對現行吊車設計的所有荷載組合。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-110-036": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "灌注法把凝結或膠結材料注入土中，填塞孔隙或結合土粒，以增強、止水；排水固結工法主要適合低透水軟土，不應泛稱用於砂土或裂隙岩盤。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-037": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "鬆散且飽和的砂土在震動下有收縮趨勢，排水不及使孔隙水壓升高、有效應力下降，故高地下水位砂層最具典型液化風險。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-038": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "一般可打設、可回收且環境限制不嚴的工地，傳統鋼板樁可藉重複使用降低成本；靜壓、預壘樁及連續壁通常設備或施工成本較高。",
+    "status": "historical",
+    "currentNote": "題目採一般經濟性排序；不代表所有地層、深度及鄰房條件下鋼板樁皆最便宜。",
+    "sources": []
+  },
+  "structure-110-039": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "梁中段局部加勁板主要改善局部穩定，未必提高整體水平勁度；但A同時寫「增加梁深」，確實可能提高抗彎剛度，因此整句不能無條件判為無效。",
+    "status": "uncertain",
+    "currentNote": "保留A歷史答案，指出局部加勁與增加梁深被混列造成的歧義。",
+    "sources": []
+  },
+  "structure-110-040": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "先吊柱並固定，再將柱接頭以無收縮漿材填實形成可靠支承，接著吊梁板、封梁柱接頭模板及澆置混凝土，對應⑤③②①④。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-041": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "擺錘試驗需有足夠滑移長度、接觸區與試體支承，試片尺寸不是完全不受限制；測值也會受滑片、乾濕狀態及表面條件影響。",
+    "status": "historical",
+    "currentNote": "依題引CNS3299-12試驗原理說明，未取得現行全文確認試片最小尺寸。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-110-042": {
+    "acceptedAnswers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "text": "本題四個選項均給分，不存在可據以背誦的唯一最小尺寸。垃圾滑落孔道應避免堵塞、飛散及人員墜落，並依核定施工計畫配置圍護與承接措施。",
+    "status": "uncertain",
+    "currentNote": "原資料為全選項接受；未查得足以把50、60、70或80公分其中之一確定為唯一標準的依據。",
+    "sources": []
+  },
+  "structure-110-043": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "淺基腳調查須涵蓋承載與沉陷的應力影響區，題引原則為底面以下至少四倍基腳寬度或達可確認承載層，不是兩倍；只探淺層可能漏掉深部弱層。",
+    "status": "historical",
+    "currentNote": "查得官方手冊採四倍原則；實際深度仍須依現行基礎規範及地層調整，非一律止於四倍。",
+    "sources": [
+      {
+        "title": "112年建築物基礎構造設計規範3.2.3",
+        "url": "https://www.nlma.gov.tw/filesys/file/EMMA/a1120713.pdf"
+      }
+    ]
+  },
+  "structure-110-044": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "本題門窗抗風壓分級以240、280、360公斤力／平方公尺等為級距，480不在題列標準五級中；荷載能力須連同允許變形及試驗程序判定。",
+    "status": "historical",
+    "currentNote": "未取得CNS11526及相關窗產品標準現行全文，保留歷史分級答案。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-110-045": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "材料耐燃一級不等於整體牆或樓板具一小時防火時效；須符合經試驗或規範認可的板厚、岩棉密度、骨架與接縫組合，不能憑9毫米石膏板逕認合格。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-046": {
+    "acceptedAnswers": [
+      "B",
+      "C"
+    ],
+    "text": "節能玻璃評定的可見光反射率為不大於0.20，非0.25；U值是熱傳透率，也非題列0.25門檻，因此本題B、C都不符，均列可接受答案。",
+    "status": "checked",
+    "currentNote": "已核對現行節能玻璃基準SC≤0.35、反射率≤20%、透射率≥50%；整窗U值屬另一評定項目。",
+    "sources": [
+      {
+        "title": "綠建材標章：節能玻璃評定基準",
+        "url": "https://gbm.tabc.org.tw/modules/pages/glass"
+      }
+    ]
+  },
+  "structure-110-047": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "大理石由石灰岩等經高溫高壓再結晶形成，屬變質岩；花崗岩、安山岩屬火成岩，砂岩由砂粒沉積膠結形成，屬沉積岩。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-048": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "不明既有油氣管須先隔離供應、確認卸壓與安全排氣並封閉，經主管單位確認後才拆除；直接切管或點火會讓殘留可燃氣遇火源而爆炸。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-049": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "原圖D同時以梁端接合及上下加勁角鋼、肋板限制轉角，使梁翼板力偶可傳入柱，最符合題意的剛接；僅托住梁底或接腹板者較接近剪力接合。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-050": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般玻璃纖維加樹脂是複合補強材料，樹脂遇高溫會軟化、劣化，不能當成鋼構防火被覆；耐火板、合格噴附材與膨脹型防火漆才是常見系統。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-051": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖先裝②立柱、①扶手形成欄杆骨架，再裝⑤C型鋼骨架及④鋁包板，最後安裝③玻璃，可避免玻璃妨礙固定加工並降低碰損，故②①⑤④③。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-052": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "題定2019年基地保水計算，透水鋪面基層厚度最多認列25公分；若面積為A，基層保水量為A×min(實厚,0.25)×0.05立方公尺。",
+    "status": "historical",
+    "currentNote": "已查看剖面並依題定歷史評估值列式；未完成最新版EEWH基層認列上限核對。",
+    "sources": []
+  },
+  "structure-110-053": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "2×4是木材名目英吋尺寸，乾燥及刨光後常用實尺寸約38×89毫米，即3.8×8.9公分；不能直接按整數英吋換成5×10公分。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-054": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖C以密排小斷面立柱組牆，逐層由樓板平台承托上層牆架，符合平台式框組壁工法；傳統大斷面柱梁及通長構架的傳力配置不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-055": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖B是電梯門側樓層點字標示的高度，為135公分，便於站姿或坐姿觸讀；A是入口標誌、C是呼叫鈕、D是地板導引範圍，不能互換。",
+    "status": "checked",
+    "currentNote": "已核對404.3，觸覺裝置中心點距地板面135公分。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-110-056": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "一般無障礙室外通路淨寬至少130公分，題列120不足；淨寬應扣除突出物及障礙，並另檢核坡度、淨高與格柵開口。",
+    "status": "checked",
+    "currentNote": "已核對203.2.3；202.4獨棟或連棟住宅特例的通路寬度則為至少90公分。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-110-057": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "合板相鄰薄板紋理交錯，降低沿單一紋理劈裂與變形，較便於不同方向裁切；但其面板強弱軸仍可能不同，不能解讀成各方向結構強度完全一致。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-058": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "矩形SRC斷面至少四角各一根主筋，有利配筋連續與圍束。主筋平行鋼板的基本淨距為25毫米且至少1.25倍最大骨材粒徑，並非題列30及1.30。",
+    "status": "historical",
+    "currentNote": "已核對SRC施工規範淨距；頂層錨定與輔助筋完整條件未逐項作最新版核對。",
+    "sources": [
+      {
+        "title": "鋼骨鋼筋混凝土構造施工規範第4章",
+        "url": "https://www.nlma.gov.tw/filesys/file/chinese/publication/law/lawdata/10008054682.pdf"
+      }
+    ]
+  },
+  "structure-110-059": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "銲道安全取決於內力、有效喉厚、材料及施工檢驗，不能一概認為填角銲較安全；全滲透開槽銲可使接頭按適當設計充分傳遞母材內力。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-060": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "基樁近樁頂受彎剪與地震作用較重要，題引規定接頭不得設在基礎版面下3公尺內，以避免高需求區接頭成弱點；接頭亦須確保傳力連續。",
+    "status": "historical",
+    "currentNote": "3公尺依原題構造編規定，未逐項核對現行基樁接合例外與設計條件。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-110-061": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "大於D36鋼筋原則不得一般搭接，因粗筋握裹與劈裂影響較大，須採機械或銲接等方式；規範另列特定受壓搭接例外，不能省略例外條件。",
+    "status": "historical",
+    "currentNote": "舊施工規範5.4.1可佐證原題；新版第25章另規定D43、D57與較小筋受壓搭接條件。",
+    "sources": [
+      {
+        "title": "110年結構混凝土施工規範第5章",
+        "url": "https://www.nlma.gov.tw/filesys/file/chinese/publication/law/law/1100809581.pdf"
+      },
+      {
+        "title": "混凝土結構設計規範第25章鋼筋細節",
+        "url": "https://www.nlma.gov.tw/uploads/files/011d9249cac7d6c5547786aa348e352a.pdf"
+      }
+    ]
+  },
+  "structure-110-062": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "粗骨材最大粒徑須受模板最窄尺寸、板厚及鋼筋淨距限制，才能順利通過並搗實；水愈多會提高水膠比與收縮，配比目標強度也不是固定僅加1個標準差。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-063": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般框組架可平放，但屋架宜垂直排列並加側向固定，避免細長構件受不利方向自重而彎扭；題列把框組架與屋架一律平放，忽略差異。",
+    "status": "historical",
+    "currentNote": "已查得公告規範9.2的堆置方式；未確認後續全部修正條文，故以歷史規範解釋。",
+    "sources": [
+      {
+        "title": "冷軋型鋼構造施工規範第9章（96年公告）",
+        "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg013218/ch02/type2/gov10/num3/OEg.pdf"
+      }
+    ]
+  },
+  "structure-110-064": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "乾燥多孔基面會迅速吸走水泥系黏著劑的水分，造成水化不足；吸水調整材可控制這種失水，讓接著層保有足夠水分與開放時間。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-065": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "高水位且透水良好的砂層開挖易湧水、流砂及坡腳流失，難以維持自由邊坡；須先評估降水、止水及支撐，不能視為邊坡式開挖的適宜條件。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-066": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "活動隔牆位置可能隨使用改變，題引規定以每平方公尺100公斤的均布活載重預留其效應；不能只按當次隔間位置而忽略日後變動。",
+    "status": "historical",
+    "currentNote": "100公斤／平方公尺依原題構造編歷史門檻，未完成現行荷載章逐條核對。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-110-067": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "新增天花會遮蔽原灑水頭與探測器，須依完成後空間重新配置，使設備能有效灑水及偵測；廚房門若涉及防火區劃，不能只按裝修喜好換材。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-068": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "本題B、D均接受。環氧地坪裂縫應採相容修補系統，單用水泥易產生收縮與含水問題；D先列五層卻又稱三層完成，文字亦矛盾，不宜作標準厚度依據。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-069": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原圖C在底層多柱與兩側外柱較高範圍補強，兼顧下層較大需求及邊柱受傾覆彎矩作用，避免全高全柱施作的成本；實際範圍仍須耐震分析確認。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-070": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "先迴避敏感棲地，其次把不可避免的衝擊減至最小，再補償殘餘損失，最後追求整體生態效益最適化；不能以補償為理由跳過迴避與減輕。",
+    "status": "historical",
+    "currentNote": "依本題四階段生態規劃術語，未核對特定道路工程最新審查指引。",
+    "sources": []
+  },
+  "structure-110-071": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "題列兩小時牆體的RC或SRC厚度須達10公分；7公分SRC牆不足。柱、牆及高壓蒸氣養護板是不同列舉構造，不能只因同為水泥材料互套厚度。",
+    "status": "historical",
+    "currentNote": "依題引防火構造列舉表解釋，未完成2026年所有認可替代構法核對。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-110-072": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "綠化屋頂可遮蔭蒸散、改善隔熱並提供休憩或農園；違建是否減少屬管理與執法結果，不是綠化構造本身可保證的主要性能。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-073": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "維護性能重點是管線是否可接近、分離、檢修及更換，因此檢討埋設位置、管道間配置與檢修口尺寸；門板材質不是此項A至C級的主要判級條件。",
+    "status": "historical",
+    "currentNote": "依原題住宅性能評估制度分類，未取得最新版評估表逐項確認。",
+    "sources": []
+  },
+  "structure-110-074": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "電線管的功能是保護配線，不能當成燈具的受力懸吊件；燈具須依重量及系統規定，以獨立吊線或核可吊件可靠連至結構，避免地震掉落。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-075": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "四層以下且非供公眾使用建築，得引用可靠鄰地資料的開挖深度界線為5公尺，不是6公尺；若缺乏可靠資料或達另列條件，仍須探勘。",
+    "status": "checked",
+    "currentNote": "已核對建築構造編第64條的5公尺、四層及600平方公尺條件。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-110-076": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "價值工程重視功能與成本的比值；在安全與必要功能滿足下，同時提升品質、降低成本最能提高價值，並非單純壓價或刪除必要工作。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-077": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "國產結構材成本受林業規模、加工乾燥、分級與供應鏈影響，不能一概說比進口便宜；在地材料有產業及環境效益，也不自動代表價格較低。",
+    "status": "historical",
+    "currentNote": "此為110年市場情境的判斷，未查2026年即時木材報價，不宣稱目前價格排序。",
+    "sources": []
+  },
+  "structure-110-078": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "PERT與CPM都以網圖表達前後關係、找出影響完工的要徑，並支援資源安排；PERT偏重時間不確定性，CPM較常用於工期與成本權衡。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-079": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "篩分析可掌握骨材粒徑級配，較密實的大小粒徑搭配可減少空隙與所需漿量，因此有助經濟配比；比重試驗本身不直接決定骨材堆積孔隙。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-110-080": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "預鑄構件在工廠較能控制模板、配料、養護與檢驗條件，因此構件本身品質穩定是重要優勢；總成本、適用性與現場接頭品質則仍取決於個案。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-001": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "高品質氟碳塗層的碳氟鍵穩定，對紫外線、粉化及色澤劣化具有較佳抵抗力，所以題列選氟碳烤漆；實際耐候仍受前處理、膜厚及配方影響。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-002": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "一小時防火牆的RC、SRC或鋼骨混凝土列舉厚度下限為7公分，題列6公分不足；耐火判定須針對完整構造，不能只看材料名稱。",
+    "status": "checked",
+    "currentNote": "已核對建築設計施工編第73條第1款第1目，現行門檻為7公分。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-111-003": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "天窗較能取得天空光，規定有效採光面積以實際採光面積3倍計，不是6倍；此為法定採光換算係數，不代表任何天窗照度一定等於側窗3倍。",
+    "status": "checked",
+    "currentNote": "已核對第42條第3款天窗三倍規定。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-111-004": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "止水帶埋設於混凝土施工縫或伸縮縫兩側，延長並阻斷水沿接縫滲入的路徑，主要服務結構接縫止水；排水管逆流須靠另一類設備處理。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-005": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "先後澆置混凝土之間容易形成滲水接縫，預埋止水帶可使兩側混凝土共同包覆以阻水；滴水槽則是切斷附壁水路，並非利用毛細作用吸水。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-006": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原照甲採架高整理管線，丙把穿出管根集中於高起基座，較能讓防水層連續收頭；乙支點繁多、丁管根密集直接穿屋面，細部較難完整處理。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-007": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "常時關閉防火門的單一門扇面積不得超過3平方公尺，並須可免鑰匙開啟與自行關閉；題列6平方公尺放大一倍，超過規定。",
+    "status": "checked",
+    "currentNote": "已核對第76條第3款第2目，單扇上限3平方公尺。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-111-008": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "題中石製品指燒製的石器質陶瓷而非天然石材。燒結愈充分通常孔隙愈少，因此瓷質吸水最低、燒成溫度最高，石質居中，陶質相反。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-009": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "剪力釘把鋼梁與混凝土板間的界面剪力傳遞出去，抑制相對滑動，使兩者形成合成構件；並非主要用來定位綁筋或當作灌漿標高標記。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-010": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "緻密混凝土可減慢二氧化碳滲入，但減薄保護層會縮短碳化前緣到達鋼筋的距離，使失去鹼性保護提早發生；應兼顧低滲透性與足夠厚度。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-011": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "題引規範表1-1中，80公斤力／平方公分的加強混凝土空心磚造仍限三層、簷高11公尺，不能因磚強度較高就建四層、簷高12公尺。",
+    "status": "historical",
+    "currentNote": "已核對公告版1.3.4及表1-1；未完成後續所有修正與特殊認可核對。",
+    "sources": [
+      {
+        "title": "建築物磚構造設計及施工規範1.3及表1-1",
+        "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg013249/ch02/type2/gov10/num7/OEg.pdf"
+      }
+    ]
+  },
+  "structure-111-012": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "輸氣劑形成均勻微氣泡，改善工作性、抗凍融並降低離析；在水膠比等條件相近時，增加含氣量通常降低抗壓強度，不能把增強度當主要作用。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-013": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "熱浸鍍鋅與鋅粉漆可提供屏障及犧牲陽極保護，粉體與氟碳塗裝則以連續塗膜隔絕腐蝕介質；四者均可用於合適鋼材防蝕系統。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-014": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "乾燥可提高纖維飽和點以下木材的多項強度，並減少真菌及喜潮害蟲的適生條件；但乾燥不等於防蟻處理，仍可能受乾木白蟻侵害。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-015": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般心材含較多抽出物，常比邊材耐腐及耐蟲；題目據此選心材。木材強度具方向性，40至50%含水率仍過高，空氣乾燥也不是典型人工窯乾。",
+    "status": "historical",
+    "currentNote": "心邊材的收縮翹曲仍依樹種與取材位置變化，不能將選項敘述視為所有木材定律。",
+    "sources": []
+  },
+  "structure-111-016": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "在其他配比與養護條件相近時，水灰比增大會留下較多毛細孔隙而降低強度，過多拌合水逸散也增加乾縮；不能為改善流動性任意加水。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-017": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "木絲水泥板利用多孔組織提供吸音與隔熱，且板體不透明；本題未把濕度調節列為主要性能，不能與專門經調濕試驗評定的建材直接等同。",
+    "status": "historical",
+    "currentNote": "依題目材料分類作答；部分產品仍可能吸放濕，不能解讀為完全沒有調濕作用。",
+    "sources": []
+  },
+  "structure-111-018": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "生態性重點在材料取得及製程對資源、能源與環境的低負荷，常強調自然及可再生來源；人工材料不必然無匱乏疑慮，更不能以人工二字保證生態友善。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-019": {
+    "acceptedAnswers": [
+      "C",
+      "D"
+    ],
+    "text": "本題C、D均接受。C的可引用鄰地資料開挖界線應為5公尺；D省略原條文所在的建築條件而有範圍爭議，不能據此宣稱600平方公尺門檻本身錯誤。",
+    "status": "uncertain",
+    "currentNote": "已查得第64條確有600平方公尺及5公尺文字；D列入計分的確切命題說明尚未取得。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6174"
+      }
+    ]
+  },
+  "structure-111-020": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "樁可依主要作用分為端承、摩擦及壓實等用途；離心RC與預力樁通常是工廠預鑄品，非現場灌注樁，反循環鑽孔也須考慮孔壁穩定與水頭控制。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-021": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般密實砂礫土承載較佳，普通黏土次之，淤泥軟黏土沉陷較大；有機土常具高壓縮性與長期蠕變，最不利。實際仍須以原位與室內試驗判定。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-022": {
+    "acceptedAnswers": [
+      "A",
+      "D"
+    ],
+    "text": "本題A、D均接受。題引鋼構規範熱加工上限採650℃，非750℃；冷彎後消除內應力的處理寫為內外側適當加熱，D只列外側，與條文不符。",
+    "status": "historical",
+    "currentNote": "已核對舊版3.3的溫度及內外側要求；不同鋼種及後續施工規範條件仍須另查。",
+    "sources": [
+      {
+        "title": "鋼構造施工規範第3章加工及整型",
+        "url": "https://www.nlma.gov.tw/uploads/files/182fbd64201ebdf567f657ebff75b232.pdf"
+      }
+    ]
+  },
+  "structure-111-023": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "拉伸試驗會把試件拉至變形或破壞，確屬破壞試驗；但螢光滲透或螢光磁粒本身可屬非破壞檢測，因此④僅稱螢光檢驗並不足以排除，原答案C有用語歧義。",
+    "status": "uncertain",
+    "currentNote": "保留C，不把所有螢光檢驗錯稱為破壞試驗；題目可能僅採特定檢測名稱分類。",
+    "sources": []
+  },
+  "structure-111-024": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "中空管間的混凝土肋與上下板形成類I形截面，把材料放在遠離中性軸處，以較少自重保有抗彎效率；管材主要形成空腔，不能直接當作主要承重鋼梁。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-025": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "土埆磚多為未燒土塊，抗拉與接縫黏結有限，地震水平作用易使牆開裂或倒塌；除防潮外，牆體拉結、屋頂連結及整體耐震尤須注意。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-026": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "墩座或金屬柱腳可讓木柱離開易積水地面，配合通風及排水降低腐朽風險；木材本身隔熱並不代表2×4牆體可省去所有必要保溫層。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-027": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "基礎版底接近土壤與地下水，且施工定位誤差、污染及侵蝕風險較高，通常須比室內梁柱或牆有更厚保護層，以維持耐久與握裹。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-028": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "鐵釘、木螺釘與螞蝗釘均可穿入或夾扣木料固定；一般鉚釘靠塑性成形夾緊金屬板，並非木作接合最常用扣件。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-029": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "孔位略有偏差時，可在設計及規範容許範圍以鉸孔修整後裝栓；不得靠鎚擊硬塞造成孔壁與螺紋損傷，螺栓群也宜由中央向外逐步緊固。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-030": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "CNS14280題列帷幕牆試驗著重氣密、水密、風壓結構及層間變位等整體性能；隔熱需另用熱工試驗，並非該組基本物理性能試驗項目。",
+    "status": "historical",
+    "currentNote": "未取得CNS14280現行全文，依歷史試驗項目分類說明。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-111-031": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "一般淺色、高日射反射率表面可減少吸熱；深色不保證高反射，亮面也不等於近紅外反射佳。隔熱塗料應看實測反射及放射性能，非只看顏色光澤。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-032": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "屋頂接縫提供可控制的相對位移空間，降低溫度伸縮及結構變形造成的隨機裂縫；接縫須配合可伸縮防水細部，排水與美觀只是附帶考量。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-033": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "承重RC牆承受軸力與彎矩，可類比沿牆長連續分布的柱截面來理解配筋，但仍須檢核牆剪力與邊界；帷幕牆通常不承擔主體樓層垂直載重。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-034": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "單純更換地坪面材不在室內裝修定義的四類行為中；固定天花、內牆、高於1.2公尺固定隔屏與分間牆變更則在範圍內，因此題列地坪更換可排除。",
+    "status": "checked",
+    "currentNote": "已核對室內裝修管理辦法第3條；仍應遵守其他防滑、防火及使用安全要求。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法第3條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070148"
+      }
+    ]
+  },
+  "structure-111-035": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "無障礙廁所須有兩處求助操作位置，一處供馬桶上使用，另一處讓跌倒者低位求助；只設一處可能在跌倒後無法觸及，故D不足。",
+    "status": "checked",
+    "currentNote": "已核對504.4.1；低位求助鈴中心距地面15至25公分，另一處距座墊上方60公分。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-111-036": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "題引工作台護欄下垂直空間上限為90公分，並非1公尺；此數值與職安規定的上欄杆高度、中欄杆及開口限制是不同概念，不可混用。",
+    "status": "historical",
+    "currentNote": "依建築設計施工編第156條題旨，施工現場尚須併檢營造安全衛生設施標準。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "structure-111-037": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "百利達樁以打設套管及形成擴大底部的夯打程序為主要特徵，非靠鑽掘排土成孔；全套管、反循環及土鑽樁則屬鑽掘成孔的現場灌注類。",
+    "status": "historical",
+    "currentNote": "依傳統基樁工法分類說明，未核對特定機型的改良工序。",
+    "sources": []
+  },
+  "structure-111-038": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "吊臂加長會增加作業半徑及自重效應，通常降低允許吊重並提高穩定要求；應依吊重表選適當臂長與支腿配置，並非越長越安全經濟。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-039": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "直橫料式在現場逐支架設框料、裝板及填縫，外側操作量較多，常配合鷹架；單元式則多由工廠完成大部分組裝後吊掛。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-040": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原圖牆面與磚背均施黏著灰漿，厚度分別約4至6與3至4毫米，再壓合密貼，是改良式壓貼；雙面塗佈有助填滿背溝並提高接觸面積。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-041": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "隔震週期約為2π√(m/k)，橡膠支承需兼顧承壓與足夠水平柔度；較輕建物未必能有效拉長週期，因此不能把重量輕列為橡膠隔震墊普遍優勢。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-042": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "生態池須有超過設計蓄水量時的安全溢流途徑；只靠入滲遇暴雨可能漫淹、沖刷或危及周邊，故不能禁止連接排水系統的溢流口。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-043": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "鋼斜撐主要沿所在構架平面提供側向抵抗，明顯具有方向性；配置須與薄弱方向、扭轉及基礎傳力協調，不能只依空間需求任意放置。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-044": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "清水磚勾縫把外露灰縫壓密成形，減少雨水由接縫滲入並統一立面線條，主要是防水與美觀；磚的主要黏結在砌築砂漿，不靠表面勾縫才成立。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-045": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "木材才數＝長度台尺×寬度台寸×厚度台寸÷10，因此5×3×0.6÷10＝0.9才；長寬厚的單位必須一致依慣用公式換算。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-046": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "本題公共兒童遊戲場設備整體適用年齡為2至12歲，並須按不同年齡能力設計；不能因都稱兒童就讓所有年齡共用同一難度及尺度的設備。",
+    "status": "historical",
+    "currentNote": "標檢局資料可佐證2至12歲範圍及110年學齡前分組調整；未取得最新版完整標準逐條核對。",
+    "sources": [
+      {
+        "title": "標準檢驗局110年度決算：CNS12642適用年齡說明",
+        "url": "https://hsinchu.bsmi.gov.tw/wSite/public/Data/f1644890242964.pdf"
+      }
+    ]
+  },
+  "structure-111-047": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "地下室面對土壤水壓，常採先施或後施外防水，也可在內側處理；等壓空腔主要消除外牆風雨壓差，不能直接抵消地下持續靜水壓。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-048": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "珪藻土表面多孔且質地較脆，容易因撞擊磨耗而破損，不能當成高硬度耐衝撞面材；隔熱、吸附等性能也須看實際配方，不是名稱即可保證。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-049": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "存水彎以水封阻止排水系統臭氣進入室內，主要目的不是隔音；牆做到結構板、地板下彈性材及雙層玻璃則可分別改善聲音繞傳或振動傳遞。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-050": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "柱模底部小活門是清掃口，供澆置前取出木屑、鐵絲及落渣；清理驗收後封妥再澆置，可避免柱腳夾雜物造成蜂窩與脆弱接面。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-051": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "原圖甲、丁在蓋板下另設可變形的弧形防水承接層，能兼顧位移及接水，較符合室外伸縮縫；乙、丙主要是蓋板遮縫，缺第二道防水。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-052": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "原圖B、D的木扶手與玻璃欄板之間僅留3公分，未達5公分抓握淨距；即使扶手高度符合，手指空間不足仍不合格，因此兩者均列可接受答案。",
+    "status": "checked",
+    "currentNote": "已核對207.3.2扶手鄰接壁面之淨距至少5公分，並重新檢視原圖3公分標註。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-111-053": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "噴凝土可貼合不規則或較陡坡面形成框架，並非專以小於45度緩坡為較適用條件；框內植生包、止滑釘及排水各負責不同穩定功能。",
+    "status": "historical",
+    "currentNote": "已查看原圖，未取得該型框工法的坡度適用原始標準，故不另定統一角度界線。",
+    "sources": []
+  },
+  "structure-111-054": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "路緣石提供側向拘束，防止磚塊受輪胎力推擠外移並分隔草地；圖示並非密閉擋水壩，透水鋪面仍須容許排水與溢流，不能以阻絕漫流為主要功能。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-055": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "雙層扶手供不同身高及使用需求抓握，原圖A為低道65公分、B為高道85公分，皆由梯級鼻端基準量高；110公分則是外側欄杆高度。",
+    "status": "checked",
+    "currentNote": "已核對207.3.3及305.1；小學雙道扶手高度另各降低10公分。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-111-056": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "先整理牆面以確保錨定基底可靠，再放樣定位、安裝鐵件與石板、填斂縫，最後清除施工污物；若先清潔再填縫，仍會產生新的膠漿污染。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-057": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "白華常提示水分遷移，裂縫與鼓脹則可能反映黏著層劣化，均須注意；熱顯像受日照及含水影響，不能保證100%檢出，拉拔也不是無損檢測。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-058": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "斜撐把水平力轉成桿件軸力，並經端部扣件傳至梁柱與基礎，功能相當於RC剪力牆的側向抵抗；不能只當成室內分隔裝飾。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-059": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "冰水降低入模溫度及後續溫升，有助減少溫差與受拘束降溫裂縫；這較精確稱溫度裂縫，不等同乾縮。原答案C可理解為減少裂縫，但用語不夠準確。",
+    "status": "uncertain",
+    "currentNote": "保留C；拌合水降溫不直接減少水泥最終水化總熱量，亦不能取代保濕養護。",
+    "sources": []
+  },
+  "structure-111-060": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "題目「一種磚」採CNS普通磚第一種分級，吸水率上限為10%；吸水反映開放孔隙，但選作承重材料時仍須一併確認抗壓強度與尺寸。",
+    "status": "historical",
+    "currentNote": "10%依原題歷史CNS分級，未取得現行CNS382全文核對。",
+    "sources": [
+      {
+        "title": "標準檢驗局CNS標準目錄（非標準全文）",
+        "url": "https://www.bsmi.gov.tw/bsmiGIP/wSite/public/Data/f1498186033168.pdf"
+      }
+    ]
+  },
+  "structure-111-061": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "題列實木地板可提供平整且較連續的輪椅通行面；長毛地毯增加滾動阻力，粗磚易不平，拋光磚潮濕時較滑。木地板仍須採適當防滑表面。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-062": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "無障礙構造詳圖至少以1：50繪製，才能清楚標註扶手、門檻及設備細部；1：100、1：200縮得更小，不符題列最小比例要求。",
+    "status": "checked",
+    "currentNote": "已核對112年修正應標示事項表，構造詳圖仍至少1：50；配置圖及各層平面圖比例不限。",
+    "sources": [
+      {
+        "title": "112年建造執照無障礙設施工程圖樣種類及說明書應標示事項表",
+        "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg029068/ch02/type2/gov10/num2/images/Eg01.pdf"
+      }
+    ]
+  },
+  "structure-111-063": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "通達無障礙機車位的出入口及車道須至少180公分，題列150不足；車位本身的長寬與通行車道是不同尺寸，均須分別檢核。",
+    "status": "checked",
+    "currentNote": "已核對805.2的180公分規定；805.1車位本身則至少長220、寬225公分。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（109年5月11日勘誤全文）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "structure-111-064": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "施工規範以文字規定材料性能、施工程序、品質檢查與驗收原則；圖面表達位置尺寸，數量表供估價計量，彼此互補但功能不同。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-065": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "架高木地板通常先防潮，再設角材調平，上鋪夾板形成連續支承，最後釘長條木板；若夾板放在角材下方，便失去直接承托面板與分散載重功能。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-066": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "天花吊筋應連接可靠結構體，不能掛在水電或空調管線上，以免管線承受額外荷重並在維修時連帶失效；遇衝突應調整吊點或設合適轉接支架。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-067": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "滴水槽或滴水緣切斷雨水沿底面回流的路徑，使水離開牆面滴落，減少積垢與流痕污染；若位置或形狀不當，水仍可能沿表面爬流。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-068": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "給水、排水及消防均為水系管線，可在妥善配置下共用濕式管道間；強弱電宜與可能漏水的管線分隔，並考量弱電的電磁干擾與維修安全。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-069": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "袋裝水泥易吸濕而預先水化結塊，應離地、防雨且保持乾燥，堆高亦須限制以免受壓結硬；單純強調通風或可大量重壓並不恰當。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-070": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "四面大開窗可能增加日射熱、眩光與空調負荷，未必省能；須依朝向、遮陽、玻璃性能及可開啟通風路徑設計，採光與節能並非只靠面積放大。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-071": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "題設排序為玻璃磚、半磚粉光、空心磚粉刷、石膏板輕隔間；玻璃熔製與實心磚燒製耗能較高，輕隔間用料較少。碳足跡仍須以相同面積與功能比較。",
+    "status": "historical",
+    "currentNote": "依題定碳足跡資料排序，未取得原始係數表；不可直接當作各產品2026年的實測排碳排名。",
+    "sources": []
+  },
+  "structure-111-072": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般梁以垂直箍筋跨越正負斜裂縫承受剪力，配合縱向筋形成桁架作用；不是只配置沿梁水平鋼筋，就能替代抗剪箍筋。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-073": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "水泥熟料製造有燃料及石灰石分解排碳，混凝土又用量龐大，故宜減少不必要用量、採低碳配比；不表示可犧牲結構安全或所有木鋼材料都零碳。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-074": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "建造執照由起造人檢具申請及設計文件辦理，承造人主要負責施工計畫、施工損壞修復並配合竣工使照；不能把前期建照申請主責移給承造人。",
+    "status": "historical",
+    "currentNote": "依建築法角色分工說明，未核對地方受理及委託代理細節。",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "structure-111-075": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "本題B、D均接受。造價受工期、材料、斷面與工法影響，SRC未必一定最貴；耐震性能取決於系統、延性與接頭設計，也不能只按SS、SRC、RC名稱排名。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-076": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "初期規劃設計仍可改變系統、材料及工法，改動成本小且影響範圍大，價值工程通常效益較高；等施工完成再改，選擇少且拆改代價高。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-077": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "鋼筋通常按重量計量，先由各號筋長度乘單位重彙總為公斤或公噸；不能僅以公尺代表所有鋼筋數量，損耗率亦須依裁切排料與契約取定。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "structure-111-078": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "成本加百分比報酬會隨成本增加而增加，不利形成節約誘因，適用性須視範圍不確定與成本稽核需求。原答案D，但零星修繕也可能採此法，僅按規模不足以判錯。",
+    "status": "uncertain",
+    "currentNote": "保留D；本題契約類型適用性過度簡化，未找到可排他判定的契約規範依據。",
+    "sources": []
+  },
+  "structure-111-079": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "111年考試當時公告金額為100萬元，故原答案A；公告金額是依法須採相應公告程序的級距，不是5,000萬元的工程財物查核金額。",
+    "status": "historical",
+    "currentNote": "已核對112年1月1日起公告金額改為150萬元；現行作業不可再沿用題目100萬元。",
+    "sources": [
+      {
+        "title": "工程會111年12月23日令：查核、公告及小額採購金額",
+        "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg028245/ch06/type1/gov51/num20/Eg.htm"
+      }
+    ]
+  },
+  "structure-111-080": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "工廠先銲托梁可提升現場吊裝與銲接便利，但突出托梁會增加運輸外廓及裝載困難，不能說運輸成本必然大幅降低；須整體比較製作、運輸與組裝成本。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  }
+}

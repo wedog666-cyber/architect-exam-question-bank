@@ -14,10 +14,15 @@ const NOTES = [
   ["legal-107-077", "B", "207.3.3", "一般雙層扶手為 65、85 公分；小學各降低 10 公分，得到 55、75。選 65、85 是漏看了小學這個條件。"],
 ];
 
-export const explanations = Object.fromEntries(NOTES.map(([id, answer, section, text]) => [id, {
+export let explanations = Object.fromEntries(NOTES.map(([id, answer, section, text]) => [id, {
   answer, section, text, source: SOURCE,
   sourceLabel: "建築物無障礙設施設計規範（101 年修正版；高公局存檔）",
 }]));
+
+export function installExplanations(data) {
+  if (!data || typeof data.explanations !== 'object' || !data.explanations) throw new Error('解析資料格式錯誤');
+  explanations = data.explanations;
+}
 
 const escape = (text) => String(text ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
@@ -26,8 +31,10 @@ export function renderExplanation(question, answer, correct) {
   const allAccepted = accepted.length === 4;
   const note = explanations[question.id];
   // Never attach an explanation to a changed/revoked answer key.
-  const verified = note && accepted.length === 1 && accepted[0] === note.answer;
-  const negative = /(?:何者|何項|哪些|何種|何一).*?(?:錯誤|不正確|不符|不適當|不包括|不包含)/.test(question.questionText.replace(/\s/g, ""));
+  const verified = note && (note.acceptedAnswers
+    ? JSON.stringify(note.acceptedAnswers) === JSON.stringify(accepted)
+    : accepted.length === 1 && accepted[0] === note.answer);
+  const negative = /(?:何者|何項|哪些|何種|何一|哪一).*?(?:錯誤|不正確|不符|不適當|不包括|不包含|不屬|不是)/.test(question.questionText.replace(/\s/g, ""));
   let guidance;
   if (allAccepted) guidance = "本題依答案修正採各選項給分，不能把某一個選項當成唯一正確結論。請留意上方修正備註。";
   else if (accepted.length > 1) guidance = `本題接受 ${accepted.join("、")}，選其中任一答案即可得分；請留意答案修正備註。`;
@@ -39,8 +46,10 @@ export function renderExplanation(question, answer, correct) {
     const labels = [chosen ? "你的選擇" : "", expected ? (allAccepted ? "給分選項" : "標準答案") : ""].filter(Boolean);
     return `<li class="review-option${expected ? " is-expected" : chosen ? " is-chosen-wrong" : ""}"><strong>${escape(option.key)}${labels.length ? ` · ${labels.join("／")}` : ""}</strong><span>${escape(option.text)}</span></li>`;
   }).join("");
+  const sources = verified ? (note.sources || [{title: `第 ${note.section} 節 · ${note.sourceLabel}`, url: note.source}]) : [];
+  const sourceLinks = sources.filter(s => /^https:\/\//.test(s.url)).map(s => `<a href="${escape(s.url)}" target="_blank" rel="noopener noreferrer">${escape(s.title)}</a>`).join(' · ');
   const detail = verified
-    ? `<h3>判斷理由</h3><p>${escape(note.text)}</p><p class="explanation-source">依據：第 ${escape(note.section)} 節 · <a href="${escape(note.source)}" target="_blank" rel="noopener noreferrer">${escape(note.sourceLabel)}</a></p><p class="explanation-note">此解析對應本題考試年度；歷屆試題與現行規定可能不同。</p>`
+    ? `<h3>判斷理由${note.status === 'uncertain' ? '（部分內容需再核對）' : ''}</h3><p>${escape(note.text)}</p>${note.currentNote ? `<h3>現行規定／補充</h3><p>${escape(note.currentNote)}</p>` : ''}${sourceLinks ? `<p class="explanation-source">參考依據：${sourceLinks}</p>` : ''}<p class="explanation-note">計分依歷屆公布答案。${note.status === 'checked' ? '本題已查核所列現行來源（2026-11-07）。' : note.status === 'principle' ? '本題以通用原理或實務概念解說。' : '此題說明不代表歷屆答案已全部符合現行規定。'}</p>`
     : allAccepted ? "" : `<p class="explanation-pending">詳細解析待補：目前提供答案對照，尚未完成本題的${question.subjectCode === "legal" ? "法條" : "原理或計算"}理由核對。</p>`;
-  return `<details class="review-explanation"${correct ? "" : " open"}><summary>${verified ? "答案解析" : "答案對照與判讀提示"}</summary><p>${!answer ? "本題未作答。" : ""}${escape(guidance)}</p><ul class="review-option-list">${options}</ul>${detail}</details>`;
+  return `<details class="review-explanation"${correct ? "" : " open"}><summary>${verified ? "答案解析" : "答案對照與判讀提示"}</summary><p>${!answer ? "本題未作答。" : ""}${escape(guidance)}</p>${detail}<h3>選項對照</h3><ul class="review-option-list">${options}</ul></details>`;
 }

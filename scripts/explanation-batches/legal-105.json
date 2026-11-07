@@ -1,0 +1,1162 @@
+{
+  "legal-105-001": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "有昇降機通達屋頂時，樓梯或昇降機屋頂突出物的高度上限為9公尺，符合面積等條件才可不計入建築高度。6公尺是沒有該昇降機條件的一般限值。",
+    "status": "checked",
+    "currentNote": "第1條第9款仍區分一般6公尺與有昇降機通達屋頂9公尺，並有水平投影面積限制。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-002": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "無窗戶居室的採光判斷是有效採光面積未達樓地板面積5%。例如房間20平方公尺，採光面積未達1平方公尺即符合這項定義；不要與一般居室的採光設計比例混淆。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-003": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "六層以上即達設置昇降機門檻，至少一座通達避難層；不是到七、八層才需設置。一般昇降機與緊急用昇降機的樓層門檻不同。",
+    "status": "checked",
+    "currentNote": "第55條第一款仍規定六層以上設一般昇降機；超過十層另依第106條檢討緊急用昇降機。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-004": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "一般防火門的基本門扇尺寸為寬至少75公分、高至少180公分，故問最低寬度選75。設於特定避難出口時，還要符合該出口的較嚴格規定。",
+    "status": "checked",
+    "currentNote": "第76條第二款仍列75公分門扇寬度；不能把此數字直接套用到所有逃生出口。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-005": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "本題依105年答案選KTV包廂分間牆；分戶牆、餐飲廚房分間牆及高層防災中心各有防火時效要求。應區分一般包廂隔間與依法劃設的防火區劃，不能理解成KTV不需防火。",
+    "status": "historical",
+    "currentNote": "此為歷屆牆體分類題，現場仍須按使用類組、區劃及現行第86條等規定檢討，未逐項確認本題全部條件的現行適用性。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-006": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "題目指直通樓梯在避難層通往屋外的出口，最低尺寸為寬1.2公尺、高1.8公尺。其他選項雖可能較寬或較高，卻不是本條規定的最低組合。",
+    "status": "checked",
+    "currentNote": "第90條第二款仍為寬1.2公尺、高1.8公尺。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-007": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "超過十層即要檢討緊急用昇降機，因此十一層也在檢討範圍內。B說十一層以下一律免檢討，將門檻多放寬了一層，故為錯誤敘述。",
+    "status": "checked",
+    "currentNote": "第55、106條以超過十層為原則，再判斷是否符合特定免設條件。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-008": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "緊急進口下緣須在樓地板面80公分以下，B寫100公分使消防救援跨入高度過高。寬75公分、高1.2公尺與間隔40公尺是其他不同項目的尺度。",
+    "status": "checked",
+    "currentNote": "第108、109條應併讀；一般替代開口與專設緊急進口都有下緣高度條件。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-009": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "防火間隔是在限制鄰地火勢延燒；退縮未達1.5公尺範圍的外牆，需依題示規定具有1小時以上防火時效。不要把外牆時效距離與門窗開口的防火要求混為一談。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-010": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "同層有兩個電影院單元，觀眾席面積應合計為1200×2=2400平方公尺，再套用集會用途的道路寬度級距，歷屆答案為15公尺；只算單一單元會低估規模。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-011": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "學校教室與臨路交通之間須留退縮，依法須留騎樓時，應先扣除騎樓地，再另留1.5公尺。因此不能僅退騎樓寬度，或把1.5公尺包含在騎樓內。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-012": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "105年題目以核定容納人數每人0.75平方公尺整體規劃，重點是以人數計算學校防空避難設備，不是把四幢校舍的建築面積一律全部附建。",
+    "status": "checked",
+    "currentNote": "重要變更：現行第141條自115年7月1日施行的標準為學校每人1平方公尺，並規定至最近避難設備步行距離不超過300公尺。舊題仍依當年答案C計分。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-013": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "共同使用梯廳的免計面積上限是該層樓地板面積10%，故選B。還須符合梯廳淨深度等條件，且陽臺加梯廳的合計免計面積另有總上限。",
+    "status": "checked",
+    "currentNote": "第162條仍列梯廳10%，並規定陽臺與梯廳合計超過15%的部分須計入。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-014": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "本題已滿足道路陰影面積條件，再檢核高度上限H≤3.6×（道路寬度＋至建築線距離）=3.6×(10+5)=54公尺，故選C。不能只乘道路寬度10公尺。",
+    "status": "checked",
+    "currentNote": "第164條同時要求陰影面積及最大高度限制，不能只符合其中一個。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-015": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "住宅挑空的原則位置是客廳或客餐廳上方，所以選客廳，不能任意放在臥室或廚房。題目是在考不計容積等通常條件下的挑空位置限制。",
+    "status": "checked",
+    "currentNote": "第164條之1另有面向空地、面積與高度要求；挑空計入容積或經預審同意的情形另有規定。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-016": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "C說明多種廢料混合使用時的摻配總比例要求，符合資源化磚類的判定方式。A把回收再利用建材一概限為窯燒產品；B、D又把綠建材使用率誤寫成15%、5%。",
+    "status": "historical",
+    "currentNote": "綠建材使用比例曾修正，現行設計應另查第321條與相關認可規定，不可使用題內15%、5%作為通則。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-017": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "緊急電源優先支援消防、避難與必要安全設備；出口標示、火警警報和地下排水涉及人命或災害防止。一般辦公電腦UPS屬營運需求，並非題示必接緊急電源的安全設備。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築技術規則建築設備編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070117"
+      }
+    ]
+  },
+  "legal-105-018": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "建築法第3條列的是都市計畫地區、區域計畫地區及內政部指定地區，沒有「綜合計畫地區」這個法定項目；前述地區外的公有及供公眾使用建築也適用。",
+    "status": "checked",
+    "currentNote": "現行第3條的列舉方式仍支持答案B。",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-019": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "非都市土地使用分區有農業、工業、國家公園等；「水庫區」不是此處列舉的使用分區名稱。水庫相關土地仍須依其實際分區與使用地類別判斷。",
+    "status": "checked",
+    "currentNote": "現行區域計畫法施行細則第13條仍無水庫區；河川區與水利用地也分屬不同層次，不能混稱。",
+    "sources": [
+      {
+        "title": "區域計畫法施行細則第13條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070031"
+      }
+    ]
+  },
+  "legal-105-020": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "市場的面積門檻為500平方公尺，本題400平方公尺尚未達到，因此選A。各用途的面積門檻不同，不能因同為400平方公尺就作相同判斷。",
+    "status": "checked",
+    "currentNote": "國土署所列供公眾使用建築物範圍第6點仍以市場500平方公尺以上為門檻。",
+    "sources": [
+      {
+        "title": "供公眾使用建築物之範圍",
+        "url": "https://www.nlma.gov.tw/ch/legislation/law%26regusw/1120"
+      }
+    ]
+  },
+  "legal-105-021": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "主要構造任一種過半修理屬修建；部分拆除而不增高、不擴大屬改建，兩者一般都請領建造執照。D的整建包括改建、修建、充實設備及改善公共設施，故正確。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-022": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "專業技師分工包含電力及空調等專業設備工程。庭園植栽、景觀照明或一般音響不能概括視為本題所問應交專業工業技師負責的法定工程組合，故選B。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-023": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "第39條以起造人為按核定圖說建造的法定義務主體，故選A。承造人實際施工、監造人查核施工，各自仍有責任；題目不是問現場由誰施作。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-024": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "領得建造執照後原則須於6個月內開工；有事由不能開工時，應依規定在期限前申請展期。不能把執照領取後的開工期限與施工竣工期限混用。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-025": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "A具有擅自執業、已被勒令停止卻仍繼續的要件，依法可涉及刑責。其餘違規需依各別行政罰及具體情節處理，不能只因違反建築法就一律適用本題的一年徒刑。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-026": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "監造人先通知承造人及起造人修改；對方未依規定修改時，才須申報主管機關。勒令停工屬主管機關權限，且「同時必須申報」跳過了本條的先後程序。",
+    "status": "checked",
+    "currentNote": "現行第61條仍採先通知修改、未修改再申報的順序。",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-027": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "公務人員不得兼任開業建築師，B違反身分及兼業限制。開業證書有效期間、不得兼營營造業及一定小規模建築的專業工程例外，是另三項制度。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築師法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070112"
+      }
+    ]
+  },
+  "legal-105-028": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "書面契約要在服務開始前成立，並事先約定酬金與工作範圍，才能清楚界定雙方責任。A、C、D都把必要約定留到事後，故不符要求。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築師法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070112"
+      }
+    ]
+  },
+  "legal-105-029": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "特種建築因特殊用途可能依核准免部分執照程序，但非涉及國家機密者，開工前與完工後仍要送圖說備查。特定建築物與特種建築物不是同一分類，其他選項混用了兩者。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-105-030": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "安全梯、直通樓梯與屋頂避難平台是防火避難設施；昇降設備屬設備安全項目，並不是本題問的防火避難設施清單。重點在分類，並非昇降機無須檢查。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築物公共安全檢查簽證及申報辦法及附表二",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070149"
+      }
+    ]
+  },
+  "legal-105-031": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "無前次核准圖說時，須由開業建築師簽證符合法令的現況圖作替代，以確認建築安全與合法性；一般裝修設計或施工人員的資格不能取代此項建築師簽證。",
+    "status": "checked",
+    "currentNote": "第23條仍要求先經主管機關查明確無前次核准圖，再以建築師簽證的現況圖替代。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法第23條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070148"
+      }
+    ]
+  },
+  "legal-105-032": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "許可有效期限為5年，屆滿原許可失效，應重新申請或恢復原狀。這是許可期限，不是廣告物預期壽命，也不能一次核准便永久使用。",
+    "status": "checked",
+    "currentNote": "第12條仍明定五年。",
+    "sources": [
+      {
+        "title": "招牌廣告及樹立廣告管理辦法第12條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070140"
+      }
+    ]
+  },
+  "legal-105-033": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "權利變換範圍內需拆遷的土地改良物，先通知所有權人等於30日內自行處理，故選B。這個自行拆遷期限不等於可以未經後續程序直接強拆。",
+    "status": "checked",
+    "currentNote": "現行第57條仍為30日，後續代拆須依順序及協調程序辦理。",
+    "sources": [
+      {
+        "title": "都市更新條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070008"
+      }
+    ]
+  },
+  "legal-105-034": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "都市計畫主要計畫審議原則60天內完成，特殊情形可再延長但以60天為限。30天或45天是混淆其他程序期限；本題應以都市計畫法的審議程序判斷。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "都市計畫法第19、42條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070001"
+      }
+    ]
+  },
+  "legal-105-035": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "題目問都市計畫法公共設施用地的法定列舉；廣場、綠地與兒童遊樂場在列，古蹟不是此處的用地項目名稱。古蹟有文化資產保存等管制，不表示它沒有公共價值。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "都市計畫法第19、42條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070001"
+      }
+    ]
+  },
+  "legal-105-036": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "容積移轉的送出基地是因保存或公共目的而受限制、可移出容積的土地。已開闢公共設施用地不同於尚未取得開闢的私有公共設施保留地，不能僅因公共設施用途就作為送出基地。",
+    "status": "checked",
+    "currentNote": "第6條列保存建築土地、提供公共開放空間的可建築土地及私有公共設施保留地；第三類另排除應整體開發取得者。",
+    "sources": [
+      {
+        "title": "都市計畫容積移轉實施辦法第6條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070028"
+      }
+    ]
+  },
+  "legal-105-037": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "公聽會的目的在讓利害關係人獲知並表達意見，因此須通知相關人與更新單元門牌戶。A限制只能文字、B禁止列席、C限制只能審後陳情，都排除了應有的參與機會。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "都市更新條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070008"
+      }
+    ]
+  },
+  "legal-105-038": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "本題按105年規定，未經劃定更新地區而自行劃定更新單元，報核須人數超過2/3、面積超過3/4，所以選C。這是不同要件同時滿足，不能只看人數。",
+    "status": "checked",
+    "currentNote": "現行第37條第1項第3款，依第23條辦理者原則為人數、土地面積與建物樓地板面積均超過4/5，並有面積超過9/10時人數不計的但書；勿套用舊題比例。",
+    "sources": [
+      {
+        "title": "都市更新條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070008"
+      }
+    ]
+  },
+  "legal-105-039": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "審議通過後仍須公告實施，歷屆規定的公告期限是30日。15、60、90日分別把此行政發布期限縮短或延長，不能與公展或拆遷期限混淆。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "都市更新條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070008"
+      }
+    ]
+  },
+  "legal-105-040": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "劃定更新地區後的限建與禁止變更地形是暫時保全措施，最長2年，不能無期限限制地主。題目問最長期間，因此不是半年、1年或1年半。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "都市更新條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070008"
+      }
+    ]
+  },
+  "legal-105-041": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "裁罰不等於合法化違規土地使用。即使已繳罰鍰，仍可能被命停止、恢復原狀及強制拆除；A把繳罰鍰說成可免拆並繼續使用，正是錯誤所在。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-105-042": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "集合住宅須按法定樓層與用途條件判斷，題示5樓以下未落入本題所列供公眾使用範圍；圖書館及達面積門檻的超市、農會營業所則屬於該範圍。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "供公眾使用建築物之範圍",
+        "url": "https://www.nlma.gov.tw/ch/legislation/law%26regusw/1120"
+      }
+    ]
+  },
+  "legal-105-043": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "鹽業、礦業與水利用地的主管事業屬性不應一概歸農業主管機關，B把訂定機關寫錯。判斷時要先分清土地使用地別，再看目的事業主管機關。",
+    "status": "historical",
+    "currentNote": "機關組織曾改制，舊題的農委會名稱不能直接當作現行機關名稱。",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-105-044": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "依產業創新條例申請工業開發的分區變更門檻是5公頃，不是C寫的2公頃；一般工業開發另有10公頃門檻，不能把不同申請制度的數值互換。",
+    "status": "checked",
+    "currentNote": "非都市土地使用管制規則及政府申辦說明仍須區分產創5公頃與一般工業10公頃；特定工廠用地變更又是不同程序。",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-105-045": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "土地使用配置變更達原核准面積1/2或大於2公頃時，屬需變更開發計畫的門檻。D寫成1/3或1公頃，數值錯誤；減少範圍也可能需要變更，不能只看是否擴大。",
+    "status": "checked",
+    "currentNote": "現行第22條第1項第4款仍為1/2或大於2公頃，另應併查其他變更事由與備查例外。",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-105-046": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "位於依法公告的地質敏感區，且應辦調查評估時，開發計畫須納入該結果。引用政府資料不會自動免除專業簽證；保育與開發限制亦須依個案規範判斷，故C正確。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-105-047": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "農舍不能只因土地看似農村就興建，須符合允許農舍的使用地類別；題示水利用地、林業用地不屬此類。集村農舍另有排除區位，農舍用地比例也不是D所寫的5%。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-105-048": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "專有部分以外、供大家共同使用的部分，法律定義就是共用部分。「約定共用」則是原屬專有、經約定供共同使用，兩者權利來源不同。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"
+      }
+    ]
+  },
+  "legal-105-049": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "住戶不僅是居住的人，條例也包含取得停車空間建築物所有權者。專有與其所屬共用持分原則不得分離移轉；B、C則把專有、約定專用與約定共用定義混用了。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"
+      }
+    ]
+  },
+  "legal-105-050": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "共用管道間涉及共同設施管理，住戶增設管線須取得管理負責人或管理委員會同意。只問同層或上下層住戶不足以代表共有部分管理，也不是一律須全體住戶同意。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"
+      }
+    ]
+  },
+  "legal-105-051": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "共同壁及其內管線是雙方專有部分的共同界面，因年久自然老化修繕，費用由雙方區分所有權人分擔；若損壞可歸責於一方，才另依責任處理。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"
+      }
+    ]
+  },
+  "legal-105-052": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "主任委員由管理委員互推一人產生。區分所有權人會議選任管理委員，與管理委員再互推主任委員，是不同階段；起造人也不是當然主任委員。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"
+      }
+    ]
+  },
+  "legal-105-053": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "庭園景觀工程屬營造業法的專業工程項目。消防、空調及室內裝修另有各自專業管理制度，不能只因都在建築工程內就當作相同的專業營造登記項目。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "營造業法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070110"
+      }
+    ]
+  },
+  "legal-105-054": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "工地主任取得執業證後，每逾4年須再取得回訓證明，才可繼續擔任。回訓是執業能力更新要求，不等於每次換工地都重新取得執業證。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "營造業法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070110"
+      }
+    ]
+  },
+  "legal-105-055": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "優良營造業的預付款優惠是至多增加10%，不是所有政府工程都自動增加，也不是把整筆契約價款加價。應區分預付款比例優惠與工程契約總價。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "營造業法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070110"
+      }
+    ]
+  },
+  "legal-105-056": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "使用他人證照、借照他人及停業仍承攬屬題示重罰並廢止許可的行為；已許可但未領登記證或手冊即營業，是另一處罰類型，不能直接套用同一組100至500萬元罰則。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "營造業法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070110"
+      }
+    ]
+  },
+  "legal-105-057": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "選擇性招標適合經常採購、資格審查複雜或研究發展等情形；投標準備需要長時間也是制度考量。D反寫成短時間即可完成，不構成題示選擇性招標的理由。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "政府採購法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=A0030057"
+      }
+    ]
+  },
+  "legal-105-058": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "105年規定下，不履行保固責任經法定程序刊登公報，停權期間為1年，故選B。這是採購資格限制，與工程本身約定的保固期間不同。",
+    "status": "historical",
+    "currentNote": "採購停權制度後有修正；現行應依第101、103條的事由、情節及刊登紀錄判斷，不能把所有不履行保固一律記為1年。",
+    "sources": [
+      {
+        "title": "政府採購法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=A0030057"
+      }
+    ]
+  },
+  "legal-105-059": {
+    "acceptedAnswers": [
+      "C",
+      "D"
+    ],
+    "text": "此題答案修正接受C或D。初驗是收齊資料後30日內辦理；有初驗且合格後，原則20日內辦理驗收，D把後者寫成30日。作答依修正給分，不須勉強認定只有一個答案。",
+    "status": "checked",
+    "currentNote": "現行施行細則第92條為收受全部資料起30日內初驗，第93條為初驗合格後20日內辦理驗收；另有契約約定及核准延期情形。",
+    "sources": [
+      {
+        "title": "政府採購法施行細則第92、93條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030058"
+      }
+    ]
+  },
+  "legal-105-060": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "本題按當年「延誤情節重大」量化規定，巨額工程履約進度落後10%以上符合題示答案；非巨額所需比例不是C的15%，也不能任意事後協議取代規定。",
+    "status": "checked",
+    "currentNote": "相關施行細則第111條已於108年刪除。現今應依採購法與具體情節審認，契約的量化解除條件也不能直接取代行政停權判斷。",
+    "sources": [
+      {
+        "title": "政府採購法情節重大審認原則探討（國防部）",
+        "url": "https://www.mnd.gov.tw/NewUpload/202211/政府採購法第101條「情節重大」審認原則探討—以○軍○中心零附件購案為例_344339.pdf"
+      }
+    ]
+  },
+  "legal-105-061": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "三級品管中，一級是施工廠商自主品管，二級由主辦機關及監造端執行品質保證，三級是主管機關施工查核。因此題目問二級應選主辦工程單位。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公共工程施工品質管理制度（工程會）",
+        "url": "https://www.pcc.gov.tw/content/index?eid=2514&type=C"
+      }
+    ]
+  },
+  "legal-105-062": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "專案管理重在管理、協調與審查設計及工程程序，因此①設計進度管理、③預算審查、④設計品質檢核屬其工作。②施工計畫的擬訂屬施工執行端，不能混成管理方代做。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "機關委託技術服務廠商評選及計費辦法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077"
+      }
+    ]
+  },
+  "legal-105-063": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "採購申訴審議委員會由採購主管體系依法設置與聘派，並非法院聘任社會人士組成。法院是司法救濟機關，不能與採購行政申訴及履約調解機制混淆。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "政府採購法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=A0030057"
+      }
+    ]
+  },
+  "legal-105-064": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "核准後變更設計、修改招標文件重招、超出約定工作範圍的製圖送審等，是增加工作量的另計費事由；依本題設定，都審辦理不能直接當作另加費的同一類例外，故①②③。",
+    "status": "historical",
+    "currentNote": "個案仍須確認招標文件與契約原含工作範圍，不是所有變更都當然可加價。",
+    "sources": [
+      {
+        "title": "機關委託技術服務廠商評選及計費辦法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077"
+      }
+    ]
+  },
+  "legal-105-065": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "可以展延的核心是非可歸責於服務廠商的原因，例如機關暫停或增加工作。乙方自己未及時辦妥應辦事項屬自身遲延，不能用來要求免責展延。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公共工程技術服務契約範本（含歷次版本）",
+        "url": "https://www.pcc.gov.tw/content/list?eid=5237"
+      }
+    ]
+  },
+  "legal-105-066": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "評選委員須由機關依專業及適任性遴聘並依法核定；公會按比例推薦後直接決定名單，不是法定產生方式。可參考建議名單或另聘適任專家，但仍由機關負責。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "採購評選委員會組織準則",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030103"
+      }
+    ]
+  },
+  "legal-105-067": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "105年題目以當時列舉的過去績效、使用者評價及財務狀況作比較，答案為員工薪資待遇。但不要推論薪資與任何採購都無關，評選項目應看採購目的與招標文件。",
+    "status": "historical",
+    "currentNote": "現行第5條有其他與採購功能或效益相關事項，第6條要求與採購目的相關；政府採購亦有加薪、勞動權益等評選政策，舊題D不宜視為今日全面禁止。",
+    "sources": [
+      {
+        "title": "最有利標評選辦法第5、6條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030080"
+      }
+    ]
+  },
+  "legal-105-068": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "測量、地質與水文調查的工作量因基地而異，難僅依建造金額比例反映成本，因此可另估並採服務成本加公費法。A、D不是本題所列法定計費方法。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "機關委託技術服務廠商評選及計費辦法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077"
+      }
+    ]
+  },
+  "legal-105-069": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "智慧建築證書或標章申請屬題示基本技術服務以外的專案工作，應另計費；驗收協辦、重要設備資格審查及土石方建議屬附表一般服務項目範圍。",
+    "status": "historical",
+    "currentNote": "智慧及綠建築相關申請是否另計費，仍須核對契約委託範圍及附表適用版本。",
+    "sources": [
+      {
+        "title": "機關委託技術服務廠商評選及計費辦法",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077"
+      }
+    ]
+  },
+  "legal-105-070": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "施工計畫須由施工單位依工法、人力、機具與期程編製，才能對實際施工負責；監造負責審查與監督，設計或品質督導不替代施工廠商製作計畫。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "公共工程施工品質管理制度（工程會）",
+        "url": "https://www.pcc.gov.tw/content/index?eid=2514&type=C"
+      }
+    ]
+  },
+  "legal-105-071": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "住宅公寓大廈的專有及約定專用部分有免設的特定規定，但地面層無障礙通路仍須檢討。不能只因是獨棟或樓地板面積較小，就對商業或公共建築一律免設。",
+    "status": "historical",
+    "currentNote": "",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-072": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "走廊寬不足150公分時，盡頭須提供至少150×150公分的迴轉空間，供輪椅轉向。A、B、C的面積與邊長均不足；通行寬度不等同迴轉所需空間。",
+    "status": "checked",
+    "currentNote": "現行第204.2.4節改以直徑150公分以上迴轉空間表述，設於每隔10公尺、走廊盡頭或距盡頭350公分以內；勿只記舊題的正方形尺寸與盡頭位置。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-073": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "避難層出入口平台淨寬與淨深最低各150公分，坡度最大1/50，所以X=150、Y=150、Z=50。三個條件須同時符合，不能只挑其中一項正確的組合。",
+    "status": "checked",
+    "currentNote": "現行第205.2.2節仍為平台寬、深至少150公分及坡度至多1/50；平台淨寬並應與出入口同寬。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-074": {
+    "acceptedAnswers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "text": "本題已修正為各選項給分，不應背成唯一斜率。一般無障礙坡道原則不得陡於1/12，但小高低差有放寬規定；題目沒有交代高差，練習時應一起記住適用條件。",
+    "status": "checked",
+    "currentNote": "現行第206.2.3節仍以1/12為原則，高差小於20公分時須按附表判斷能否放寬；各選項給分是本題歷屆修正，不代表所有坡度均合法。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-075": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "圓形扶手直徑約2.8至4公分，3.5公分落在範圍內；2.5偏小、4.5及5.5偏大。此尺寸是握持扶手本體的直徑，不是扶手與牆壁的間距。",
+    "status": "checked",
+    "currentNote": "現行第207.2.1節仍列圓形直徑2.8至4公分；其他形狀另以外緣周邊長9至13公分規範。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-076": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "集合住宅電梯有門淨寬80公分、機廂深125公分的特別規定；語音系統可增設開關，不等於可完全不設。②與③符合要求，①把門寬寫成90、④把可關閉誤成可免設。",
+    "status": "checked",
+    "currentNote": "現行第406.1節仍保留H-2住宅、集合住宅的80公分門寬、125公分機廂深度及語音系統得增設開關規定。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-077": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "未鄰牆梯級須有至少5公分防護緣，B正確。21公分高差不能套用20公分以下坡道的放寬；汽車位寬度原則350公分，D的330公分不足。",
+    "status": "historical",
+    "currentNote": "本題依105年規範理解。現行第三章已調整樓梯及扶手規定，舊第303.4節的梯級防護緣不能當作現行同節條文引用。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-078": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "輪椅席數量須依固定座位數級距設置；55席已進入51至150席的級距，應有2個輪椅席，D說1個不足。席位寬度與地面坡度則是另一組尺寸要求。",
+    "status": "checked",
+    "currentNote": "現行第167條之5的51至150席級距仍要求2個輪椅觀眾席；數量依技術規則，席位尺寸與配置另依無障礙設施設計規範。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築技術規則建築設計施工編第167條之5",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-105-079": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "機車無障礙出入口及車道寬都至少180公分，A符合。車位寬應至少225公分，標誌至少90×90公分，所以B、C、D所列尺寸不足。",
+    "status": "checked",
+    "currentNote": "現行第805節仍為車道與出入口180公分、車位寬225公分，地面標誌長寬各90公分以上。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-105-080": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "無障礙客房內須設衛浴設備，至少含馬桶、洗面盆與浴缸或淋浴間；B說可免設違反基本使用需求。本題問錯誤敘述，應選B而非把B背成規定。",
+    "status": "checked",
+    "currentNote": "現行第1003.1節仍要求無障礙客房內設置衛浴設備，不得將可以免設當作正確規定。",
+    "sources": [
+      {
+        "title": "無障礙設施設計規範（101 年修正版）",
+        "url": "https://www.freeway.gov.tw/Upload/201604/建築物無障礙設施設計規範.pdf"
+      },
+      {
+        "title": "建築物無障礙設施設計規範（國土署現行全文，含109年勘誤）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  }
+}

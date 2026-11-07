@@ -1,0 +1,3362 @@
+{
+  "legal-112-001": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "建築法所稱建造包括新建、增建、改建及修建；單純拆除不在這四類內。拆除另有拆除執照制度，不能因其也是施工行為就歸入建造。",
+    "status": "checked",
+    "currentNote": "已核對建築法（第9條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築法（第9條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=9"
+      }
+    ]
+  },
+  "legal-112-002": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "統包只是採購及契約組織方式，不會將建築師的法定設計責任移轉給代表廠商。建築師仍須就設計符合建築法令及其簽證內容負責。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第17、19條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第17、19條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070112"
+      }
+    ]
+  },
+  "legal-112-003": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "申請建造執照須附申請書、土地權利證明文件、工程圖樣及說明書，以證明有權在該基地建築；原使用執照或工程合約並非本題的一般必要文件。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第30條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=30"
+      }
+    ]
+  },
+  "legal-112-004": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "十一層以上非住宅的簡化申報門檻為裝修面積100平方公尺以下，並須具一小時防火區劃且未變更題列安全設施；不是僅符合面積就可免審查施工。",
+    "status": "checked",
+    "currentNote": "已核對建築物室內裝修管理辦法（第33條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法（第33條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070148&flno=33"
+      }
+    ]
+  },
+  "legal-112-005": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "基地分割後，各筆仍須連接建築線並能單獨申請建築，避免形成無法建築的基地。法定空地與建築物連接寬度是至少2公尺，並須有獨立出入口。",
+    "status": "checked",
+    "currentNote": "已核對建築基地法定空地分割辦法（第3條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築基地法定空地分割辦法（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070113&flno=3"
+      }
+    ]
+  },
+  "legal-112-006": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "全國建築師公會以直轄市、縣（市）建築師公會為組成基礎；省公會並非現制所列會員層級。應辨認法定組織層級，而非只看團體名稱有無建築師三字。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第28、31條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第28、31條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070112"
+      }
+    ]
+  },
+  "legal-112-007": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "非供H-2組使用的建築物，高度達90公尺即進入本題的防火避難綜合檢討或性能設計評定門檻；此門檻不同於一般高層建築物的認定高度。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第3-4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=3-4"
+      }
+    ]
+  },
+  "legal-112-008": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "防火避難有效開口可採直徑至少1公尺的圓孔，直徑1.2公尺符合此項要求。高1.1公尺、寬70公分的矩形開口不足；100平方公尺僅4平方公尺採光亦不足二十分之一。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=1"
+      }
+    ]
+  },
+  "legal-112-009": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "高層建築物另管制總樓地板面積與留設空地之比；工業區上限為15。此數值是樓地板面積除以空地面積，不能與一般容積率或建蔽率直接互換。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第225條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=225"
+      }
+    ]
+  },
+  "legal-112-010": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "廠房扣除樓板厚度及樑深後，淨高至少2.7公尺。附屬空間合計上限是廠房面積五分之二；衛生設備原則集中，裝卸位起設門檻是1500平方公尺。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第272、274、278、280條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第272、274、278、280條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-112-011": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "防火設備是能阻止火焰穿透的門窗、防火閘門等區劃構件，因此選防火門窗。消防栓與警報器是消防設備，防焰窗簾則屬防焰物品，概念不同。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=1"
+      }
+    ]
+  },
+  "legal-112-012": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "老人住宅臥室須同時符合面積至少9平方公尺、居住不超過2人的要求。9平方公尺是每間臥室的下限，不能用面積倍增就忽略每間的人數上限。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第294條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第294條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=294"
+      }
+    ]
+  },
+  "legal-112-013": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "特定建築物依用途及規模列管，電影院、學校與加油站均在列。集合住宅須達該用途另定的較大規模門檻，題示總樓地板1000平方公尺尚不足。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第117條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=117"
+      }
+    ]
+  },
+  "legal-112-014": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "防火門的門扇、門樘及開關五金共同構成經認可的門組；任意替換五金可能破壞閉鎖、關閉及耐火性能。不能把五金視為與防火性能無關的裝飾配件。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第76條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=76"
+      }
+    ]
+  },
+  "legal-112-015": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "將專業技術人員登記證借供所受聘室內裝修業以外使用，違反專任及登記制度，屬廢止許可、註銷登記證事由；一般施工缺失與此種資格借用的處分層次不同。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法（第39條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070148&flno=39"
+      }
+    ]
+  },
+  "legal-112-016": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "提高天花板耐燃等級，且未變更防火避難設施、防火區劃或降低構造防火時效時，可於竣工後修改圖說一次報驗；增樓梯或改避難動線則不能套用此例外。",
+    "status": "checked",
+    "currentNote": "現行一次報驗依據為室內裝修管理辦法第30條；題幹寫第31條，條號與現行內容不符。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法（第30條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070148&flno=30"
+      }
+    ]
+  },
+  "legal-112-017": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "依法開業的建築師本可從事室內裝修設計，不必另取得室內裝修專業設計技術人員登記證。室內裝修業則須按設計、施工業務配置相應專任技術人員。",
+    "status": "checked",
+    "currentNote": "已核對建築物室內裝修管理辦法（第5、9條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法（第5、9條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070148"
+      }
+    ]
+  },
+  "legal-112-018": {
+    "acceptedAnswers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "text": "本題一律給分，A至D均須接受，不能據此認定某一選項永遠不得扣除。容積扣除應區分機電空間、安全梯與排煙室等用途，並合併檢討法定面積上限。",
+    "status": "historical",
+    "currentNote": "已核對現行第162條有設備與梯間合計10%或15%等上限；不以現行條文重新指定本題唯一答案。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第162條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=162"
+      }
+    ]
+  },
+  "legal-112-019": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "緩衝區是地下系統與建築物間的獨立避難區劃，並設專用直通樓梯。符合規定而設在基地內者，其緩衝區及專用梯得免計建築面積與容積，故「應計入」有誤。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第179、181條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-112-020": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "公式Ao≤(1＋Q)A／2中，A是基地面積，Q是法定最大建蔽率；應代入法令允許的比例，而非建築師實際設計建蔽率，也不是以最大建築面積代替A。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第226條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=226"
+      }
+    ]
+  },
+  "legal-112-021": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "建築面積的免計項目須有明文及尺寸條件。配電設備、突出地面不逾1.2公尺的地下層及合格透空遮陽板有例外；基地內兩幢間高架人行道並無一概免計規定。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第1條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=1"
+      }
+    ]
+  },
+  "legal-112-022": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "因地形、垂直增建、構造或用途特殊，確有設置困難者，須經當地主管建築機關核准才能部分或全部排除適用；公共建築物不能只因基地小就自行免設。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第167條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=167"
+      }
+    ]
+  },
+  "legal-112-023": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "遮煙性能控制火災壓差下穿過門或防火設備的漏煙量。耐燃等級評價裝修材料反應，防火時效評價耐火時間，阻熱性評價背火面溫升，三者不能互換。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=1"
+      }
+    ]
+  },
+  "legal-112-024": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "老舊公寓增設昇降機得依條件放寬面積、鄰棟間隔、院落及避難層出入口等限制；該項放寬並未概括免除屋頂突出物高度限制，仍須另行檢討。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第55條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=55"
+      }
+    ]
+  },
+  "legal-112-025": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "山坡地雜項執照重點是整地、擋土排水及土地安全，須有土地權利、工程圖說、水保及必要環評文件；建築物平面、立面圖不是此階段一概必附的文件。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "山坡地建築管理辦法（第4條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/213"
+      }
+    ]
+  },
+  "legal-112-026": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "主管建築機關收到違建查報後，應在5日內勘查；認定須拆除者應即拆除。這是查報後的勘查期限，不能與另行通知補照或自行清理的期限混淆。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "違章建築處理辦法（第5條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/234"
+      }
+    ]
+  },
+  "legal-112-027": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "未領開業證書、未入公會或受停業處分仍擅自執業，除勒令停業外，法定罰鍰為新臺幣1萬至3萬元；不遵從繼續執業，可按次連續處罰。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第43條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第43條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=43"
+      }
+    ]
+  },
+  "legal-112-028": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "取得建築師證書只代表專業資格；申請開業證書還須有2年以上建築工程經驗。考試資格、建築師證書與開業登記是不同階段，不能互相替代。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第7條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第7條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=7"
+      }
+    ]
+  },
+  "legal-112-029": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "開業證書有效期間為6年，須於屆滿3個月前檢具原證書及認可研習證明申請換發。這是持續執業與進修管理，並非建築師考試證書每6年失效。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第9-1條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第9-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=9-1"
+      }
+    ]
+  },
+  "legal-112-030": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "防空避難設備面積達200平方公尺以上，兼用用途限於停車空間，避免平時使用妨礙迅速轉作避難；不得因平常未使用，就自由改作商店或倉庫。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第142條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第142條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=142"
+      }
+    ]
+  },
+  "legal-112-031": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原有合法商場的樓梯總寬，以直上層以上各層最大樓地板面積每100平方公尺配60公分計算，並以避難層分界。應取控制樓層，不是把各層面積全部累加。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "原有合法建築物公共安全改善辦法（直通樓梯改善表）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6790"
+      }
+    ]
+  },
+  "legal-112-032": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "建築師受主管機關指定襄助的法定事項包括公共安全、社會福利及預防災害等建築事項；公共交通不是這項列舉，勿與建築法的立法目的混淆。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第24條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第24條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=24"
+      }
+    ]
+  },
+  "legal-112-033": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "建築法施行前已存在、供公眾使用而未有使用執照的建築物，所有權人應申請核發使用執照，接受使用及安全管理；並非因此必須拆除重建或補領雜項執照。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第96條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=96"
+      }
+    ]
+  },
+  "legal-112-034": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "接獲領照通知後超過3個月仍未領取，主管建築機關得廢止建造或雜項執照。這是「通知領照」的期限，不是領得執照後的開工期限。",
+    "status": "checked",
+    "currentNote": "已核對建築法（第41條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築法（第41條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=41"
+      }
+    ]
+  },
+  "legal-112-035": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "山坡地建築的審查、施工及使用管理辦法，由中央主管建築機關訂定，以統一建築安全制度；不是由地方山坡地主管機關或地方建管機關自行制定全國規則。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第97-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=97-1"
+      }
+    ]
+  },
+  "legal-112-036": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "招牌廣告涉及建築附掛、結構與公共安全，其審查許可向所在地直轄市、縣（市）主管建築機關申請；百貨公司的商業性質不會把審查權改成商業主管機關。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第97-3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=97-3"
+      }
+    ]
+  },
+  "legal-112-037": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "建造執照審查通知改正後，起造人應自第一次通知起6個月內改正送復審。起算點是第一次通知，不會因反覆補件就重新取得完整6個月期間。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第36條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=36"
+      }
+    ]
+  },
+  "legal-112-038": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "屠宰場、垃圾處理場等嫌惡設施應兼顧安全衛生及都市發展，法定配置原則是都市邊緣適當地點；按居民分布配置的說法，不宜直接套用於此類設施。",
+    "status": "checked",
+    "currentNote": "已核對都市計畫法（第46、47條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市計畫法（第46、47條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070001"
+      }
+    ]
+  },
+  "legal-112-039": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "監造人已認為施工不合規定，而承造人仍擅自施工，經主管機關認定須拆改或補強時，由承造人賠償。若監造反而認為合格，才另涉及監造及專任工程人員連帶責任。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第60條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=60"
+      }
+    ]
+  },
+  "legal-112-040": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "法定列舉的公共安全情形包括營業整幢違建、水平增建占用防火間隔或騎樓；垂直增建的列舉門檻為二層以上，不能把單純增建一層直接當成該款情形。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "違章建築處理辦法（第11-1條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/234"
+      }
+    ]
+  },
+  "legal-112-041": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "未能於建築期限內完工，得申請展期1年且以一次為限。開工原則是領照後6個月，不能如期開工的展期為3個月；建築期限基準由地方建築管理規則訂定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第53、54條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-112-042": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "山坡地平均坡度採方格坵塊分析時，每邊不得大於25公尺，以免格網過大掩蓋局部陡坡。這是分析格網尺寸限制，不是地形圖等高線間距。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第262條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=262"
+      }
+    ]
+  },
+  "legal-112-043": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "道路及綠地保留地須計畫寬度至少15公尺才可申請此類臨時建築，兩側並各留4公尺通路；保留通行功能是臨時利用的條件，不能把整幅用地蓋滿。",
+    "status": "checked",
+    "currentNote": "已核對都市計畫公共設施保留地臨時建築使用辦法（第7條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市計畫公共設施保留地臨時建築使用辦法（第7條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/law%26regusw/209"
+      }
+    ]
+  },
+  "legal-112-044": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "新訂、擴大或變更都市計畫的禁建，範圍及期限由行政院核定，最長2年。都市計畫委員會通過是前置程序，並不等於由都委會作最終核定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫法（第81條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070001&flno=81"
+      }
+    ]
+  },
+  "legal-112-045": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "候選智慧建築證書的容積獎勵按級別遞減：鑽石10%、黃金8%、銀6%、銅4%、合格2%，不同等級不可累加；因此鑽石與黃金的10%、8%組合正確。",
+    "status": "checked",
+    "currentNote": "已核對都市更新建築容積獎勵辦法（第11條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市更新建築容積獎勵辦法（第11條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070027&flno=11"
+      }
+    ]
+  },
+  "legal-112-046": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "政府公開評選都市更新實施者，應先在擬更新地區舉行說明會，再公告徵求申請；先徵求後說明會顛倒參與程序，使利害關係人失去事前了解機會。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第13條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=13"
+      }
+    ]
+  },
+  "legal-112-047": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "策略性更新地區著重場站周邊、水岸港灣及重大發展建設。國防建設需求不是本題法條直接列舉的情形，不能與其他土地或計畫法令的國防例外混為一談。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第8條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=8"
+      }
+    ]
+  },
+  "legal-112-048": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "政府主導的策略性更新且單元達1萬平方公尺，容積上限可為2倍基準容積，或原建築容積加0.5倍基準容積。兩種基準是擇一檢討，不能把倍率任意相加。",
+    "status": "checked",
+    "currentNote": "已核對都市更新條例（第65條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市更新條例（第65條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=65"
+      }
+    ]
+  },
+  "legal-112-049": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "都市更新計畫核定後，主管機關仍須監督實施；定期檢查至少每6個月一次，並可視需要隨時檢查。核定並不表示之後只由實施者自行管理。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例施行細則（第35條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070010&flno=35"
+      }
+    ]
+  },
+  "legal-112-050": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "整體保存修復古蹟等文化資產，可免計容積並按實際面積1.5倍獎勵。其他選項數字錯置：原容積較高的替代獎勵為10%，危險建物10%，耐震未達最低等級8%。",
+    "status": "checked",
+    "currentNote": "已核對都市更新建築容積獎勵辦法（第5、6、9條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市更新建築容積獎勵辦法（第5、6、9條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070027"
+      }
+    ]
+  },
+  "legal-112-051": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "處理占有他人土地的舊違建戶，獎勵按報核前實測面積及每戶住宅面積上限認列，總獎勵另受基準容積20%限制；不是實測多少就可全數無上限增加。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新建築容積獎勵辦法（第17條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070027&flno=17"
+      }
+    ]
+  },
+  "legal-112-052": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "城鄉發展地區以成長管理、完善公共設施及良好生活生產環境為重點；確保糧食安全是農業發展地區的規劃原則，不能互換四種國土功能分區的政策目的。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=6"
+      }
+    ]
+  },
+  "legal-112-053": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "適時檢討是重大災害、資源保育、國防或重大公共建設等法定例外。單稱適應經濟發展需要，欠缺法定例外條件，不能跳過定期通盤檢討制度任意變更。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第15條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=15"
+      }
+    ]
+  },
+  "legal-112-054": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "使用許可原由地方受理，但跨二個以上直轄市、縣（市）的案件由中央審議；保育、海洋及填海造地等也有中央審議規定，認定標準非各縣市自行決定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第24條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=24"
+      }
+    ]
+  },
+  "legal-112-055": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "農業發展地區及城鄉發展地區的使用許可核定屬地方主管機關法定職掌；全國計畫、全國性管制及功能分區劃設原則則由中央統籌，須區分規劃制度與個案核准。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=4"
+      }
+    ]
+  },
+  "legal-112-056": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "史蹟、特別景觀及生態保護區管制較嚴，題列纜車等機械運輸設施仍有經許可辦理的法定空間；填改水道、開墾或放牧等不能直接沿用一般管制區的許可方式。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國家公園法（第14、16條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070105"
+      }
+    ]
+  },
+  "legal-112-057": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "區域計畫的計畫年期原則不超過25年，是長期空間發展的規劃尺度；此年期不等於通盤檢討間隔，也不同於國土計畫法體系下地方國土計畫的20年。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "區域計畫法施行細則（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070031&flno=3"
+      }
+    ]
+  },
+  "legal-112-058": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "地方政府未依期限轉報開發案，上級機關可先限期命其辦理，屆期仍不辦時得依申請逕行審議。此為處理行政怠延的替代機制，並非期限一過就自動許可。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "區域計畫法（第15-2條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070030&flno=15-2"
+      }
+    ]
+  },
+  "legal-112-059": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "題示園區擴大投資或產業升級獎勵中，設置能源管理系統可再增加法定容積2%。應分辨能源管理系統與屋頂太陽光電的不同獎勵條件，不能任意套用10%。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則（工業區容積獎勵）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060013"
+      }
+    ]
+  },
+  "legal-112-060": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "專有部分須兼具使用獨立性且是區分所有權標的；約定專用則仍是共用部分，只由特定人使用。使用權專屬並不當然使共用空間變成個人所有。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=3"
+      }
+    ]
+  },
+  "legal-112-061": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "已進入法院審理的案件不再受理公寓大廈行政調處，避免平行程序衝突；管理費、委員選任或未執行會議決議等，則原可屬調處的管理爭議範圍。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "直轄市縣（市）公寓大廈爭議事件調處委員會組織準則（第8條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/164"
+      }
+    ]
+  },
+  "legal-112-062": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "屋頂設置廣告物除審查許可外，尚涉及區分所有權人的同意；不能省略頂層區分所有權人同意。雜項執照的建管許可，也不會代替公寓大廈內部的權利程序。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第33條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=33"
+      }
+    ]
+  },
+  "legal-112-063": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "管理委員會負責執行管理、聘僱監督人員、經費收支及報告公告；委員選任及主任委員推舉屬組成管理組織的程序，並非第36條列舉的日常執行職務。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第36條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=36"
+      }
+    ]
+  },
+  "legal-112-064": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般區分所有權人會議須於開會前10日以書面載明內容通知，讓權利人有準備與參與時間；急迫情事的臨時會另有例外，不能將例外期限套用於一般會議。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第30條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=30"
+      }
+    ]
+  },
+  "legal-112-065": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "起造人須提列公共基金、辦首次會議，並於管理組織成立前負管理責任；條例要求未領建照不得銷售，並未規定每份預售屋定型化契約須先核備才可銷售。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第18、28、57條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"
+      }
+    ]
+  },
+  "legal-112-066": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "專業營造業依法律列舉的專業工程項目登記，包含環保、庭園景觀及防水等；輕隔間不是本題所列法定登記項目，不能因為具有專業工法就自行新增類別。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "營造業法（第8條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070110&flno=8"
+      }
+    ]
+  },
+  "legal-112-067": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "營造業須把設計圖說轉成現場可操作的施工製造圖及施工計畫書，並據以負責施工。地質調查、規劃或可行性研究屬不同階段，不是這項施工義務的替代文件。",
+    "status": "checked",
+    "currentNote": "已核對營造業法（第26條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "營造業法（第26條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070110&flno=26"
+      }
+    ]
+  },
+  "legal-112-068": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "工程主管或主辦機關辦理勘驗、查驗及驗收時，專任工程人員與工地主任應在場說明；調解是爭議處理程序，不在本條強制到場的列舉中。",
+    "status": "checked",
+    "currentNote": "已核對營造業法（第41條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "營造業法（第41條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070110&flno=41"
+      }
+    ]
+  },
+  "legal-112-069": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "第一級且經複評合格的優良營造業，承攬政府工程時可享申領預付款增加10%的獎勵；仍須符合評鑑及複評條件，並非所有甲等營造廠都自動適用。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "營造業法（優良營造業獎勵）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070110"
+      }
+    ]
+  },
+  "legal-112-070": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "建造費用百分比法依金額級距分段套用費率，再加總服務費；不能把全案金額一律乘最高或最後級距費率。需另列服務項目也不能一概認為已含在設計監造費內。",
+    "status": "historical",
+    "currentNote": "已查得114年5月23日修正的現行辦法；本題按原考試分段計費原則說明，未完整核對各附表新版服務範圍。",
+    "sources": [
+      {
+        "title": "機關委託技術服務廠商評選及計費辦法（29及附表）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077"
+      }
+    ]
+  },
+  "legal-112-071": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "巨額工程採購依特性及需要成立採購工作及審查小組，協助審查需求、經費、策略及招標文件。評選委員會評選廠商，稽核或查核小組則各有不同監督任務。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第11-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030057&flno=11-1"
+      }
+    ]
+  },
+  "legal-112-072": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "估驗審核及接獲請款後付款原則各為15日，但法定日數採工作日，例假日及國定假日應扣除；文件不全須一次通知補正，不能逐次要求而拖延付款。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第73-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030057&flno=73-1"
+      }
+    ]
+  },
+  "legal-112-073": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "監造審查資格、訂檢驗停留點、抽查施工材料及審核估驗；督察品管及現場人員落實品質計畫，屬施工廠商專任工程人員的管理責任，不能全部轉嫁監造。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公共工程施工品質管理作業要點（監造工作重點）",
+        "url": "https://www.pcc.gov.tw/content/index?eid=8814&type=C"
+      }
+    ]
+  },
+  "legal-112-074": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "室外通路旁高差超過20公分，未臨牆側應有至少5公分邊緣防護，防止輪椅滑出；題列3公分不足。高差更大時尚需較高護欄，不能只做低緣石。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（203.3）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（203.3）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-112-075": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "梯級突沿彎曲半徑不得大於1.3公分，題列3公分過大；突沿下方亦應作合格斜面，以降低腳尖勾絆風險。級高16公分以下及級深26公分以上則符合規範。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（304.1、304.2）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（304.1、304.2）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-112-076": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "輪椅觀眾席地面有高差且無適當阻隔時，須有至少5公分邊緣防護及75公分高防護設施，兼顧防墜與視線；不能直接套用一般室外高差護欄的110公分規定。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（704.5）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（704.5）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-112-077": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "客房求助鈴至少兩處，一處按鍵中心距地板90至120公分，故100公分符合；另一處為15至25公分，供跌倒後操作，不能只在站立者容易觸及的位置設鈴。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（1005.1）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（1005.1）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-112-078": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "馬桶側扶手上緣與座墊的垂直距離應為27公分，不是50公分；過高會妨礙坐姿支撐及移位。至少一側採可固定掀起扶手，以便輪椅側向靠近。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（505.5、505.6）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（505.5、505.6）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-112-079": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "單一無障礙汽車位至少長600、寬350公分，其中含150公分下車區。相鄰共用下車區時總寬至少550公分，不能把下車區縮成135公分或總寬縮成500公分。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（804）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（804）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-112-080": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "申請農舍須以平面、立面及剖面等工程圖說交代配置、尺寸、高度與構造；透視圖主要呈現外觀印象，並非辦法列為必要的工程圖樣。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "農業用地興建農舍辦法（第8條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110013&flno=8"
+      }
+    ]
+  },
+  "legal-113-001": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "建造執照的平面、立面、剖面圖比例尺不得小於1/200，以確保尺寸與構造可供審查。比例尺分母越大，圖面越小；1/100比1/200大，並非較不合格。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第32條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=32"
+      }
+    ]
+  },
+  "legal-113-002": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "原則上收件後10日內審查完竣；供公眾使用或構造複雜案件得延長，但最長30日。題目問「至多」，依更正給分答案取30日，不能誤記所有案件都以30日為原則。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第33條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=33"
+      }
+    ]
+  },
+  "legal-113-003": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "畸零狹小基地不合最小寬深者，須與鄰地調整或合併到合格後才能建築。接連建築線寬度及畸零地標準由地方訂定，基地地面原則應高於所臨路面。",
+    "status": "checked",
+    "currentNote": "已核對建築法（第42、43、44、46條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築法（第42、43、44、46條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-113-004": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "領得建照後即申報備案的變更，條文明列起造人、承造人或監造人；設計人不在這項列舉中。此題考法定備案項目，並非表示任何設計人變更均無程序責任。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第55條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=55"
+      }
+    ]
+  },
+  "legal-113-005": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "必須勘驗的工程階段由承造人會同監造人申報，申報後才得繼續施工。承造負責施作、監造負責查核，設計人或起造人不能直接取代此法定共同申報組合。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第56條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=56"
+      }
+    ]
+  },
+  "legal-113-006": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "工程雖未全部完成，但已完成部分可獨立使用時，可申請部分使用執照；其前提是符合獨立使用及安全條件，不是單純先入住、日後再補一般使照。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第70-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=70-1"
+      }
+    ]
+  },
+  "legal-113-007": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "室內裝修施工應由合法施工從業者辦理，如營造業或具施工資格的室內裝修業；建築師可負責設計，法律並未要求由建築師親自承擔施工業務。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第77-2條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=77-2"
+      }
+    ]
+  },
+  "legal-113-008": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "傾頹朽壞且危害公共安全時，主管機關可通知所有權人或占有人停止使用，但限期拆除義務原則命所有人履行；不能將租客或一般使用人當成同一責任主體。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第81條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=81"
+      }
+    ]
+  },
+  "legal-113-009": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "舊違建在拆除或整理前可准予維持性的修繕，但不能藉此新建、增建、改建或達法定「修建」程度。准予修繕並不代表違建已合法化或取得永久保留權。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "違章建築處理辦法（第11條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/234"
+      }
+    ]
+  },
+  "legal-113-010": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "室內裝修業登記證有效期限原則為5年，不是4年；期滿未換證不得執行業務。公司或商業登記與室內裝修業許可是兩道程序，僅有公司登記仍不足。",
+    "status": "checked",
+    "currentNote": "已核對建築物室內裝修管理辦法（第11條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法（第11條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070148&flno=11"
+      }
+    ]
+  },
+  "legal-113-011": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "不得充任建築師的列舉包括未撤銷監護輔助宣告、經認定無法執業的身心情況及未復權破產等；喪失中華民國國籍並非第4條列舉的撤廢證書事由。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第4條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=4"
+      }
+    ]
+  },
+  "legal-113-012": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "自用農舍高度不得超過3層且不得超過10.5公尺，題列12公尺錯誤。樓層數與總高度須同時符合，不能只滿足三層，就任意提高每層高度。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "實施區域計畫地區建築管理辦法（第5條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070123&flno=5"
+      }
+    ]
+  },
+  "legal-113-013": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "農舍配置圖比例尺不得小於1/1200，題列1/1500縮得更小而不合規定；平面、立面及剖面圖則另有更大比例尺要求，不能把基地配置與建築圖面混用。",
+    "status": "checked",
+    "currentNote": "已核對實施區域計畫地區建築管理辦法（第6條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "實施區域計畫地區建築管理辦法（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070123&flno=6"
+      }
+    ]
+  },
+  "legal-113-014": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原有農舍修建、改建或增建，面積在45平方公尺以下的平房得免申請建築執照；仍受建蔽率及總樓地板面積限制，免照並不等於免除實體建築管制。",
+    "status": "checked",
+    "currentNote": "已核對實施區域計畫地區建築管理辦法（第7條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "實施區域計畫地區建築管理辦法（第7條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070123&flno=7"
+      }
+    ]
+  },
+  "legal-113-015": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "可按樓層部分完竣申請的面積條件，是建築面積超過8000平方公尺，不是6000平方公尺；另有高度超過36公尺或12層以上等條件，各自判斷。",
+    "status": "checked",
+    "currentNote": "已核對建築物部分使用執照核發辦法（第3條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物部分使用執照核發辦法（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070146&flno=3"
+      }
+    ]
+  },
+  "legal-113-016": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "改善增設的直通樓梯可免計面積，但增加面積上限為原有建築面積十分之一或30平方公尺；題列五分之一或100平方公尺放寬過度，不能據此任意擴大增建。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "原有合法建築物公共安全改善辦法（第19條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6790"
+      }
+    ]
+  },
+  "legal-113-017": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "耐震評估特別針對88年12月31日以前領建造執照、指定用途達1000平方公尺且同一所有權人或使用人的建築物；舊建築並非一律免評估，且基準是建照非使照。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築物公共安全檢查簽證及申報辦法（第7條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070149&flno=7"
+      }
+    ]
+  },
+  "legal-113-018": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "無障礙梯級須R≤16公分、T≥26公分，且55≤2R＋T≤65。選項16、26代入得58公分，同時符合三項；18公分級高或24公分級深均不合格。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（304.1）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（304.1）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-019": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "建築師向事務所所在地直轄市、縣（市）辦理開業登記，但合法執業區域為全國。地方登記是行政管理管轄，不表示業務只能在該縣市承接。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第6條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=6"
+      }
+    ]
+  },
+  "legal-113-020": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "法定受託業務列有調查、測量、設計、監造、估價、檢查與鑑定，未將鑽探列在其中。鑽探涉及地質調查專業與實際施作，不能直接當作建築師資格當然涵蓋的項目。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第16條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第16條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=16"
+      }
+    ]
+  },
+  "legal-113-021": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "獎勵事項涵蓋法規與區域都市計畫研究、公共安全社福防災協助，以及推行建築實務；「公共交通研究卓越」不是該條單獨列舉的獎勵項目。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第41條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第41條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=41"
+      }
+    ]
+  },
+  "legal-113-022": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "建築師懲戒包含警告、申誡、停止執行業務及撤廢開業證書；停止執業的法定期間是2個月以上2年以下，不是3年以上，不能任意延長法定處分種類與期間。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築師法（第45條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=45"
+      }
+    ]
+  },
+  "legal-113-023": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "住宅資訊著重租售市場供需、居住品質與補貼成效，以支援住宅政策；違章建築分布屬建管查報資料，並非住宅法該條明列的住宅資訊項目。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "住宅法（第47條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=47"
+      }
+    ]
+  },
+  "legal-113-024": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "變更用途之檢討項目及標準由中央主管建築機關另定；地方特殊需求的授權另涵蓋日照、節能與震災重建等事項，不能以地方特殊性自行改訂變更用途全套標準。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則總則編（第3-1、3-2條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6173"
+      }
+    ]
+  },
+  "legal-113-025": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "防火避難可採性能設計，經中央指定專業機構評定並取得中央認可後，得排除規則部分或全部的規格式要求；不是任何設計項目經民間鑑定就可自行免適用。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則總則編（第3條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6173"
+      }
+    ]
+  },
+  "legal-113-026": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "突出屋面的管道間屬第1條第10款第4目設施，依第9款第4目免計建築高度；不同於樓電梯間須檢討6或9公尺及投影面積限額，B把兩者混為同一類。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第1條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=1"
+      }
+    ]
+  },
+  "legal-113-027": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "生產線、體育館或零售市場等有無法合理分隔的大空間，符合法定用途及獨立區劃條件時可例外；電影院附設美食街並不因位在影院內，就當然享有觀眾席的大空間例外。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第79條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=79"
+      }
+    ]
+  },
+  "legal-113-028": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "產後護理機構須提供至少兩個防火區劃供水平避難，小區劃面積不得小於同層另一區劃的三分之一，避免只設極小區劃，無法容納移入的避難者。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第99-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=99-1"
+      }
+    ]
+  },
+  "legal-113-029": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "特別安全梯的樓梯間及排煙室天花板、牆面須使用耐燃一級材料；耐燃三級不足。這是主要逃生動線，須限制火焰蔓延與煙熱，不能以一般裝修標準取代。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第97條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第97條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=97"
+      }
+    ]
+  },
+  "legal-113-030": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "安全維護裝置的列舉空間包括停車空間、安全梯間及避難層出入口；昇降機「間」不在本題該項列舉。須區分梯廳、機廂及各自不同的監視或通訊設備規定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（安全維護設計）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-113-031": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "戶外安全梯出入口防火門須有1小時防火時效及半小時阻熱性，題列只有半小時耐火不足。特別安全梯由陽臺進入梯間的門則另有半小時規定，不能混用。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第97條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第97條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=97"
+      }
+    ]
+  },
+  "legal-113-032": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "政府機關及公私團體辦公廳的特定建築物門檻為總樓地板面積超過1000平方公尺。應比較「總樓地板」及「超過」條件，不是僅看單層或建築面積。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第117條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=117"
+      }
+    ]
+  },
+  "legal-113-033": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "本題B、D均列可給分答案。僅北側退縮6公尺，不足概括證明兩幢可個別檢討；尚須符合相鄰角度與淨距條件。會產生陰影的免計建築面積部分，仍應納入日照檢討。",
+    "status": "historical",
+    "currentNote": "已核對現行第39-1條第2、3項；保留原題acceptedAnswers為B、D，不改寫官方複數給分紀錄。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第39-1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=39-1"
+      }
+    ]
+  },
+  "legal-113-034": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "基地未達170平方公尺或每棟每層未達100平方公尺的例外，限於非公共建築物等法定情形；題列200平方公尺且未排除公共建築物，將免設範圍擴大了。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第167條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=167"
+      }
+    ]
+  },
+  "legal-113-035": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "作業廠房屬建築物外殼節約能源檢討的明文例外，因其製程熱源與使用型態不同；學校、大型空間及住宿類仍列適用範圍，不能因規模小就直接等同廠房。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第298條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第298條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=298"
+      }
+    ]
+  },
+  "legal-113-036": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "新建建築物總樓地板面積達1萬平方公尺，原則須檢討雨水或生活雜排水回收再利用；F-1衛生醫療類及中央認可者例外。門檻以整棟總樓地板面積判斷。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第298條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第298條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=298"
+      }
+    ]
+  },
+  "legal-113-037": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "基地保水指標須大於0.5乘基地應留法定空地比率；例如法定空地比率40%，門檻為0.5×0.4＝0.2。這是保水能力指標，不是要求全基地一半都設水池。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第305條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=305"
+      }
+    ]
+  },
+  "legal-113-038": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "鋼骨斷面開孔及必要補強應事先在工廠完成，以控制切割、焊接與品質檢查；不能把現場臨時穿孔視為標準程序，否則可能削弱斷面並影響施工階段穩定。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築構造編（鋼骨鋼筋混凝土施工）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編（鋼骨鋼筋混凝土施工）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070116"
+      }
+    ]
+  },
+  "legal-113-039": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "集村農舍建築物坐落用地對土地取得及戶籍滿2年的條件有例外，不能一概要求滿2年；其他農民身分、土地權利及實際農用條件仍須依規定檢核。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "農業用地興建農舍辦法（第2條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110013&flno=2"
+      }
+    ]
+  },
+  "legal-113-040": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "主要計畫實施進度以5年為一期，最長不得超過25年；題列3年一期、最長30年均不符。人口經濟推計、應保存建物及經費進度則是主要計畫內容。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫法（第15條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070001&flno=15"
+      }
+    ]
+  },
+  "legal-113-041": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "更新計畫著重已劃定地區的土地使用、重建整建維護設計及公共設施改善；全市人口成長與計畫年期經濟推計屬主要計畫層次，非本題更新計畫的列舉事項。",
+    "status": "checked",
+    "currentNote": "已核對都市計畫法（第65條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市計畫法（第65條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070001&flno=65"
+      }
+    ]
+  },
+  "legal-113-042": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "各級都市計畫委員會的組織由行政院訂定，以統一審議制度；地方政府負責設置及辦理相關事務，不能因此推論委員會組織可由各縣市自行決定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫法（第74條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070001&flno=74"
+      }
+    ]
+  },
+  "legal-113-043": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "整建是改善既有建築及公共設施，包括改建、修建或充實設備；都市更新限都市計畫範圍，實施者不含任意自然人，重建亦非一概禁止調整土地使用性質或密度。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=3"
+      }
+    ]
+  },
+  "legal-113-044": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "都市更新可採重建、整建、維護之一，也可依地區需要合併兩種以上方式；不能強迫整個更新事業只能選單一方式，否則無法兼顧不同建物保存與改善需求。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=4"
+      }
+    ]
+  },
+  "legal-113-045": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "申請人可在審議判斷送達前撤回申訴，但撤回後不得再提同一申訴，並沒有一次重提機會；此限制是避免同一爭議反覆啟動程序。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（公開評選申訴程序）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070008"
+      }
+    ]
+  },
+  "legal-113-046": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "一般接受基地可移入容積原則不得超過其基準容積30%；整體開發、都市更新、臨永久性空地等另有例外。應先判斷基地類型，不能直接採較高例外額度。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫容積移轉實施辦法（第8條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070028&flno=8"
+      }
+    ]
+  },
+  "legal-113-047": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "權利價值異議或行政救濟期間，都市更新事業不因此停止；若結果與原估價有差額，當事人再以現金找補。價值爭議與計畫執行可分別處理。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第53條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=53"
+      }
+    ]
+  },
+  "legal-113-048": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "國土永續發展基金孳息屬基金自有收入來源。國土保育費與國土影響費的用途及歸屬不同，不能看到「國土」二字，就把所有開發收費一律歸入同一基金。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第39條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=39"
+      }
+    ]
+  },
+  "legal-113-049": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "國土永續發展基金的政府移撥由中央政府逐年編列，不是地方逐年移撥；原規定施行後10年總額至少500億元，水電附徵費用則自第11年起適用。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第39條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=39"
+      }
+    ]
+  },
+  "legal-113-050": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "國土復育計畫每5年通盤檢討一次，以配合環境恢復情形調整。復育以保育為原則，並非與適度開發並行；核定及變更也不能一律簡化成中央核准。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（國土復育）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070230"
+      }
+    ]
+  },
+  "legal-113-051": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "都會區域規劃著重跨域整合、資源互補、區域機能及競爭力；尊重保存原住民族傳統文化是原住民族土地規劃的專門原則，非此題都會區域列舉項目。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=6"
+      }
+    ]
+  },
+  "legal-113-052": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "跨二個以上直轄市、縣（市）的使用許可案由中央審議，以處理跨界影響；一般申請受理與審議權並不相同，保育、海洋及填海造地另有中央審議要求。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第24條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=24"
+      }
+    ]
+  },
+  "legal-113-053": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "地方國土計畫審議會辦理農業發展及城鄉發展地區使用許可等審議；國土保育、海洋資源及國土復育的列舉審議事項屬中央層級，不能全部下放地方。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第7條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=7"
+      }
+    ]
+  },
+  "legal-113-054": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "條例的住戶包括區分所有權人、承租人及經所有權人同意的專有部分使用人等；未經同意占用專有部分者，不因事實上居住就符合此項住戶定義。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=3"
+      }
+    ]
+  },
+  "legal-113-055": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "區域建設推行委員會負責推動、聯繫及個別開發建設事業協調；計畫的法定審查另有審議機制，不能把「推行」委員會當成所有區域計畫與經費的審查機關。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "區域計畫法（第18條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070030&flno=18"
+      }
+    ]
+  },
+  "legal-113-056": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "礦物或土石勘採在一般管制區、遊憩區得依法申請許可；焚草引火、狩獵捕魚及採折花木則屬禁止行為。許可項目不代表申請後必然核准。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國家公園法（第13、14條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070105"
+      }
+    ]
+  },
+  "legal-113-057": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "填海造地申請限於城鄉發展地區，並由中央審議；不能因工程位置在海上就認為海洋資源地區當然可申請。須先符合國土功能分區的使用原則。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第24條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=24"
+      }
+    ]
+  },
+  "legal-113-058": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "管理委員會不執行區分所有權人會議決議，屬可調處的管理爭議；無從通知、欠缺管轄或已進入法院程序等，才是條文明列不予調處的程序障礙。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "直轄市縣（市）公寓大廈爭議事件調處委員會組織準則（第8條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/164"
+      }
+    ]
+  },
+  "legal-113-059": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "營造業法分為綜合營造業、專業營造業及土木包工業；電氣水管業另有其專業登記與管理規定，不是營造業法列舉的第四種類型。",
+    "status": "checked",
+    "currentNote": "已核對營造業法（第3、6條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "營造業法（第3、6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070110"
+      }
+    ]
+  },
+  "legal-113-060": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "股份有限公司營造業的資本額以實收資本額為準，反映實際到位的資金；章程或登記的授權資本額不代表已繳足，不能直接作為法定承攬能力的資本基礎。",
+    "status": "checked",
+    "currentNote": "已核對營造業法（第12條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "營造業法（第12條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070110&flno=12"
+      }
+    ]
+  },
+  "legal-113-061": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "古蹟管理維護以日常保養、定期維修、再利用管理及災害應變為核心；任意拆除不屬維護目的，涉及拆遷須另依文化資產保護程序，不是一般維護作業。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "文化資產保存法（第23條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=H0170001&flno=23"
+      }
+    ]
+  },
+  "legal-113-062": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "按日填報施工日誌是工地主任的現場管理職責；專任工程人員負責技術審查、施工計畫查核及處理技術問題。兩者須合作，但不能把法定分工完全對調。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "營造業法（第32、35條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070110"
+      }
+    ]
+  },
+  "legal-113-063": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "借冒名投標、不實文件及不同廠商投標文件重大異常關聯，均可能破壞公平競爭，依法不予開標或決標；服務建議書單純頁數少，並非本條當然排除事由。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第50條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030057&flno=50"
+      }
+    ]
+  },
+  "legal-113-064": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "混凝土鑽心試體強度不合格直接涉及結構承載與安全，是查核應列丙等的重大情形；粉刷不平或一般表面破損仍須改善，但不能不分程度一律視為同等重大缺失。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "工程施工查核小組作業辦法（查核成績）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070080"
+      }
+    ]
+  },
+  "legal-113-065": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "評選委員會召集人由機關首長擔任，或由首長、授權人員指定一級主管以上人員擔任；不是由專家學者互選，也不是工作小組組長當然兼任。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "採購評選委員會組織準則（召集人）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030103"
+      }
+    ]
+  },
+  "legal-113-066": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "限制性招標依法可不經公告，邀請兩家以上比價或一家議價；選擇性招標的資格審查則須依公告程序。採購公平不表示每一種招標方式都採相同公告模式。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第18條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030057&flno=18"
+      }
+    ]
+  },
+  "legal-113-067": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "坡道每累積75公分高差應設平台，平台長度至少150公分、坡度不大於1/50，提供輪椅停歇與控制速度；75公分是高差，不是坡道的水平長度。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（206.3.2）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（206.3.2）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-068": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "自動停止並重新開啟裝置的功能，是門遇人或物阻擋時防止夾傷。它是所有乘客的安全保護，不能把目的限縮成搬運大型物件的便利設備。",
+    "status": "principle",
+    "currentNote": "",
+    "sources": []
+  },
+  "legal-113-069": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "從前方或後方進入的輪椅席位，深度都至少120公分；僅能側面進入時須150公分，以容納轉向操作。因此後方進入僅100公分的敘述不足。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（703.2）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（703.2）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-070": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "輪椅觀眾席地面坡度不得大於1/50，即2%，以避免輪椅停駐時自行滑移；並須平整、防滑及易通行，不能直接採用供移動通行的較陡坡道標準。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（702.1）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（702.1）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-071": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "中間區塊輪椅席與銀幕兩側夾角也受限制，須不大於90度；兩側席位不大於60度，向上看銀幕中心不大於30度。不是只要座位設在中央就免檢討視角。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（702.3）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（702.3）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-072": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "客房衛浴迴轉空間直徑至少135公分，可將符合膝蓋淨容納條件的邊緣20公分納入，不是30公分。可容納膝部不代表整個輪椅輪廓都能伸入設備下方。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（1003.2）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（1003.2）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-073": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "許可案件原則適用程序終結前的新法，但有行為時法或舊法有利且新法未禁止等例外；機關須依法判斷，不能自由選擇對其方便的新法或舊法。",
+    "status": "checked",
+    "currentNote": "已核對中央法規標準法（第18條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "中央法規標準法（第18條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030133&flno=18"
+      }
+    ]
+  },
+  "legal-113-074": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "客房供房客使用的插座、開關應設在距地板70至100公分範圍，便於輪椅坐姿操作；不是從地板至150公分皆可。床間及通路寬度仍須另外符合要求。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（1004.3）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（1004.3）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-113-075": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "明定自公布或發布日施行的法規，是自該日起算至第三日生效，不是次日；若另指定施行日期則從指定日生效，須分辨兩種生效方式。",
+    "status": "checked",
+    "currentNote": "已核對中央法規標準法（第13條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "中央法規標準法（第13條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030133&flno=13"
+      }
+    ]
+  },
+  "legal-113-076": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "原題弱勢身分的育兒門檻不是只要有1名未成年子女；113年規定為3人以上，且另須符合所得財產限制。老人、低收入戶及災民則屬列舉身分。",
+    "status": "historical",
+    "currentNote": "115年3月4日修正第4條已改為育有未成年子女2人以上；另設婚育家庭保留比率，不能與經濟或社會弱勢身分混同。",
+    "sources": [
+      {
+        "title": "住宅法（第4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=4"
+      }
+    ]
+  },
+  "legal-113-077": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "接受住宅貸款利息或租金補貼者的家庭持有住宅情形，原則每年查核一次，必要時得隨時辦理；補貼核准不是永久資格，之後取得住宅可能影響續領。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "住宅法施行細則（定期查核）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070201"
+      }
+    ]
+  },
+  "legal-113-078": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "危老重建取得耐震設計標章，可獲基準容積10%的獎勵，以鼓勵提高重建安全水準；標章獎勵與原建物危險程度的獎勵條件不同，不能把各項名目混用。",
+    "status": "checked",
+    "currentNote": "已核對都市危險及老舊建築物建築容積獎勵辦法（第6條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市危險及老舊建築物建築容積獎勵辦法（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070258&flno=6"
+      }
+    ]
+  },
+  "legal-113-079": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "危老重建計畫須載土地分區、建築師簽證圖說及申請獎勵項目額度等；公共設施改善構想屬較大範圍都市更新常見內容，並非危老計畫一概必列事項。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市危險及老舊建築物加速重建條例施行細則（重建計畫）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070256"
+      }
+    ]
+  },
+  "legal-113-080": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "農舍資格核定由農業單位邀集建管、地政、都市計畫、環保等相關單位及專家審查，重點是農用、土地與建築條件；財政單位不是本題規定列舉的必要成員。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "農業用地興建農舍辦法（第2條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110013&flno=2"
+      }
+    ]
+  },
+  "legal-114-001": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "法定空地是建築基地的一部分，須供退縮及建築間隔等使用，不得任意移轉分割；其分割要件及核發程序的辦法由中央主管建築機關訂定，並非各地方自行制定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第11條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=11"
+      }
+    ]
+  },
+  "legal-114-002": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "新建、增建、改建及修建均屬應申請建造執照的建造行為；法律未另設「修建執照」。雜項執照是供雜項工作物使用，不能因工程較小便改以該照辦理。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第28條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=28"
+      }
+    ]
+  },
+  "legal-114-003": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "公有建築物由起造機關持核定的計畫、工程圖樣及說明書申領執照；設計人負責設計圖說，承造人施工、監造人監督，均不是本題所定的申請主體。",
+    "status": "checked",
+    "currentNote": "已核對建築法（第24條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築法（第24條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=24"
+      }
+    ]
+  },
+  "legal-114-004": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "基地連接寬度、騎樓高低及突出建築線等，法律設有主管機關許可的例外；拆除時維護施工及行人安全則是必要義務，不能以取得拆除許可免除防護。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第42、43、51、84條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-114-005": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "都市計畫變更後，原核准工程若妨礙新計畫，主管機關可命停工並要求變更設計；如因此必須拆除已建部分，政府應補償，不能一概稱持照即得照原圖續建。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第58、59條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070109"
+      }
+    ]
+  },
+  "legal-114-006": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "中央機關負責認可檢查專業機構或人員，檢查結果則向所在地主管建築機關申報；這是建築物公共安全申報制度，不能與向消防機關辦理的消防設備檢修混為一談。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第77條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=77"
+      }
+    ]
+  },
+  "legal-114-007": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "公共安全檢查簽證不實，會使不安全建築物通過申報，建築法對簽證的專業人員定有6萬元至30萬元罰鍰；此項罰鍰與另依建築師法懲戒的制度不同。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第91之1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=91-1"
+      }
+    ]
+  },
+  "legal-114-008": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "建築法施行前未領使用執照的供公眾使用建築物，仍須申領；核發及安全處理程序授權地方在建築管理規則訂定，而非由土地使用管制規則決定建築安全程序。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築法（第96條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=96"
+      }
+    ]
+  },
+  "legal-114-009": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "法定空地併同建築物分割後，空地與建築物占地的連接最小寬度須為2公尺；如此才能形成可使用的完整基地，不能以狹長土地勉強相接規避空地管制。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築基地法定空地分割辦法（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070113&flno=3"
+      }
+    ]
+  },
+  "legal-114-010": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "一般裝修圖說可由開業建築師或合格專業設計技術人員署名；涉及分間牆增減或位置變更，且被認定涉及公共安全時，則須由開業建築師簽證負責。",
+    "status": "checked",
+    "currentNote": "已核對建築物室內裝修管理辦法（第25條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物室內裝修管理辦法（第25條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070148&flno=25"
+      }
+    ]
+  },
+  "legal-114-011": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "招牌廣告的定義著重固著於建築物牆面的設施，樹立廣告則包括地面牌樓及屋頂廣告塔；僅以繩索綁掛的帆布廣告，非本辦法所指的固著式招牌。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "招牌廣告及樹立廣告管理辦法（第2條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070140&flno=2"
+      }
+    ]
+  },
+  "legal-114-012": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "鄰地供增設停車空間時，土地所有權人可以出具附期限的使用同意書，主管機關也須核發相應期限的變更使用文件；不能要求鄰地永久、無期限供使用。",
+    "status": "checked",
+    "currentNote": "已核對建築物使用類組及變更使用辦法（第9條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物使用類組及變更使用辦法（第9條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070141&flno=9"
+      }
+    ]
+  },
+  "legal-114-013": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "「幢」以地面層以上結構獨立、使用機能可分開為判斷，並非地下部分也必須完全分離；共用地下室仍可能有數幢，因此整體結構皆不得相連的說法過嚴。",
+    "status": "checked",
+    "currentNote": "已核對建築物部分使用執照核發辦法（第3條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物部分使用執照核發辦法（第3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070146&flno=3"
+      }
+    ]
+  },
+  "legal-114-014": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "原有合法建築物的改善方式，依建照、完工或變更使用等時點判斷適用基準；產權買賣不會改變原建築的合法形成時點，不能用移轉日期重設改善標準。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "原有合法建築物公共安全改善辦法（改善項目附表）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6790"
+      }
+    ]
+  },
+  "legal-114-015": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "本辦法所稱山坡地，是依法劃定並報行政院核定公告的土地，並非送當地都市計畫委員會核定；山坡地建築原則分雜項工程及建築工程兩階段申請。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "山坡地建築管理辦法（第2、3條）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/213"
+      }
+    ]
+  },
+  "legal-114-016": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "H-2集合住宅公共安全申報的法定檢查項目包含直通樓梯、昇降設備及緊急供電等；本題的內部裝修材料不列入該組簽證項目，但不表示裝修可違反其他防火規定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築物公共安全檢查簽證及申報辦法（附表二）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070149"
+      }
+    ]
+  },
+  "legal-114-017": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "耐震初評有疑慮，須進一步詳細評估；公共意外責任保險只是事故損害的財務保障，不能證明結構安全，故不能取代詳細評估或補強、拆除等處理。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築物公共安全檢查簽證及申報辦法（耐震能力評估）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070149"
+      }
+    ]
+  },
+  "legal-114-018": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "開業建築師不得兼營營造業、建築材料商或兼任法定公務人員，以避免設計監造與施工供料的利益衝突；不動產營業員不在該條列舉禁止兼任範圍內。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第25條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第25條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=25"
+      }
+    ]
+  },
+  "legal-114-019": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "建築師受託設計負設計責任，受託監造負監督施工責任；施工由承造體系負責。把建築師寫成受託施工並負工程品質查核責任，混淆法定職務分工。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築師法（第19條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=19"
+      }
+    ]
+  },
+  "legal-114-020": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "建築師懲戒種類為警告、申誡、停止執行業務及撤銷或廢止開業證書，沒有「記過」；不能把公務人員考績或其他專業人員的懲戒名目直接套用建築師。",
+    "status": "checked",
+    "currentNote": "已核對建築師法（第45條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築師法（第45條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070112&flno=45"
+      }
+    ]
+  },
+  "legal-114-021": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "水箱、水塔設於一般屋頂突出物上，合計高度須在6公尺內才免計建築高度；9公尺須有昇降機設備通達屋頂的條件。B未附此條件，不能一概免計。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第1條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=1"
+      }
+    ]
+  },
+  "legal-114-022": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "不能計入採光面積的是距地板面75公分以內的窗或開口，並非85公分；學校教室至少為樓地板面積1/5，養老院居室至少1/8，天窗有效採光可按3倍計。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第41、42條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第41、42條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-114-023": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "強制防火構造按用途、樓層及面積門檻判斷。兩層、總面積250平方公尺的住宅未達題示門檻；大型倉庫、三層集會用途與四層百貨商場則須採防火構造。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第69條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=69"
+      }
+    ]
+  },
+  "legal-114-024": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "排煙設備的防煙區劃原則每區不得超過500平方公尺，1500平方公尺混淆其他防火區劃標準；適度縮小區劃可控制蓄煙範圍，並配合排煙口距離及開口量。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第101條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=101"
+      }
+    ]
+  },
+  "legal-114-025": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "A-1類組於避難層開向屋外的每處出入口，寬度至少2公尺、高度至少1.8公尺，並應向外開啟；題目把寬度也寫成1.8公尺，低於人群疏散所需標準。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第90、90之1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-114-026": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "車庫利用汽車昇降機時，每1200平方公尺以內須配置一台，藉此維持車輛出入能力；面積超過一單位即須增加設備，不能僅依停車位數任意配置。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第138條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第138條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=138"
+      }
+    ]
+  },
+  "legal-114-027": {
+    "acceptedAnswers": [
+      "B",
+      "D"
+    ],
+    "text": "本題B、D均接受。條文用語為基地內「各幢」建築物間通路，B改成各棟；通路穿越同基地地面層的深度上限為15公尺，D誤寫12公尺，勿將本題當成唯一錯項。",
+    "status": "historical",
+    "currentNote": "保留原計分B、D；已核對第163條的幢棟用語及穿越深度，未另查個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第163條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=163"
+      }
+    ]
+  },
+  "legal-114-028": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "原考試時學校附建防空避難設備，按主管機關核定容納人數每人至少0.75平方公尺計，故原答案為B；這是歷史門檻，不能直接用於現在的新申請案。",
+    "status": "historical",
+    "currentNote": "115年2月23日修正第141條，自115年7月1日施行，已改為每人1平方公尺；依現行題意應為D，原考試答案仍保留B。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第141條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=141"
+      }
+    ]
+  },
+  "legal-114-029": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "煙囪高度超過10公尺，須採鋼筋混凝土造或鋼鐵造，以抵抗較大的風力及彎矩；不是達6公尺即一律適用，也不能延至12或15公尺才改用較可靠構造。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第146條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第146條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=146"
+      }
+    ]
+  },
+  "legal-114-030": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "挖土深度達1.5公尺，原則應設適當擋土設備；僅於地質良好不致崩塌或周邊無安全疑慮等法定情形例外。深度是設防門檻，不代表較淺開挖可忽略安全。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第154條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第154條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=154"
+      }
+    ]
+  },
+  "legal-114-031": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "共同使用的樓梯、昇降機梯廳，淨深度須至少2公尺，得免計部分以該層樓地板面積10%為限；這項梯廳上限與陽臺等合併檢討的限制不同，不能直接套15%。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第162條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=162"
+      }
+    ]
+  },
+  "legal-114-032": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "依法得免設衛生設備的建築物，並非仍須每戶設無障礙廁所；A把免設條件說成普遍設置義務。共用浴室、固定觀眾席及法定停車空間則各有相應無障礙設置要求。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第167之3條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=167-3"
+      }
+    ]
+  },
+  "legal-114-033": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "高層建築物的燃氣設備須集中並設漏氣警報，與其他部分以至少1小時防火時效的牆、門窗及防火樓板區劃；目的在限制火災擴散，警報不能替代防火分隔。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第243條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第243條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=243"
+      }
+    ]
+  },
+  "legal-114-034": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "山坡地平均坡度計算須用比例尺不小於1/1200的實測地形圖；分母越小比例尺越大，因此1/1500精度不足，1/500及1/1000雖可用，卻不是最低門檻。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（山坡地平均坡度）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070115"
+      }
+    ]
+  },
+  "legal-114-035": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "作業廠房達300平方公尺可附單身宿舍，上限為廠房面積1/3；辦公研究空間為1/5、餐廳福利為1/4，附屬總和不得超過廠房面積2/5，分母不是總樓地板面積。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第272條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第272條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=272"
+      }
+    ]
+  },
+  "legal-114-036": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "廣場式開放空間可以設頂蓋，但須符合淨高至少6公尺、深度不超過淨高4倍及立面透空等條件；B稱不得設頂蓋過度限制，重點是維持公共通行與開放品質。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第283條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第283條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=283"
+      }
+    ]
+  },
+  "legal-114-037": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "室內裝修、樓地板材料及窗的綠建材使用率至少為總面積60%；窗未採綠建材時可不納入分母。應以材料面積計算，並非按材料種類或採購金額各占60%。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第321條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=321"
+      }
+    ]
+  },
+  "legal-114-038": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "基本設計風速的參考高度為平坦開闊地面上10公尺，採50年回歸期的10分鐘平均風速；B誤為5公尺，會混淆地況、高度修正與原始基準風速。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築構造編（耐風設計）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070116"
+      }
+    ]
+  },
+  "legal-114-039": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "蓄電池室須設適當排氣裝置，排除充電等過程產生的氣體，避免累積危險濃度；僅稱進氣裝置不能確保排氣效果，因此D把規定的設備功能寫錯。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設備編（緊急電源）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070117"
+      }
+    ]
+  },
+  "legal-114-040": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "地下使用單元總面積達1000平方公尺，須按每1000平方公尺以1小時防火構造區劃；3500平方公尺至少分成4區，最後不足1000平方公尺部分仍須納入區劃。",
+    "status": "checked",
+    "currentNote": "已核對建築技術規則建築設計施工編（第202條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第202條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=202"
+      }
+    ]
+  },
+  "legal-114-041": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "都市計畫變更回饋可要求提供公共設施用地、可建築土地、樓地板面積或一定金額，與開發利益及公共需求相連；協助社工教育訓練不是本條列舉的回饋項目。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫法（第27之1條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070001&flno=27-1"
+      }
+    ]
+  },
+  "legal-114-042": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "重劃範圍選定後，為防止土地權利或地形變動妨礙重劃，可公告禁止移轉、分割及建築等行為；該禁止期間最長1年6個月，不能與其他計畫禁建的年限混用。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫法（第58條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070001&flno=58"
+      }
+    ]
+  },
+  "legal-114-043": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "都市計畫屆滿計畫年限或發布實施達25年，應全面通盤檢討，並非20年；一般定期檢討可依情況分期分區，全面檢討則須重新檢視整體發展及公共設施需求。",
+    "status": "checked",
+    "currentNote": "已核對都市計畫定期通盤檢討實施辦法（第2條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市計畫定期通盤檢討實施辦法（第2條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070004&flno=2"
+      }
+    ]
+  },
+  "legal-114-044": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "優先劃定更新地區著眼老舊危險、排列不良、機能不足等環境問題；基準容積低本身不等於安全或都市機能不良，不能單因可建量較少就列為優先更新因素。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=6"
+      }
+    ]
+  },
+  "legal-114-045": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "行政區以行政機關及相關公共服務使用為主，一般住宅不屬其容許使用；住宅區便利商店、文教區博物館及風景區住宅則須依各該使用規定檢討，非本題違規項。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市計畫法臺灣省施行細則（89.12.29訂定）（行政區使用）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070012"
+      }
+    ]
+  },
+  "legal-114-046": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "土地及合法建築物所有權人自行實施更新，超過7人時須組織都市更新會，也就是8人起適用；題目問「逾多少人」，故填7，不能把起算人數8人直接當答案。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第27條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=27"
+      }
+    ]
+  },
+  "legal-114-047": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "更新後地價稅及房屋稅的一般優惠為減半徵收2年，以降低更新初期負擔；原所有權人取得且未移轉等情形另有延長規定，不能把例外延長誤當一般年限。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市更新條例（第67條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070008&flno=67"
+      }
+    ]
+  },
+  "legal-114-048": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "重建區段土地使用計畫及建築配置、設計圖說，比例尺不得小於1/500；較大的比例尺才能辨識基地配置及權利範圍，1/1000或1/1200均低於規定精度。",
+    "status": "checked",
+    "currentNote": "已核對都市更新條例施行細則（第23條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "都市更新條例施行細則（第23條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070010&flno=23"
+      }
+    ]
+  },
+  "legal-114-049": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "全國國土計畫由中央主管機關擬訂、審議後報行政院核定；區域計畫法停止適用連結的是國土功能分區圖公告程序，並非全國或地方國土計畫一公告就立即失效。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第8、45條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070230"
+      }
+    ]
+  },
+  "legal-114-050": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "國土計畫核定後，原則30日內公告實施，公告計畫的公開展覽期間不得少於30日，並非60日；復議須在公告前提出且限一次，不能以復議無限延後計畫執行。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國土計畫法（第14條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070230&flno=14"
+      }
+    ]
+  },
+  "legal-114-051": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "地方國土計畫年期原則不超過20年，用來統整國土保育、產業、居住及設施需求；計畫年期是預測與規劃範圍，不能與應定期辦理通盤檢討的週期混同。",
+    "status": "checked",
+    "currentNote": "已核對國土計畫法施行細則（第6條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "國土計畫法施行細則（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070241&flno=6"
+      }
+    ]
+  },
+  "legal-114-052": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "區域計畫須表明人口經濟、土地運輸預測、自然資源開發保育及土地使用管制等事項；老樹保存屬特定保護課題，非區域計畫法逐項列舉必載的獨立計畫。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "區域計畫法（第7條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070030&flno=7"
+      }
+    ]
+  },
+  "legal-114-053": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "地方政府可依需要調降非都市土地建蔽率、容積率並報中央備查；丁種上限為70%及300%，丙種為40%及120%，工商綜合區另有標準，不能直接比照丙種。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "非都市土地使用管制規則（第9條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0060013&flno=9"
+      }
+    ]
+  },
+  "legal-114-054": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "常時開放式防火門在火災時必須由感煙等裝置連動關閉，才能阻止火煙蔓延；C稱火災時維持開啟恰好相反。門關閉後仍須免鑰匙可開啟，兼顧逃生。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "原有合法建築物公共安全改善辦法（防火區劃改善）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/regsearch/6790"
+      }
+    ]
+  },
+  "legal-114-055": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "放牧牲畜是須經管理處許可才可進行的行為；焚燒草木、任意棄置垃圾或在樹石標牌刻字則屬禁止事項，不能把禁止行為理解為取得一般許可即可實施。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "國家公園法（第13、14條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070105"
+      }
+    ]
+  },
+  "legal-114-056": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "基地內劃設的保育區，至少70%應維持原始地形地貌、不得開發；比例的分母是保育區面積，而非整筆開發基地，用以保留連續的自然環境與涵養功能。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "非都市土地開發審議作業規範（保育區）",
+        "url": "https://www.nlma.gov.tw/ch/legislation/law%26regush/10"
+      }
+    ]
+  },
+  "legal-114-057": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "起造人應在申請使用執照時，按規定提列公共基金並向地方主管機關公庫繳納；先以公庫保管，待管理組織依法成立後再移交，不能等住戶成立管委會才開始提列。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第18條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=18"
+      }
+    ]
+  },
+  "legal-114-058": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "屋頂設行動通信基地臺須經區分所有權人會議決議，並取得頂層區分所有權人同意，保障最直接受影響的住戶；公司登記在該大樓不會免除此雙重要件。",
+    "status": "checked",
+    "currentNote": "已核對公寓大廈管理條例（第33條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第33條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=33"
+      }
+    ]
+  },
+  "legal-114-059": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "公寓大廈管理維護公司的登記證有效期為3年，屆期須依法換發，並非4年；公司登記證與個別管理服務人員的認可證是不同資格文件，不可混用年限。",
+    "status": "checked",
+    "currentNote": "已核對公寓大廈管理服務人管理辦法（第14條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "公寓大廈管理服務人管理辦法（第14條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070132&flno=14"
+      }
+    ]
+  },
+  "legal-114-060": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "公寓大廈建造執照領得前不得辦理銷售，即使都市更新事業計畫已核准也相同；事業計畫核准尚不能取代建照對基地、配置及建築設計的正式審查。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "公寓大廈管理條例（第58條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070118&flno=58"
+      }
+    ]
+  },
+  "legal-114-061": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "專業營造業須置符合該專業項目資格的專任工程人員；綜合營造業僅甲乙丙三等，建築設計業不是營造業分類，土木包工業亦有可赴毗鄰地區營業的例外。",
+    "status": "checked",
+    "currentNote": "已核對營造業法（第6、7、9、11條）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "營造業法（第6、7、9、11條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070110"
+      }
+    ]
+  },
+  "legal-114-062": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "專業營造業受轉交工程，對轉交部分負連帶施工責任；法定抵押權及添附請求權在規定條件下可及於綜合營造業對定作人的價金請求權，不能一概排除。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "營造業法（第25條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070110&flno=25"
+      }
+    ]
+  },
+  "legal-114-063": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "地下室開挖達10公尺屬應置工地主任的規模，本題12公尺已超過門檻；深開挖牽涉擋土、支撐及鄰房安全，須由具資格人員辦理現場施工管理。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "營造業法施行細則（第18條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070111&flno=18"
+      }
+    ]
+  },
+  "legal-114-064": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "契約工作有非屬營造業營業範圍的項目，經定作人出具金額證明，可不計入承攬總額；B稱仍全數計入錯誤。聯合承攬則依各業者協議出資比例計算。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "營造業承攬工程造價限額工程規模範圍申報淨值及一定期間承攬總額認定辦法（承攬總額計算）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070161"
+      }
+    ]
+  },
+  "legal-114-065": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "公營事業屬政府採購法明定適用機關，辦理採購須依本法；民間建物供公眾使用不等於政府採購，補助案也須檢視補助比率、金額及藝文採購等特別規定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第3、4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030057"
+      }
+    ]
+  },
+  "legal-114-066": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "得標廠商應自行履約，不得將契約全部或應自行履行的主要部分轉由他人履行；合法分包僅分擔部分工作，分包商的連帶瑕疵責任也以分包部分為限。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第65、66、67條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030057"
+      }
+    ]
+  },
+  "legal-114-067": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "查驗或驗收不合格且情節重大，屬依刊登次數決定停權期間的類型；第三次為1年。次數仍須依法律所定期間及計算條件認定，並非永久累積所有歷次紀錄。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "政府採購法（第103條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0030057&flno=103"
+      }
+    ]
+  },
+  "legal-114-068": {
+    "acceptedAnswers": [
+      "D"
+    ],
+    "text": "設計錯誤是技術服務廠商應自行改正的履約缺失，修圖費不能再向機關追加；機關需求變更、非廠商因素延長監造或契約外工作，則可依規定辦理價金調整。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "機關委託技術服務廠商評選及計費辦法（服務費用調整）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077"
+      }
+    ]
+  },
+  "legal-114-069": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "用坡道取代樓梯時，坡道淨寬至少150公分，並非120公分；一般坡道與取代樓梯的通行量不同，應分別適用淨寬規定，再依高差檢討容許坡度。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（206.2.2、206.2.3）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（206.2.2、206.2.3）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-114-070": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "住宅公寓大廈的專有及約定專用部分屬無障礙專章的例外範圍；整棟含多戶不能因此一概免設，共用通行設施仍須檢討，特殊困難的核准權也非中央機關。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "建築技術規則建築設計施工編（第167條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070115&flno=167"
+      }
+    ]
+  },
+  "legal-114-071": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "一般無障礙樓梯須同時滿足R≤16公分、T≥26公分與55≤2R+T≤65公分，不能只符合其中一項；例如R=15、T=30時，2R+T=60公分，符合步幅關係。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（304.1）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（304.1）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-114-072": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "無障礙浴缸內側長度不得超過135公分，外側距地面高度應為40至45公分，以利由輪椅移位；A寫50至55公分過高，不能因有扶手就放寬移位高度。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（605.3）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（605.3）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-114-073": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "無障礙機車位的出入口及通達車道均至少180公分寬，讓較寬的身障用機車可進出；此數值是通行淨寬，須與停車格本身長220、寬225公分分別檢討。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（805.2）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（805.2）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-114-074": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "「條例」屬法律名稱，須由立法院通過並由總統公布；規則、辦法及施行細則通常是機關依權限或法律授權發布的命令，法規名稱反映其制定層級。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "中央法規標準法（第2、4、7條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030133"
+      }
+    ]
+  },
+  "legal-114-075": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "主管機關新建社宅可直接興建、合建分屋或參與都市更新分回房地，也可依法運用公有土地權利；按公告現值將公有土地讓售民間，非本條列舉的興辦方式。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "住宅法（第19條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=19"
+      }
+    ]
+  },
+  "legal-114-076": {
+    "acceptedAnswers": [
+      "B"
+    ],
+    "text": "一般無障礙昇降機門淨寬至少90公分、機廂深度至少135公分；H-2住宅例外才可採80及125公分，B把住宅的深度放寬值錯套到其他類組。",
+    "status": "checked",
+    "currentNote": "已核對建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（405.3、406.1）的本題規定；查核不涵蓋其他地方規定及個案函釋。",
+    "sources": [
+      {
+        "title": "建築物無障礙設施設計規範（國土署109年5月11日勘誤全文）（405.3、406.1）",
+        "url": "https://www.nlma.gov.tw/uploads/files/e9abb44ff171074d23a7d1d5ee35b4a4.pdf"
+      }
+    ]
+  },
+  "legal-114-077": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "建造物列暫定古蹟而造成權利人財產損失時，補償金額由主管機關與權利人協議；這是暫時保護所生的合理補償，不是直接以房屋評定價與土地公告現值相加。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "文化資產保存法（第20條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=H0170001&flno=20"
+      }
+    ]
+  },
+  "legal-114-078": {
+    "acceptedAnswers": [
+      "C"
+    ],
+    "text": "合併鄰地適用危老容積獎勵的面積不得超過原合法基地，且至多1000平方公尺；本題鄰地可計min(1500,1200,1000)=1000，加原1200，共2200平方公尺。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "都市危險及老舊建築物加速重建條例（第6條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070249&flno=6"
+      }
+    ]
+  },
+  "legal-114-079": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "文化資產一般由文化部主管，但自然地景及自然紀念物的中央主管機關為農業部，並非環境部；應依保育標的及法律特別分工判斷，不能只以環境相關字義推定。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "文化資產保存法（第4條）",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=H0170001&flno=4"
+      }
+    ]
+  },
+  "legal-114-080": {
+    "acceptedAnswers": [
+      "A"
+    ],
+    "text": "一般地區農舍仍須設污水處理設施，放流水符合標準後排入排水溝渠；農舍供居住會產生生活污水，不能因位於農地就免除處理，圍牆與地下層另受面積限制。",
+    "status": "historical",
+    "currentNote": "依原考題及所列規範說明；本次未完成相關修法、子法及函釋的完整現行性查核。",
+    "sources": [
+      {
+        "title": "農業用地興建農舍辦法（農舍興建限制）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0110013"
+      }
+    ]
+  }
+}

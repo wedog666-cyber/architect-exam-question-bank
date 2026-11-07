@@ -1,4 +1,4 @@
-import { renderExplanation } from "./explanations.mjs?v=20261107.1";
+import { renderExplanation, installExplanations } from "./explanations.mjs?v=20261107.2";
 
 const DATA_URL = "data/questions.json?v=20260831.2";
 const STORAGE_KEYS = {
@@ -685,6 +685,14 @@ async function init() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.data = await response.json();
     state.questions = Array.isArray(state.data.questions) ? state.data.questions : [];
+    try {
+      const explanationResponse = await fetch("data/explanations.json?v=20261107.2");
+      if (!explanationResponse.ok) throw new Error(`HTTP ${explanationResponse.status}`);
+      installExplanations(await explanationResponse.json());
+    } catch (error) {
+      console.warn("解析資料暫時無法載入", error);
+      showToast("解析資料暫時無法載入，練習仍可使用；請稍後重新整理。");
+    }
     renderFilters();
     renderHome();
   } catch (error) {
