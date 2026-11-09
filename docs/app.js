@@ -9,6 +9,7 @@ const STORAGE_KEYS = {
 const MODES = {
   quick: { label: "快速練習", short: "快練", count: 10, timeLimit: null },
   balanced: { label: "均衡抽題", short: "均衡", count: 20, timeLimit: null, balanced: true },
+  all: { label: "全部題目", short: "全題", count: null, timeLimit: null, allQuestions: true },
   mock: { label: "年度模擬", short: "模擬", count: 80, timeLimit: 120 * 60 },
   wrong: { label: "錯題複習", short: "錯題", count: 20, timeLimit: null, wrongOnly: true },
 };
@@ -50,6 +51,7 @@ const dom = {
   selectionSummary: $("#selectionSummary"),
   heroCount: $("#heroQuestionCount"),
   wrongModeDescription: $("#wrongModeDescription"),
+  allModeDescription: $("#allModeDescription"),
   timerChip: $("#timerChip"),
   timerText: $("#timerText"),
   progressBar: $("#progressBar"),
@@ -290,9 +292,11 @@ function updateModeAvailability() {
     $$("[data-mode]").forEach((button) => button.classList.toggle("is-selected", button.dataset.mode === state.mode));
   }
   dom.wrongModeDescription.textContent = wrongCount ? `${wrongCount} 題 · 依錯誤次數排序` : "尚無錯題紀錄";
+  dom.allModeDescription.textContent = `${pool.length} 題 · 目前篩選範圍全部練習 · 不限時`;
   const mode = MODES[state.mode];
-  const count = mode.wrongOnly ? wrongCount : Math.min(mode.count, pool.length);
+  const count = mode.allQuestions ? pool.length : mode.wrongOnly ? wrongCount : Math.min(mode.count, pool.length);
   if (mode.wrongOnly) dom.selectionSummary.textContent = count ? `從目前篩選的錯題中挑選 ${count} 題` : "完成一次練習後，錯題會自動收進來";
+  else if (mode.allQuestions) dom.selectionSummary.textContent = `練習目前科目、法規分類與年度範圍的全部 ${count} 題，隨機排序、不重複、不限時`;
   else if (mode.balanced) dom.selectionSummary.textContent = `從目前篩選範圍平均抽取 ${count} 題`;
   else if (mode.timeLimit) dom.selectionSummary.textContent = `從目前篩選範圍抽取完整 ${mode.count} 題，限時 120 分鐘`;
   else dom.selectionSummary.textContent = `將從目前篩選範圍隨機抽取 ${count} 題`;
@@ -300,7 +304,7 @@ function updateModeAvailability() {
 }
 
 function chooseQuestions(pool, mode) {
-  const count = Math.min(mode.count, pool.length);
+  const count = mode.allQuestions ? pool.length : Math.min(mode.count, pool.length);
   if (!mode.balanced) return shuffle(pool).slice(0, count);
   const groups = new Map();
   pool.forEach((question) => {
@@ -658,10 +662,9 @@ function bindEvents() {
     state.year = dom.year.value;
     renderHome();
   });
-  dom.modeList.addEventListener("click", (event) => {
-    const button = event.target.closest("[data-mode]");
-    if (button && !button.disabled) setMode(button.dataset.mode);
-  });
+  $$("[data-mode]").forEach((button) => button.addEventListener("click", () => {
+    if (!button.disabled) setMode(button.dataset.mode);
+  }));
   dom.setupForm.addEventListener("submit", (event) => {
     event.preventDefault();
     startQuiz(state.mode);

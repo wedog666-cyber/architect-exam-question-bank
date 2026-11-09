@@ -76,6 +76,11 @@
                   <span class="mode-text"><strong>均衡抽題</strong><small>20 題 · 跨年度平均取樣</small></span>
                   <span class="mode-check">✓</span>
                 </button>
+                <button class="mode-option" type="button" data-mode="all">
+                  <span class="mode-icon">全</span>
+                  <span class="mode-text"><strong>全部題目</strong><small id="allModeDescription">目前篩選範圍全部練習 · 不限時</small></span>
+                  <span class="mode-check">✓</span>
+                </button>
                 <button class="mode-option" type="button" data-mode="mock">
                   <span class="mode-icon">80</span>
                   <span class="mode-text"><strong>年度模擬</strong><small>80 題 · 120 分鐘</small></span>
@@ -186,7 +191,7 @@
         <p class="help-lead">這個網站是為手機短時間練習設計的，照下面 4 步就能開始。</p>
         <div class="help-steps">
           <div class="help-step"><span>01</span><div><strong>先選科目、法規分類與年度</strong><p>可勾選「建築技術規則」、「無障礙設施設計規範」等多種分類合併練習；想刷整份試卷，再選指定科目與年度。</p></div></div>
-          <div class="help-step"><span>02</span><div><strong>挑一種練習模式</strong><p>每日暖身選快速練習；想平均碰到各年度選均衡抽題；考前使用年度模擬。</p></div></div>
+          <div class="help-step"><span>02</span><div><strong>挑一種練習模式</strong><p>每日暖身選快速練習；想平均碰到各年度選均衡抽題；想做完所選分類選全部題目，年度維持不限年度；考前使用年度模擬。</p></div></div>
           <div class="help-step"><span>03</span><div><strong>滑動作答與導覽</strong><p>點選答案後按「下一題」。上方題號列可左右滑動，點題號能跳題；卡住的題目可按「標記這題」。</p></div></div>
           <div class="help-step"><span>04</span><div><strong>交卷後看錯題</strong><p>完成測驗才會保存紀錄。答錯或未答的題目會進入錯題複習，也能查看原卷頁面對照。</p></div></div>
         </div>
@@ -196,6 +201,6 @@
       </div>
     </dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="app.js?v=20261109.1"></script>
+    <script type="module" src="app.js?v=20261109.2"></script>
   </body>
 </html>
