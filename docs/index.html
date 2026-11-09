@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#0f615d" />
     <meta name="description" content="建築師高考營建法規與實務、建築構造與施工歷屆試題練習站" />
     <title>建築師考古題｜專注練習</title>
-    <link rel="stylesheet" href="styles.css?v=20261107.1" />
+    <link rel="stylesheet" href="styles.css?v=20261109.1" />
     <link rel="stylesheet" href="guide.css?v=20260827.2" />
   </head>
   <body>
@@ -51,11 +51,13 @@
                 <option value="all">全部科目</option>
               </select>
 
-              <label class="field-label" for="legalCategorySelect">法規分類（選填）</label>
-              <select class="select-control" id="legalCategorySelect" aria-describedby="legalCategoryHint">
-                <option value="all">全部法規分類</option>
-              </select>
-              <p class="field-hint" id="legalCategoryHint">選擇分類後，科目會自動切換為營建法規與實務。</p>
+              <div class="field-label">法規分類（可複選）</div>
+              <details class="category-picker" id="legalCategoryPicker">
+                <summary id="legalCategorySummary" aria-describedby="legalCategoryHint">全部法規分類 · 點此複選</summary>
+                <button class="category-clear" id="clearLegalCategories" type="button" disabled>不限分類（清除勾選）</button>
+                <fieldset class="category-options" id="legalCategoryOptions"><legend>勾選要練習的法規（可複選）</legend></fieldset>
+              </details>
+              <p class="field-hint" id="legalCategoryHint" aria-live="polite">未勾選時不限分類；勾選後自動切換為營建法規與實務。</p>
 
               <label class="field-label" for="yearSelect">年度</label>
               <select class="select-control" id="yearSelect">
@@ -183,7 +185,7 @@
       <div class="help-copy">
         <p class="help-lead">這個網站是為手機短時間練習設計的，照下面 4 步就能開始。</p>
         <div class="help-steps">
-          <div class="help-step"><span>01</span><div><strong>先選科目、法規分類與年度</strong><p>只想練某一法規時，直接選「建築技術規則」等分類；想刷整份試卷，再選指定科目與年度。</p></div></div>
+          <div class="help-step"><span>01</span><div><strong>先選科目、法規分類與年度</strong><p>可勾選「建築技術規則」、「無障礙設施設計規範」等多種分類合併練習；想刷整份試卷，再選指定科目與年度。</p></div></div>
           <div class="help-step"><span>02</span><div><strong>挑一種練習模式</strong><p>每日暖身選快速練習；想平均碰到各年度選均衡抽題；考前使用年度模擬。</p></div></div>
           <div class="help-step"><span>03</span><div><strong>滑動作答與導覽</strong><p>點選答案後按「下一題」。上方題號列可左右滑動，點題號能跳題；卡住的題目可按「標記這題」。</p></div></div>
           <div class="help-step"><span>04</span><div><strong>交卷後看錯題</strong><p>完成測驗才會保存紀錄。答錯或未答的題目會進入錯題複習，也能查看原卷頁面對照。</p></div></div>
@@ -194,6 +196,6 @@
       </div>
     </dialog>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="app.js?v=20261107.2"></script>
+    <script type="module" src="app.js?v=20261109.1"></script>
   </body>
 </html>

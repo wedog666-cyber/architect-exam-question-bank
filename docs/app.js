@@ -18,7 +18,7 @@ const state = {
   questions: [],
   mode: "quick",
   subject: "all",
-  legalCategory: "all",
+  legalCategories: [],
   year: "all",
   activeQuestions: [],
   answers: {},
@@ -38,7 +38,10 @@ const dom = {
   quiz: $("#quizView"),
   result: $("#resultView"),
   subject: $("#subjectSelect"),
-  legalCategory: $("#legalCategorySelect"),
+  legalCategory: $("#legalCategoryOptions"),
+  legalCategoryPicker: $("#legalCategoryPicker"),
+  legalCategorySummary: $("#legalCategorySummary"),
+  clearLegalCategories: $("#clearLegalCategories"),
   legalCategoryHint: $("#legalCategoryHint"),
   year: $("#yearSelect"),
   modeList: $("#modeList"),
@@ -197,7 +200,7 @@ function getLegalCategoryName(code) {
 function getFilterLabel() {
   const subject = state.subject === "all" ? "全部科目" : getSubjectName(state.subject);
   const year = state.year === "all" ? "不限年度" : `${state.year} 年`;
-  const category = state.legalCategory === "all" ? null : getLegalCategoryName(state.legalCategory);
+  const category = state.legalCategories.map(getLegalCategoryName).join("、");
   if (state.year === "all" && state.subject === "all" && !category) return subject;
   return [subject, category, year].filter(Boolean).join(" · ");
 }
@@ -205,7 +208,7 @@ function getFilterLabel() {
 function filteredQuestions() {
   return state.questions.filter((question) => {
     const subjectMatch = state.subject === "all" || question.subjectCode === state.subject;
-    const categoryMatch = state.legalCategory === "all" || question.legalCategoryCode === state.legalCategory;
+    const categoryMatch = !state.legalCategories.length || state.legalCategories.includes(question.legalCategoryCode);
     const yearMatch = state.year === "all" || String(question.year) === String(state.year);
     return subjectMatch && categoryMatch && yearMatch;
   });
@@ -242,14 +245,20 @@ function renderFilters() {
 
 function renderLegalCategories() {
   const categories = getLegalCategories();
-  const categoryStillExists = state.legalCategory === "all" || categories.some((category) => category.code === state.legalCategory);
-  if (!categoryStillExists || state.subject === "structure") state.legalCategory = "all";
-  dom.legalCategory.innerHTML = `<option value="all">全部法規分類</option>${categories.map((category) => `<option value="${escapeHtml(category.code)}">${escapeHtml(category.name)}（${category.questionCount} 題）</option>`).join("")}`;
-  dom.legalCategory.value = state.legalCategory;
-  dom.legalCategory.disabled = state.subject === "structure";
-  dom.legalCategoryHint.textContent = state.subject === "structure"
-    ? "法規分類只適用於營建法規與實務。"
-    : "選擇分類後，科目會自動切換為營建法規與實務。";
+  state.legalCategories = state.subject === "structure" ? [] : state.legalCategories.filter(code => categories.some(category => category.code === code));
+  dom.legalCategory.innerHTML = `<legend>勾選要練習的法規（可複選）</legend>${categories.map((category) => `<label class="category-option"><input type="checkbox" name="legalCategories" value="${escapeHtml(category.code)}"${state.legalCategories.includes(category.code) ? " checked" : ""}><span>${escapeHtml(category.name)}<small>${category.questionCount} 題</small></span></label>`).join("")}`;
+  updateLegalCategorySummary();
+}
+
+function updateLegalCategorySummary() {
+  const disabled = state.subject === "structure";
+  dom.legalCategory.disabled = disabled;
+  dom.clearLegalCategories.disabled = disabled || !state.legalCategories.length;
+  if (disabled) dom.legalCategoryPicker.open = false;
+  dom.legalCategorySummary.textContent = disabled ? "此科目不適用法規分類" : state.legalCategories.length ? `已選 ${state.legalCategories.length} 種法規 · 點此調整` : "全部法規分類 · 點此複選";
+  dom.legalCategoryHint.textContent = disabled ? "法規分類只適用於營建法規與實務。" : state.legalCategories.length
+    ? `合併練習：${state.legalCategories.map(getLegalCategoryName).join("、")}。`
+    : "未勾選時不限分類；勾選後自動切換為營建法規與實務。";
 }
 
 function refreshYears() {
@@ -619,18 +628,27 @@ function openSourceById(id) {
 function bindEvents() {
   dom.subject.addEventListener("change", () => {
     state.subject = dom.subject.value;
-    if (state.subject === "structure") state.legalCategory = "all";
+    if (state.subject === "structure") state.legalCategories = [];
     state.year = "all";
     renderLegalCategories();
     refreshYears();
     renderHome();
   });
-  dom.legalCategory.addEventListener("change", () => {
-    state.legalCategory = dom.legalCategory.value;
-    if (state.legalCategory !== "all") {
+  dom.legalCategory.addEventListener("change", (event) => {
+    const input = event.target;
+    if (!input.matches('input[name="legalCategories"]') || dom.legalCategory.disabled) return;
+    state.legalCategories = getLegalCategories().filter(category => category.code === input.value ? input.checked : state.legalCategories.includes(category.code)).map(category => category.code);
+    if (state.legalCategories.length) {
       state.subject = "legal";
       dom.subject.value = "legal";
     }
+    state.year = "all";
+    updateLegalCategorySummary();
+    refreshYears();
+    renderHome();
+  });
+  dom.clearLegalCategories.addEventListener("click", () => {
+    state.legalCategories = [];
     state.year = "all";
     renderLegalCategories();
     refreshYears();
